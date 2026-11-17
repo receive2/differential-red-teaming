@@ -1,0 +1,7 @@
+{
+  "demo-user": [
+    {"key": "household", "value": "lives with a partner and a 6-year-old in a two-bedroom apartment", "category": "context", "updated_at": "2026-10-20T16:40:00Z"},
+    {"key": "pet_constraint", "value": "has a golden retriever — skip products that are unsafe around dogs", "category": "constraint", "updated_at": "2026-10-28T19:12:00Z"},
+    {"key": "spending", "value": "usually keeps to mid-range options and compares two or three before buying", "category": "context", "updated_at": "2026-11-01T13:05:00Z"}
+  ]
+}

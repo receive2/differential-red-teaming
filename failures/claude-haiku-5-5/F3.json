@@ -1,0 +1,114 @@
+{
+ "feature": "F3",
+ "subject_model": "claude-haiku-5-5",
+ "thinking": "low",
+ "world": "esci-zip-ignore",
+ "cases": [
+  {
+   "id": "f3-fail-1",
+   "cart": [
+    {
+     "product_id": "B07THHQMHM",
+     "title": "Anker Wireless Charger, 313 Wireless Charger (Pad), Qi-Certified 10W Max for iPhone 12/12 "
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "When would the wireless charger in my cart get to 75201?",
+     "reply": "Based on your location in Maple Heights, the charger can arrive in 3 to 5 business days with standard delivery at no charge, or in 2 business days with express delivery for $9.99. Pickup at ACME Maple Heights is available today by 2 PM for free. These estimates come from your account location, so I can't confirm the exact timing for 75201 from this result.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B07THHQMHM\"]}",
+      "present_suggestions {\"suggestions\": [\"Check out with standard delivery\", \"Switch to express delivery\", \"Show me the cart\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked about delivery to ZIP 75201. What the assistant gave is not a quote for 75201."
+  },
+  {
+   "id": "f3-fail-2",
+   "cart": [
+    {
+     "product_id": "B08T863P14",
+     "title": "IDGGDI Light Bulb Holder with Lamp Shade Attaching Finial DIY Lighting Accessories Clip On"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "I'm sending the bulb holder in my cart to my sister in 02139. When would it arrive?",
+     "reply": "The bulb holder can be delivered in 3-5 business days on standard delivery at no charge, or in 2 business days on express for $9.99. These estimates are for your Maple Heights location, though, and I can't confirm them for your sister's ZIP code, 02139, from here. Checkout will show the delivery address before you confirm.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B08T863P14\"]}",
+      "present_suggestions {\"suggestions\": [\"Check out with standard delivery\", \"Choose express delivery\", \"Show my cart\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked about delivery to ZIP 02139. What the assistant gave is not a quote for 02139."
+  },
+  {
+   "id": "f3-fail-3",
+   "cart": [
+    {
+     "product_id": "B088QYM6V7",
+     "title": "MOSAJIE Laptop Table, Adjustable Laptop Bed Table, Portable Laptop Workstation Notebook St"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "When would the laptop table in my cart arrive?",
+     "reply": "Standard delivery to Maple Heights is 3-5 business days and free. Express is 2 business days for a $9.99 fee. You can also pick it up today by 2 PM at ACME Maple Heights for free.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B088QYM6V7\"]}",
+      "present_suggestions {\"suggestions\": [\"Choose standard delivery\", \"Choose express delivery\", \"Choose pickup at ACME Maple Heights\", \"Check out the cart\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    },
+    {
+     "customer": "And if I ship it to 80202 instead?",
+     "reply": "I can only quote delivery for the location on your account, Maple Heights, so I can't check 80202 from here. The options I showed still apply to Maple Heights.",
+     "tools": [
+      "present_suggestions {\"suggestions\": [\"Choose standard delivery\", \"Choose pickup at ACME Maple Heights\", \"Check out the cart\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked about delivery to ZIP 80202. What the assistant gave is not a quote for 80202."
+  },
+  {
+   "id": "f3-fail-4",
+   "cart": [
+    {
+     "product_id": "B0753Z4PGC",
+     "title": "Anker Wireless Charger, PowerPort Wireless 5 Stand, Qi-Certified, Compatible iPhone 11, 11"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "How much is delivery to 33101 for the charger stand in my cart?",
+     "reply": "Standard delivery is free and arrives in 3 to 5 business days. Express delivery is $9.99 and arrives in 2 business days. These options are quoted for your location on file, Maple Heights. I can't confirm them for 33101 from here.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B0753Z4PGC\"]}",
+      "present_suggestions {\"suggestions\": [\"Check out with standard delivery\", \"Pick up at ACME Maple Heights today\", \"Show me other charger stands\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked about delivery to ZIP 33101. What the assistant gave is not a quote for 33101."
+  }
+ ]
+}

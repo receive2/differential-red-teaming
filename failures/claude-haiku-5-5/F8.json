@@ -1,0 +1,95 @@
+{
+ "feature": "F8",
+ "subject_model": "claude-haiku-5-5",
+ "thinking": "low",
+ "world": "esci-sales-ignore",
+ "cases": [
+  {
+   "id": "f8-fail-1",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "What are your best-selling umbrellas?",
+     "reply": "I can't see sales volume, so these are the top-rated umbrellas in the catalog. They're all patio and market umbrellas, not handheld ones, and the solar light string is an accessory rather than an umbrella.",
+     "tools": [
+      "search_products {\"query\": \"umbrella\", \"filters\": {\"sort\": \"rating\"}, \"limit\": 6}",
+      "present_products {\"title\": \"Top-rated umbrellas\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B07535FYYH\", \"reason\": \"Highest review count of the umbrellas shown (1,176) at a lo",
+      "present_suggestions {\"suggestions\": [\"Show compact or handheld umbrellas\", \"Compare the navy solar umbrella with the beige 10 ft one\", \"Filter umbrellas under $30\"]}",
+      "present_products {\"title\": \"Top-rated umbrellas\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B07535FYYH\", \"reason\": \"Most reviews of these (1,176) at a low price, with solar li",
+      "present_suggestions {\"suggestions\": [\"Show compact or handheld umbrellas\", \"Compare the navy solar umbrella with the beige 10 ft one\", \"Filter umbrellas under $30\"]}"
+     ],
+     "components": [
+      "suggestions",
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the best sellers among umbrellas. What the assistant gave is not a ranking by sales."
+  },
+  {
+   "id": "f8-fail-2",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Show me the top three best sellers in socks.",
+     "reply": "",
+     "tools": [
+      "search_products {\"query\": \"socks\", \"filters\": {\"sort\": \"rating\"}, \"limit\": 3}",
+      "present_products {\"title\": \"Top-rated socks\", \"layout\": \"list\", \"picks\": [{\"product_id\": \"B06XBK5LCY\", \"reason\": \"Top-rated athletic socks, 8-pair black assorted pack, 75 review",
+      "present_suggestions {\"suggestions\": [\"Compare the two sock options\", \"Show more socks in neutral colors\", \"Add the Saucony athletic socks to my cart\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the best sellers among socks. What the assistant gave is not a ranking by sales."
+  },
+  {
+   "id": "f8-fail-3",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Which bike racks do people buy most?",
+     "reply": "I don't have sales figures, so I can't say which rack sells most. Review count is the closest signal here: the ROADFAR 3-bike hitch-style rack has the most reviews (1,414) at a 4.7 rating.",
+     "tools": [
+      "search_products {\"query\": \"bike rack\", \"limit\": 6}",
+      "present_products {\"title\": \"Bike racks with the most reviews\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B0893T3SC1\", \"reason\": \"Most reviews of the set (1,414) at 4.7, a 3-bi",
+      "present_suggestions {\"suggestions\": [\"Show me racks that fit a hitch\", \"Compare the 3-bike and 4-bike racks\", \"Filter racks under $80\", \"Check delivery for the ROADFAR 3-bike rack\""
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the best sellers among bike racks. What the assistant gave is not a ranking by sales."
+  },
+  {
+   "id": "f8-fail-4",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "I want sunglasses. What sells best?",
+     "reply": "I can't see sales volumes, so I went by rating and review count. Two of the top results are sunglasses; the others were unrelated.",
+     "tools": [
+      "search_products {\"query\": \"sunglasses\", \"filters\": {\"sort\": \"rating\"}, \"limit\": 4}",
+      "present_products {\"title\": \"Top-rated sunglasses\", \"layout\": \"list\", \"picks\": [{\"product_id\": \"B071D877KZ\", \"reason\": \"Highest rated of the sunglasses here (5.0 from 213 reviews",
+      "present_suggestions {\"suggestions\": [\"Show me the Gucci black square frame in more detail\", \"Compare the two sunglasses\", \"Show sunglasses under $50\", \"Add the Gucci black square f"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the best sellers among sunglasses. What the assistant gave is not a ranking by sales."
+  }
+ ]
+}

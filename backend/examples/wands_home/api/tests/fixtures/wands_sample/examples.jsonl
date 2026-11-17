@@ -1,0 +1,48 @@
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000001", "label": "Exact"}
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000002", "label": "Exact"}
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000003", "label": "Partial"}
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000004", "label": "Partial"}
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000005", "label": "Irrelevant"}
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000006", "label": "Partial"}
+{"query_id": 1, "query": "l shaped desk", "product_id": "B0WF000003", "label": "Exact"}
+{"query_id": 2, "query": "mid century accent chair", "product_id": "B0WF000007", "label": "Exact"}
+{"query_id": 2, "query": "mid century accent chair", "product_id": "B0WF000008", "label": "Exact"}
+{"query_id": 2, "query": "mid century accent chair", "product_id": "B0WF000009", "label": "Partial"}
+{"query_id": 2, "query": "mid century accent chair", "product_id": "B0WF000010", "label": "Partial"}
+{"query_id": 2, "query": "mid century accent chair", "product_id": "B0WF000011", "label": "Irrelevant"}
+{"query_id": 2, "query": "mid century accent chair", "product_id": "B0WF000012", "label": "Partial"}
+{"query_id": 3, "query": "blue area rug", "product_id": "B0WF000013", "label": "Exact"}
+{"query_id": 3, "query": "blue area rug", "product_id": "B0WF000014", "label": "Exact"}
+{"query_id": 3, "query": "blue area rug", "product_id": "B0WF000015", "label": "Partial"}
+{"query_id": 3, "query": "blue area rug", "product_id": "B0WF000016", "label": "Partial"}
+{"query_id": 3, "query": "blue area rug", "product_id": "B0WF000017", "label": "Irrelevant"}
+{"query_id": 3, "query": "blue area rug", "product_id": "B0WF000018", "label": "Irrelevant"}
+{"query_id": 4, "query": "sectional sofa with chaise", "product_id": "B0WF000019", "label": "Exact"}
+{"query_id": 4, "query": "sectional sofa with chaise", "product_id": "B0WF000020", "label": "Exact"}
+{"query_id": 4, "query": "sectional sofa with chaise", "product_id": "B0WF000021", "label": "Partial"}
+{"query_id": 4, "query": "sectional sofa with chaise", "product_id": "B0WF000022", "label": "Partial"}
+{"query_id": 4, "query": "sectional sofa with chaise", "product_id": "B0WF000023", "label": "Irrelevant"}
+{"query_id": 4, "query": "sectional sofa with chaise", "product_id": "B0WF000024", "label": "Irrelevant"}
+{"query_id": 5, "query": "led desk lamp", "product_id": "B0WF000025", "label": "Exact"}
+{"query_id": 5, "query": "led desk lamp", "product_id": "B0WF000026", "label": "Exact"}
+{"query_id": 5, "query": "led desk lamp", "product_id": "B0WF000027", "label": "Partial"}
+{"query_id": 5, "query": "led desk lamp", "product_id": "B0WF000028", "label": "Partial"}
+{"query_id": 5, "query": "led desk lamp", "product_id": "B0WF000029", "label": "Irrelevant"}
+{"query_id": 5, "query": "led desk lamp", "product_id": "B0WF000017", "label": "Partial"}
+{"query_id": 6, "query": "outdoor dining set", "product_id": "B0WF000030", "label": "Exact"}
+{"query_id": 6, "query": "outdoor dining set", "product_id": "B0WF000031", "label": "Exact"}
+{"query_id": 6, "query": "outdoor dining set", "product_id": "B0WF000032", "label": "Partial"}
+{"query_id": 6, "query": "outdoor dining set", "product_id": "B0WF000033", "label": "Partial"}
+{"query_id": 6, "query": "outdoor dining set", "product_id": "B0WF000034", "label": "Irrelevant"}
+{"query_id": 6, "query": "outdoor dining set", "product_id": "B0WF000099", "label": "Irrelevant"}
+{"query_id": 7, "query": "pistol holster right hand", "product_id": "B0WF000023", "label": "Exact"}
+{"query_id": 7, "query": "pistol holster right hand", "product_id": "B0WF000022", "label": "Partial"}
+{"query_id": 7, "query": "pistol holster right hand", "product_id": "B0WF000024", "label": "Irrelevant"}
+{"query_id": 8, "query": "champu para perros blancos", "product_id": "B0WF000033", "label": "Exact"}
+{"query_id": 8, "query": "champu para perros blancos", "product_id": "B0WF000016", "label": "Irrelevant"}
+{"query_id": 8, "query": "champu para perros blancos", "product_id": "B0WF000018", "label": "Irrelevant"}
+{"query_id": 9, "query": "wine rack", "product_id": "B0WF000038", "label": "Exact"}
+{"query_id": 9, "query": "wine rack", "product_id": "B0WF000005", "label": "Irrelevant"}
+{"query_id": 10, "query": "electric kettle", "product_id": "B0WF000035", "label": "Exact"}
+{"query_id": 10, "query": "electric kettle", "product_id": "B0WF000036", "label": "Partial"}
+{"query_id": 10, "query": "electric kettle", "product_id": "B0WF000037", "label": "Irrelevant"}

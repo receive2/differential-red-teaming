@@ -1,0 +1,930 @@
+{
+ "runs": {
+  "finished": 1264,
+  "compare": 272,
+  "redteam": 144,
+  "labelled": 1264
+ },
+ "comparisons": 1686,
+ "releases": {
+  "compare": 452,
+  "redteam": 169
+ },
+ "as_run": {
+  "threshold": 2,
+  "vote": "half",
+  "min_showing": 1,
+  "before_max": 2,
+  "share": 0.2,
+  "min_asks": 6
+ },
+ "consistency": {
+  "comparisons_mismatched": [],
+  "releases_mismatched": []
+ },
+ "comparison_rule": [
+  {
+   "threshold": 1,
+   "vote": "half",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 499,
+   "standing_by_kind": {
+    "ign": 281,
+    "non": 137,
+    "cap": 81
+   },
+   "releases_rejected": 258,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 0
+  },
+  {
+   "threshold": 1,
+   "vote": "half",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 391,
+   "standing_by_kind": {
+    "ign": 268,
+    "non": 94,
+    "cap": 29
+   },
+   "releases_rejected": 213,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 45
+  },
+  {
+   "threshold": 1,
+   "vote": "all",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 301,
+   "standing_by_kind": {
+    "ign": 157,
+    "non": 76,
+    "cap": 68
+   },
+   "releases_rejected": 226,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 32
+  },
+  {
+   "threshold": 1,
+   "vote": "all",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 193,
+   "standing_by_kind": {
+    "ign": 144,
+    "non": 33,
+    "cap": 16
+   },
+   "releases_rejected": 173,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 85
+  },
+  {
+   "threshold": 1,
+   "vote": "any",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 551,
+   "standing_by_kind": {
+    "ign": 328,
+    "non": 141,
+    "cap": 82
+   },
+   "releases_rejected": 269,
+   "deliveries_held_back": 11,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 0,
+    "honest": 9,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/ign": 8,
+    "honest/non": 1
+   },
+   "rejections_let_through": 0
+  },
+  {
+   "threshold": 1,
+   "vote": "any",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 443,
+   "standing_by_kind": {
+    "ign": 315,
+    "non": 98,
+    "cap": 30
+   },
+   "releases_rejected": 225,
+   "deliveries_held_back": 11,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 0,
+    "honest": 9,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/ign": 8,
+    "honest/non": 1
+   },
+   "rejections_let_through": 44
+  },
+  {
+   "threshold": 2,
+   "vote": "half",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": true,
+   "comparisons_standing": 499,
+   "standing_by_kind": {
+    "ign": 281,
+    "non": 137,
+    "cap": 81
+   },
+   "releases_rejected": 258,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 0
+  },
+  {
+   "threshold": 2,
+   "vote": "half",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 391,
+   "standing_by_kind": {
+    "ign": 268,
+    "non": 94,
+    "cap": 29
+   },
+   "releases_rejected": 213,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 45
+  },
+  {
+   "threshold": 2,
+   "vote": "all",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 302,
+   "standing_by_kind": {
+    "ign": 158,
+    "non": 76,
+    "cap": 68
+   },
+   "releases_rejected": 226,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 32
+  },
+  {
+   "threshold": 2,
+   "vote": "all",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 194,
+   "standing_by_kind": {
+    "ign": 145,
+    "non": 33,
+    "cap": 16
+   },
+   "releases_rejected": 173,
+   "deliveries_held_back": 0,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {},
+   "rejections_let_through": 85
+  },
+  {
+   "threshold": 2,
+   "vote": "any",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 551,
+   "standing_by_kind": {
+    "ign": 328,
+    "non": 141,
+    "cap": 82
+   },
+   "releases_rejected": 269,
+   "deliveries_held_back": 11,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 0,
+    "honest": 9,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/ign": 8,
+    "honest/non": 1
+   },
+   "rejections_let_through": 0
+  },
+  {
+   "threshold": 2,
+   "vote": "any",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 443,
+   "standing_by_kind": {
+    "ign": 315,
+    "non": 98,
+    "cap": 30
+   },
+   "releases_rejected": 225,
+   "deliveries_held_back": 11,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 0,
+    "honest": 9,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/ign": 8,
+    "honest/non": 1
+   },
+   "rejections_let_through": 44
+  },
+  {
+   "threshold": 3,
+   "vote": "half",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 535,
+   "standing_by_kind": {
+    "ign": 290,
+    "non": 142,
+    "cap": 103
+   },
+   "releases_rejected": 273,
+   "deliveries_held_back": 15,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 10,
+    "honest": 1,
+    "other": 2,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/cap": 1,
+    "other/cap": 2,
+    "real/cap": 10
+   },
+   "rejections_let_through": 0
+  },
+  {
+   "threshold": 3,
+   "vote": "half",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 410,
+   "standing_by_kind": {
+    "ign": 276,
+    "non": 95,
+    "cap": 39
+   },
+   "releases_rejected": 224,
+   "deliveries_held_back": 8,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 4,
+    "honest": 1,
+    "other": 1,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/cap": 1,
+    "other/cap": 1,
+    "real/cap": 4
+   },
+   "rejections_let_through": 42
+  },
+  {
+   "threshold": 3,
+   "vote": "all",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 335,
+   "standing_by_kind": {
+    "ign": 167,
+    "non": 82,
+    "cap": 86
+   },
+   "releases_rejected": 238,
+   "deliveries_held_back": 11,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 9,
+    "honest": 1,
+    "other": 1,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "honest/cap": 1,
+    "other/cap": 1,
+    "real/cap": 9
+   },
+   "rejections_let_through": 31
+  },
+  {
+   "threshold": 3,
+   "vote": "all",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 210,
+   "standing_by_kind": {
+    "ign": 153,
+    "non": 35,
+    "cap": 22
+   },
+   "releases_rejected": 178,
+   "deliveries_held_back": 4,
+   "held_back_by_label": {
+    "facade": 0,
+    "real": 3,
+    "honest": 1,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "honest/cap": 1,
+    "real/cap": 3
+   },
+   "rejections_let_through": 84
+  },
+  {
+   "threshold": 3,
+   "vote": "any",
+   "min_showing": 1,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 588,
+   "standing_by_kind": {
+    "ign": 337,
+    "non": 147,
+    "cap": 104
+   },
+   "releases_rejected": 284,
+   "deliveries_held_back": 26,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 10,
+    "honest": 11,
+    "other": 3,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/cap": 1,
+    "honest/ign": 9,
+    "honest/non": 1,
+    "other/cap": 2,
+    "other/ign": 1,
+    "real/cap": 10
+   },
+   "rejections_let_through": 0
+  },
+  {
+   "threshold": 3,
+   "vote": "any",
+   "min_showing": 2,
+   "before_max": 2,
+   "as_run": false,
+   "comparisons_standing": 463,
+   "standing_by_kind": {
+    "ign": 323,
+    "non": 100,
+    "cap": 40
+   },
+   "releases_rejected": 236,
+   "deliveries_held_back": 19,
+   "held_back_by_label": {
+    "facade": 2,
+    "real": 4,
+    "honest": 11,
+    "other": 2,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 2,
+    "honest/cap": 1,
+    "honest/ign": 9,
+    "honest/non": 1,
+    "other/cap": 1,
+    "other/ign": 1,
+    "real/cap": 4
+   },
+   "rejections_let_through": 41
+  },
+  {
+   "threshold": 2,
+   "vote": "half",
+   "min_showing": 1,
+   "before_max": 3,
+   "as_run": false,
+   "comparisons_standing": 496,
+   "standing_by_kind": {
+    "ign": 282,
+    "non": 135,
+    "cap": 79
+   },
+   "releases_rejected": 258,
+   "deliveries_held_back": 1,
+   "held_back_by_label": {
+    "facade": 1,
+    "real": 0,
+    "honest": 0,
+    "other": 0,
+    "declined": 0
+   },
+   "held_back_by_label_and_kind": {
+    "facade/ign": 1
+   },
+   "rejections_let_through": 1
+  }
+ ],
+ "findings_rule": [
+  {
+   "share": 0.1,
+   "min_asks": 1,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 74,
+    "releases": 169,
+    "deliveries_held_back": 18,
+    "held_back_by_label": {
+     "facade": 3,
+     "real": 8,
+     "honest": 6,
+     "other": 1,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   },
+   "compare": {
+    "releases_rejected": 292,
+    "releases": 452,
+    "deliveries_held_back": 34,
+    "held_back_by_label": {
+     "facade": 2,
+     "real": 18,
+     "honest": 12,
+     "other": 2,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   }
+  },
+  {
+   "share": 0.1,
+   "min_asks": 6,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 74,
+    "releases": 169,
+    "deliveries_held_back": 18,
+    "held_back_by_label": {
+     "facade": 3,
+     "real": 8,
+     "honest": 6,
+     "other": 1,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   },
+   "compare": {
+    "releases_rejected": 292,
+    "releases": 452,
+    "deliveries_held_back": 34,
+    "held_back_by_label": {
+     "facade": 2,
+     "real": 18,
+     "honest": 12,
+     "other": 2,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   }
+  },
+  {
+   "share": 0.1,
+   "min_asks": 12,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 69,
+    "releases": 169,
+    "deliveries_held_back": 13,
+    "held_back_by_label": {
+     "facade": 2,
+     "real": 6,
+     "honest": 4,
+     "other": 1,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   },
+   "compare": {
+    "releases_rejected": 288,
+    "releases": 452,
+    "deliveries_held_back": 30,
+    "held_back_by_label": {
+     "facade": 2,
+     "real": 17,
+     "honest": 10,
+     "other": 1,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   }
+  },
+  {
+   "share": 0.2,
+   "min_asks": 1,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 56,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   },
+   "compare": {
+    "releases_rejected": 258,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   }
+  },
+  {
+   "share": 0.2,
+   "min_asks": 6,
+   "as_run": true,
+   "redteam": {
+    "releases_rejected": 56,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   },
+   "compare": {
+    "releases_rejected": 258,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 0
+   }
+  },
+  {
+   "share": 0.2,
+   "min_asks": 12,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 52,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 4
+   },
+   "compare": {
+    "releases_rejected": 257,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 1
+   }
+  },
+  {
+   "share": 0.3,
+   "min_asks": 1,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 49,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 7
+   },
+   "compare": {
+    "releases_rejected": 249,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 9
+   }
+  },
+  {
+   "share": 0.3,
+   "min_asks": 6,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 49,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 7
+   },
+   "compare": {
+    "releases_rejected": 249,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 9
+   }
+  },
+  {
+   "share": 0.3,
+   "min_asks": 12,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 44,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 12
+   },
+   "compare": {
+    "releases_rejected": 244,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 14
+   }
+  },
+  {
+   "share": 0.5,
+   "min_asks": 1,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 32,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 24
+   },
+   "compare": {
+    "releases_rejected": 235,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 23
+   }
+  },
+  {
+   "share": 0.5,
+   "min_asks": 6,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 32,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 24
+   },
+   "compare": {
+    "releases_rejected": 233,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 25
+   }
+  },
+  {
+   "share": 0.5,
+   "min_asks": 12,
+   "as_run": false,
+   "redteam": {
+    "releases_rejected": 15,
+    "releases": 169,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 41
+   },
+   "compare": {
+    "releases_rejected": 225,
+    "releases": 452,
+    "deliveries_held_back": 0,
+    "held_back_by_label": {
+     "facade": 0,
+     "real": 0,
+     "honest": 0,
+     "other": 0,
+     "declined": 0
+    },
+    "rejections_let_through": 33
+   }
+  }
+ ],
+ "scores": {
+  "after_by_rule": {
+   "first rule": {
+    "1": 743,
+    "2": 1,
+    "3": 61,
+    "4": 2,
+    "5": 499
+   },
+   "second rule": {
+    "1": 328,
+    "3": 27,
+    "4": 2,
+    "5": 807
+   }
+  },
+  "before_second_rule": {
+   "3": 60,
+   "5": 936
+  },
+  "second_rule_conversations_not_rescorable": 0
+ }
+}

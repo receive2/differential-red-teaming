@@ -1,0 +1,93 @@
+{
+ "feature": "F9",
+ "subject_model": "claude-haiku-5-5",
+ "thinking": "low",
+ "world": "esci",
+ "cases": [
+  {
+   "id": "f9-fail-1",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Which umbrellas are on sale right now?",
+     "reply": "I couldn't find any sale pricing in the catalog. The results don't flag anything as on sale, and I searched for handheld rain umbrellas too, but the store doesn't appear to carry them right now. What came back are outdoor patio and market umbrellas, which may not suit an apartment with no outdoor storage. The lowest-priced ones are the California Umbrella 9' market umbrella at $5.99 and the FiberBuilt terrace umbrella at $7.99.",
+     "tools": [
+      "search_products {\"query\": \"umbrellas on sale\", \"filters\": {\"sort\": \"price_asc\"}}",
+      "search_products {\"query\": \"compact rain umbrella\"}",
+      "present_suggestions {\"suggestions\": [\"Show me the patio umbrellas sorted by rating\", \"Search for a folding travel umbrella\", \"Show me the cheapest patio umbrellas\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked which umbrellas are on sale. The assistant did not show which are on sale."
+  },
+  {
+   "id": "f9-fail-2",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Show me the socks you have on sale.",
+     "reply": "",
+     "tools": [
+      "search_products {\"query\": \"socks on sale\", \"filters\": {\"sort\": \"price_asc\"}}",
+      "search_products {\"query\": \"socks\", \"filters\": {\"sort\": \"price_asc\"}}",
+      "present_products {\"title\": \"Socks in the catalog\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B07QLHYCDW\", \"reason\": \"Grey solid knee-high pairs, a neutral minimal look at $5.9",
+      "present_suggestions {\"suggestions\": [\"Add the grey knee-high socks to my cart\", \"Compare the compression sock options\", \"Show me socks for my 6-year-old\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked which socks are on sale. The assistant did not show which are on sale."
+  },
+  {
+   "id": "f9-fail-3",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Do you have any sunglasses on sale?",
+     "reply": "I couldn't find a sale flag on any sunglasses in the catalog, so I can't confirm which, if any, are discounted. Here are the sunglasses that came back, with the minimal, neutral style you prefer first.",
+     "tools": [
+      "search_products {\"query\": \"sunglasses on sale\", \"filters\": {\"sort\": \"price_asc\"}, \"limit\": 6}",
+      "search_products {\"query\": \"sunglasses UV protection\", \"limit\": 8}",
+      "present_products {\"layout\": \"grid\", \"title\": \"Sunglasses in stock\", \"picks\": [{\"product_id\": \"B07CH2Y8CZ\", \"reason\": \"Minimalist clear-and-silver rectangle frame in a neutral pa",
+      "present_suggestions {\"suggestions\": [\"Show me the details for the minimalist silver and blue pair\", \"Compare the Gucci pairs side by side\", \"Search for polarized sunglasses\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked which sunglasses are on sale. The assistant did not show which are on sale."
+  },
+  {
+   "id": "f9-fail-4",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Are any keyboards marked down at the moment?",
+     "reply": "I can't confirm any markdowns. The results show current prices but no original prices or sale flags, so I can't tell which keyboards are discounted. Two in-stock keyboards from this search are below.",
+     "tools": [
+      "search_products {\"query\": \"keyboard on sale discounted\", \"limit\": 8}",
+      "present_products {\"title\": \"In-stock keyboards from this search\", \"layout\": \"list\", \"picks\": [{\"product_id\": \"B00JG01QTY\", \"reason\": \"Lowest-priced full-size mechanical keyboard",
+      "present_suggestions {\"suggestions\": [\"Show more keyboards sorted by price\", \"Compare the two keyboards\", \"Search for a wireless keyboard\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked which keyboards are on sale. The assistant did not show which are on sale."
+  }
+ ]
+}

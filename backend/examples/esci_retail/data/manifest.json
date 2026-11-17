@@ -1,0 +1,72 @@
+{
+ "built_on": "2026-11-06T07:51:17+00:00",
+ "seed": 20261106,
+ "orders_anchored_to": "2026-11-06",
+ "selection": {
+  "params": {
+   "locale": "us",
+   "version": "small",
+   "n_queries": 300,
+   "seed": 20261106,
+   "min_exact": 2,
+   "min_irrelevant": 1,
+   "min_judged": 8,
+   "max_judged": 40
+  },
+  "eligible_queries": 14759,
+  "counts": {
+   "queries": 296,
+   "judgments": 6219,
+   "products": 6191,
+   "labels": {
+    "E": 2783,
+    "S": 1555,
+    "C": 169,
+    "I": 1712
+   }
+  },
+  "excluded": {
+   "product_excluded_content": 68,
+   "product_non_ascii": 2,
+   "product_non_english": 8,
+   "query_excluded_content": 227,
+   "query_non_ascii": 12,
+   "query_non_english": 56,
+   "query_thresholds": 14790,
+   "query_thresholds_after_products": 4
+  }
+ },
+ "sources": {
+  "shopping_queries_dataset_examples.parquet": "4a735b693b4a424a6fc67f5be6e4c811495c488bbf66d02a602d308b2744263a",
+  "shopping_queries_dataset_products.parquet": "25124442d064d64b26f74082d6fa09438d679efc0c183cf28d19064a2b65a265"
+ },
+ "counts": {
+  "products": 6191,
+  "in_stock": 5690,
+  "queries": 296,
+  "judgments": 6219,
+  "categories": {
+   "arts-crafts-party": 409,
+   "automotive": 199,
+   "baby": 153,
+   "bags-luggage": 71,
+   "beauty-personal-care": 267,
+   "books-media": 179,
+   "clothing-shoes": 948,
+   "electronics": 548,
+   "furniture": 90,
+   "garden-outdoor": 212,
+   "general-merchandise": 884,
+   "grocery": 305,
+   "health-household": 222,
+   "home-kitchen": 582,
+   "jewelry-watches": 131,
+   "musical-instruments": 23,
+   "office-school": 130,
+   "pet-supplies": 94,
+   "sports-outdoors": 302,
+   "tools-home-improvement": 175,
+   "toys-games": 267
+  }
+ }
+}

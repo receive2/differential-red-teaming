@@ -1,0 +1,80 @@
+{
+ "seed": 20261114,
+ "orders_anchored_to": "2026-11-16",
+ "selection": {
+  "params": {
+   "n_queries": 50,
+   "seed": 20261114,
+   "min_exact": 2,
+   "min_irrelevant": 1,
+   "min_judged": 8,
+   "max_judged": 300
+  },
+  "eligible_queries": 176,
+  "counts": {
+   "queries": 50,
+   "judgments": 8416,
+   "products": 7625,
+   "labels": {
+    "Exact": 2639,
+    "Partial": 4514,
+    "Irrelevant": 1263
+   }
+  },
+  "excluded": {
+   "judgment_repeated": 1575,
+   "query_thresholds": 304
+  }
+ },
+ "sources": {
+  "product.csv": "d993926254572e6eba96c8fd87cc549a17fb91ad3748308036eee4cf92b10ac6",
+  "query.csv": "63b61660560fecc33ec490804c7e2b81402ee3e7c31a9cbb5e03736639f68e95",
+  "label.csv": "c11fe81ad62f17f56f316b0ec9630ebe8fbe1393578cb0ca4f05c17253a180ef"
+ },
+ "counts": {
+  "products": 7625,
+  "in_stock": 7005,
+  "queries": 50,
+  "judgments": 8416,
+  "categories": 439,
+  "with_width": 4764,
+  "with_weight": 6943,
+  "freight": 2185,
+  "departments": {
+   "appliances": 138,
+   "baby-kids": 123,
+   "bed-accessories": 6,
+   "bed-bath": 400,
+   "browse-by-brand": 6,
+   "buffet-accessories": 1,
+   "commercial-business-furniture": 31,
+   "contractor": 15,
+   "decor-pillows": 785,
+   "early-education": 1,
+   "ergonomic-accessories": 1,
+   "foodservice": 2,
+   "fountains": 2,
+   "furniture": 2760,
+   "holiday-decor": 45,
+   "home-goods": 355,
+   "home-improvement": 680,
+   "kitchen-tabletop": 480,
+   "landscaping-screens-bridges": 1,
+   "lighting": 518,
+   "novelty-lighting": 1,
+   "outdoor": 630,
+   "pet": 4,
+   "protection-plans": 7,
+   "reception-area": 3,
+   "rugs": 113,
+   "sale": 18,
+   "sandboxes-sand-toys": 1,
+   "school-furniture-and-supplies": 120,
+   "shop-product-type": 14,
+   "slicers-peelers-and-graters": 1,
+   "slow-cookers": 1,
+   "storage-organization": 362
+  }
+ },
+ "records_sha256": "fc1430c3d593e0b6d3ac5400a581279dfe76ba04756de0bb158b1c708829cb71"
+}

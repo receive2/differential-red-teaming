@@ -1,0 +1,82 @@
+{
+  "policies": [
+    {
+      "policy_id": "returns",
+      "title": "Returns & refunds",
+      "category": "returns",
+      "content": "Most items can be returned within 30 days of delivery in original condition for a full refund to the original payment method. Opened electronics can be returned within 15 days. Mattresses, bedding, and personal-care items must be unopened. Refunds post within 5 business days of the return arriving at our warehouse. ACME Subscription members get free return pickup; otherwise drop off at any ACME location or use the prepaid label in your order page. Oversized items carry a return shipping fee of 10% of the item price, minimum $15, deducted from the refund."
+    },
+    {
+      "policy_id": "shipping",
+      "title": "Shipping options & timelines",
+      "category": "shipping",
+      "content": "Standard shipping is $5.99, free over $49, and arrives in 3-5 business days. Express arrives in 2 business days and is free for ACME Subscription members on orders over $49, otherwise $9.99. Same-day delivery is available on eligible items in select areas when ordered before 2pm. Oversized items ship freight and include a scheduled delivery window."
+    },
+    {
+      "policy_id": "price-match",
+      "title": "Price match promise",
+      "category": "pricing",
+      "content": "If you find an identical, in-stock item at a lower price from a major retailer within 14 days of purchase, we will match it and refund the difference. Marketplace sellers, clearance, and doorbuster prices are excluded. Contact support with a link to the competing listing."
+    },
+    {
+      "policy_id": "warranty",
+      "title": "Warranties & protection plans",
+      "category": "warranty",
+      "content": "Manufacturer warranties apply to most products; the duration is listed on the product page under specs. ACME Protect plans extend coverage to 3 years and cover accidental damage on electronics. Claims are handled in-app and most replacements ship within 2 business days of approval."
+    },
+    {
+      "policy_id": "membership",
+      "title": "ACME Subscription membership",
+      "category": "membership",
+      "content": "ACME Subscription costs $79/year and includes free express shipping over $49, free return pickup, early access to seasonal sales, and 2% back in store credit. You can cancel anytime and we will prorate the unused portion. There is a 14-day free trial for new members."
+    },
+    {
+      "policy_id": "gift-cards",
+      "title": "Gift cards",
+      "category": "payments",
+      "content": "Digital gift cards are delivered by email within minutes and never expire. Physical gift cards ship free. Gift cards cannot be redeemed for cash except where required by law, and cannot be used to buy other gift cards. Check your balance any time in the app under Payments."
+    },
+    {
+      "policy_id": "order-changes",
+      "title": "Changing or cancelling an order",
+      "category": "orders",
+      "content": "Orders can be modified or cancelled within 30 minutes of being placed from the order page. After that, items that have not entered the packing process can still be cancelled — contact support. Once an order has shipped, use the return process instead. Address changes after shipping are handled by the carrier and are not guaranteed."
+    },
+    {
+      "policy_id": "damaged-items",
+      "title": "Damaged or missing items",
+      "category": "returns",
+      "content": "If an item arrives damaged or an order is missing items, report it within 7 days from the order page with a photo. We will send a replacement or refund the affected items — no need to return the damaged product unless we send a pickup label. Porch theft claims are reviewed case by case after the carrier confirms delivery."
+    },
+    {
+      "policy_id": "guide-bike-racks",
+      "title": "Buying guide: bike racks without a hitch",
+      "category": "guide",
+      "content": "Three things decide a rack when the vehicle has no hitch receiver. Mount type: a trunk rack straps to the hatch and fits most sedans and SUVs, a roof rack needs crossbars and lifting the bike overhead, and a spare-tire rack fits only vehicles with an external spare. Capacity: count the bikes and check the per-bike weight limit; e-bikes and fat-tire bikes exceed most trunk racks. Frame contact: cradles that hold the frame can scratch carbon or oddly shaped frames, so look for wheel-mount or padded arms. Security is last: integrated cable locks matter if the rack stays on the car. ACME carries trunk and roof racks for two or four bikes."
+    },
+    {
+      "policy_id": "guide-portable-ac",
+      "title": "Buying guide: portable air conditioners",
+      "category": "guide",
+      "content": "Start with the room: a unit's BTU rating should match the square footage on the box, and oversizing a small room cools it before the air dries. Venting: every true portable air conditioner exhausts hot air through a window kit; a unit that needs no window vent is an evaporative cooler, which lowers temperature only a few degrees and adds humidity. Drainage: self-evaporating units rarely need emptying, while others need a hose or a tank. Noise is quoted in decibels; under 52 dB suits a bedroom. Finally check the window kit fits your window type."
+    },
+    {
+      "policy_id": "guide-wireless-chargers",
+      "title": "Buying guide: wireless chargers",
+      "category": "guide",
+      "content": "Four criteria cover most choices. Standard: Qi charges every current phone brand; a phone-specific magnetic pad adds alignment but only for that brand. Wattage: a pad charges at the lower of its rating and the phone's limit, so a 15 W pad is pointless for a 7.5 W phone. Form: a flat pad lets the phone lie down, a stand keeps the screen visible, and a multi-device pad also takes earbuds or a watch. Power supply: many pads ship without the wall adapter and charge slowly on an old one. Cases over 5 mm thick, and cases with metal or cards, block charging."
+    },
+    {
+      "policy_id": "guide-patio-umbrellas",
+      "title": "Buying guide: patio umbrellas",
+      "category": "guide",
+      "content": "Size first: the canopy should extend two feet past the table on each side, so a 48-inch table takes a 9-foot umbrella and a larger table an 11-foot one. Type: a market umbrella sits in the table's hole and needs a base of 30 to 50 pounds; a cantilever hangs from the side and needs a heavier base, 100 pounds or more. Tilt and crank: a crank opens a large canopy easily and a tilt follows the sun. Fabric: solution-dyed fabric keeps its color for years; cheaper polyester fades in one season. Bases are sold separately unless the listing says otherwise."
+    },
+    {
+      "policy_id": "guide-flashlights",
+      "title": "Buying guide: flashlights",
+      "category": "guide",
+      "content": "Brightness is quoted in lumens: 100 to 300 covers a house or a campsite, 1,000 and up is for search or security. Beam: a flood beam lights a wide area close up, a throw beam reaches far; adjustable heads do both. Power: rechargeable lights save money if used often, while replaceable batteries suit a glovebox or an emergency kit that sits for months. Durability: an IPX7 rating survives a dunk, and an impact rating in meters covers drops. A magnetic base or a clip is worth it when you need both hands."
+    }
+  ]
+}

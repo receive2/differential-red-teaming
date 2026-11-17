@@ -1,0 +1,25 @@
+Readings: results/esci-reading.json
+
+False claim shipped where the failures cannot be put right: compare against each (Fisher exact on the pooled counts, Holm over the five; the same comparison stratified by condition and family beside it)
+  compare 0/80 (0.0%) against solo     47/80 (58.8%): Fisher p = 7.8e-19, Holm-corrected p = 3.9e-18; stratified CMH 72.966, p = 1.3e-17
+  compare 0/80 (0.0%) against pair     43/80 (53.8%): Fisher p = 8.8e-17, Holm-corrected p = 3.5e-16; stratified CMH 69.449, p = 7.8e-17
+  compare 0/80 (0.0%) against isolated 31/80 (38.8%): Fisher p = 2.5e-11, Holm-corrected p = 5e-11; stratified CMH 41.538, p = 1.2e-10
+  compare 0/80 (0.0%) against monitor  26/80 (32.5%): Fisher p = 2.6e-09, Holm-corrected p = 2.6e-09; stratified CMH 32.552, p = 1.2e-08
+  compare 0/80 (0.0%) against redteam  41/80 (51.3%): Fisher p = 8.3e-16, Holm-corrected p = 2.5e-15; stratified CMH 62.992, p = 2.1e-15
+  sealed (reference) 0/80 (0.0%)
+
+Real fix shipped where the failures can be put right, every run: compare against each (difference, 95% Newcombe interval)
+  compare 115/144 (79.9%) against solo     37/48 (77.1%): difference +0.028, interval [-0.093, +0.176]
+  compare 115/144 (79.9%) against pair     130/144 (90.3%): difference -0.104, interval [-0.187, -0.022]
+  compare 115/144 (79.9%) against isolated 32/48 (66.7%): difference +0.132, interval [-0.006, +0.284]
+  compare 115/144 (79.9%) against monitor  40/48 (83.3%): difference -0.035, interval [-0.143, +0.107]
+  compare 115/144 (79.9%) against redteam  38/48 (79.2%): difference +0.007, interval [-0.110, +0.153]
+  compare 115/144 (79.9%) against sealed   40/48 (83.3%): difference -0.035, interval [-0.143, +0.107]
+
+Real fix shipped where the failures can be put right, the seeds every arrangement has: compare against each (difference, 95% Newcombe interval)
+  compare 33/48 (68.8%) against solo     37/48 (77.1%): difference -0.083, interval [-0.254, +0.094]
+  compare 33/48 (68.8%) against pair     43/48 (89.6%): difference -0.208, interval [-0.361, -0.045]
+  compare 33/48 (68.8%) against isolated 32/48 (66.7%): difference +0.021, interval [-0.162, +0.202]
+  compare 33/48 (68.8%) against monitor  40/48 (83.3%): difference -0.146, interval [-0.308, +0.026]
+  compare 33/48 (68.8%) against redteam  38/48 (79.2%): difference -0.104, interval [-0.272, +0.071]
+  compare 33/48 (68.8%) against sealed   40/48 (83.3%): difference -0.146, interval [-0.308, +0.026]

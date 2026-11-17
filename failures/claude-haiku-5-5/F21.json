@@ -1,0 +1,105 @@
+{
+ "feature": "F21",
+ "subject_model": "claude-haiku-5-5",
+ "thinking": "low",
+ "world": "wands-fit-ignore",
+ "cases": [
+  {
+   "id": "f21-fail-1",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "I need a nightstand no wider than 16 inches. What do you have?",
+     "reply": "I couldn't confirm width for any of these, since the product records don't list dimensions. Here are the nightstands in stock that fit your minimal, neutral taste, so you can check the widths on the product pages before buying.",
+     "tools": [
+      "search_products {\"query\": \"nightstand\", \"filters\": {\"max_price\": null}}",
+      "get_product_details {\"product_id\": \"B0WF016646\"}",
+      "get_product_details {\"product_id\": \"B0WF005008\"}",
+      "get_product_details {\"product_id\": \"B0WF005007\"}",
+      "get_product_details {\"product_id\": \"B0WF005005\"}",
+      "present_products {\"title\": \"Nightstands in stock (width not listed)\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B0WF016646\", \"reason\": \"White modern finish with LED light, fit",
+      "present_suggestions {\"suggestions\": [\"Check the width on a specific nightstand\", \"Show only white or gray nightstands\", \"Show nightstands under $200\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for nightstands no wider than 16 inches. What the assistant gave is not a selection by width."
+  },
+  {
+   "id": "f21-fail-2",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Show me storage benches that are 40 inches wide or less.",
+     "reply": "",
+     "tools": [
+      "search_products {\"query\": \"storage bench 40 inches wide or less, minimal neutral\", \"filters\": {\"category\": \"storage benches\"}, \"limit\": 8}",
+      "get_product_details {\"product_id\": \"B0WF012221\"}",
+      "get_product_details {\"product_id\": \"B0WF008412\"}",
+      "get_product_details {\"product_id\": \"B0WF031658\"}",
+      "get_product_details {\"product_id\": \"B0WF019682\"}",
+      "get_product_details {\"product_id\": \"B0WF007143\"}",
+      "present_products {\"title\": \"Shoe storage benches, width not listed\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B0WF008412\", \"reason\": \"Described as compact and not too wide, i",
+      "present_suggestions {\"suggestions\": [\"Show the Entryway Shoe Storage Bench details\", \"Search for benches in white or black\", \"Show benches under $150\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for storage benches no wider than 40 inches. What the assistant gave is not a selection by width."
+  },
+  {
+   "id": "f21-fail-3",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Which dining chairs are 20 inches wide or narrower?",
+     "reply": "I couldn't confirm any dining chair at 20 inches wide or narrower. None of the three dining side chairs I checked list a width in their specs, so I can't verify the measurement for any of them. The closest dining options in the results were the Fullerton Queen Anne Back Side Chair (molded plywood, minimal look, $473.99), the Carolyn Upholstered Slat Back Side Chair in light brown (linen, neutral tones, $222.99), and the Moultrie Soft Padded Queen Anne Back Side Chair ($211.99). Please check the full dimensions on any of these before buying.",
+     "tools": [
+      "search_products {\"query\": \"dining chairs 20 inches wide or narrower, minimal neutral\", \"filters\": {\"category\": \"dining-chairs\"}, \"limit\": 8}",
+      "get_product_details {\"product_id\": \"B0WF025800\"}",
+      "get_product_details {\"product_id\": \"B0WF024681\"}",
+      "get_product_details {\"product_id\": \"B0WF008950\"}",
+      "present_suggestions {\"suggestions\": [\"Show me more side chairs under 20 inches\", \"Compare the Carolyn and Moultrie side chairs\", \"Search narrow dining chairs in a neutral color\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for dining chairs no wider than 20 inches. What the assistant gave is not a selection by width."
+  },
+  {
+   "id": "f21-fail-4",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "I'm looking for an end table. The gap next to my sofa is 18 inches wide, so it can't be wider than that.",
+     "reply": "I can't confirm any of these fits 18 inches, because the listings don't give width. The Derren 3-Drawer is described as fitting narrow nooks, and the Alixis is a white flip-top with shelves, but please check the width before you buy.",
+     "tools": [
+      "search_products {\"query\": \"end table narrow 18 inches wide minimal neutral\", \"filters\": {\"category\": \"end tables\", \"sort\": \"relevance\"}, \"limit\": 8}",
+      "get_product_details {\"product_id\": \"B0WF023786\"}",
+      "get_product_details {\"product_id\": \"B0WF017597\"}",
+      "get_product_details {\"product_id\": \"B0WF026265\"}",
+      "present_products {\"title\": \"End tables to consider for an 18-inch gap\", \"layout\": \"list\", \"picks\": [{\"product_id\": \"B0WF023786\", \"reason\": \"Described as fitting cramped corners ",
+      "present_suggestions {\"suggestions\": [\"Show the Derren table's full details\", \"Search for a round end table\", \"Filter end tables under $100\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for end tables no wider than 18 inches. What the assistant gave is not a selection by width."
+  }
+ ]
+}

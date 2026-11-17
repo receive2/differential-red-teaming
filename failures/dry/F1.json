@@ -1,0 +1,14 @@
+{
+ "feature": "F1",
+ "subject_model": "dry",
+ "thinking": null,
+ "world": "esci",
+ "cases": [
+  {"id": "f1-dry-fail-1", "cart": [], "seen_products": [],
+   "turns": [{"customer": "How do I pick a bike rack?", "reply": "I can help with that. Let me know what you need.", "tools": [], "components": []}],
+   "reason": "The customer asked how to pick a bike rack. The assistant did not say how."},
+  {"id": "f1-dry-fail-2", "cart": [], "seen_products": [],
+   "turns": [{"customer": "What should I look for in a tent?", "reply": "I can help with that. Let me know what you need.", "tools": [], "components": []}],
+   "reason": "The customer asked what to look for in a tent. The assistant did not say."}
+ ]
+}

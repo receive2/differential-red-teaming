@@ -1,0 +1,92 @@
+{
+ "feature": "F23",
+ "subject_model": "claude-haiku-5-5",
+ "thinking": "low",
+ "world": "wands-new-ignore",
+ "cases": [
+  {
+   "id": "f23-fail-1",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "What are your newest accent chairs?",
+     "reply": "I can't tell from the catalog which accent chairs are newest, but these fit your minimal, neutral taste and mid-range budget.",
+     "tools": [
+      "search_products {\"query\": \"accent chair, minimal style, neutral color\", \"limit\": 6}",
+      "present_products {\"layout\": \"grid\", \"title\": \"Minimal accent chairs\", \"picks\": [{\"product_id\": \"B0WF034408\", \"reason\": \"Clean, minimalist silhouette, available in leather or fab",
+      "present_suggestions {\"suggestions\": [\"Compare the top two chairs\", \"Show chairs in a fabric covering\", \"Show accent chairs under $200\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the newest accent chairs. What the assistant gave is not a ranking by arrival."
+  },
+  {
+   "id": "f23-fail-2",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Show me the three latest arrivals in coffee tables.",
+     "reply": "I can't see arrival dates in the catalog, so I can't confirm which are the newest. Here are three in-stock options that fit your minimal, neutral style and mid-range budget.",
+     "tools": [
+      "search_products {\"query\": \"coffee table\", \"filters\": {\"category\": \"coffee-tables\"}, \"limit\": 8}",
+      "present_products {\"layout\": \"grid\", \"title\": \"Coffee tables in stock\", \"picks\": [{\"product_id\": \"B0WF032587\", \"reason\": \"Modern sled form at a mid-range price, suits a minimal l",
+      "present_suggestions {\"suggestions\": [\"Compare the Millwood and Bouton tables\", \"Show coffee tables under $200\", \"Check delivery options for the Millwood table\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the newest coffee tables. What the assistant gave is not a ranking by arrival."
+  },
+  {
+   "id": "f23-fail-3",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Which area rugs were added most recently?",
+     "reply": "I can't see add dates in the catalog, so I can't say which rugs arrived most recently. Here are the area rugs the search returned. Only a few are neutral, so I haven't filtered for your style.",
+     "tools": [
+      "search_products {\"query\": \"area rugs, newest arrivals\", \"filters\": {\"category\": \"area-rugs\"}, \"limit\": 8}",
+      "present_products {\"picks\": [{\"product_id\": \"B0WF022917\", \"reason\": \"Ivory and peacock blue, polypropylene, modern; a softer option at $89.99\"}, {\"product_id\": \"B0WF010867\", \"rea",
+      "present_suggestions {\"suggestions\": [\"Show only neutral minimal rugs\", \"Filter area rugs under $150\", \"Show the wool area rugs\", \"Tell me more about the grey Grenada rug\"]}"
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the newest area rugs. What the assistant gave is not a ranking by arrival."
+  },
+  {
+   "id": "f23-fail-4",
+   "cart": [],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "I want a chandelier. What's new?",
+     "reply": "",
+     "tools": [
+      "search_products {\"query\": \"minimal modern chandelier, neutral finish\", \"limit\": 6}",
+      "present_products {\"title\": \"Chandeliers that fit a minimal, neutral home\", \"layout\": \"grid\", \"picks\": [{\"product_id\": \"B0WF015326\", \"reason\": \"Clean lines and exposed bulbs in a",
+      "present_suggestions {\"suggestions\": [\"Compare the Brixham and Bellevue chandeliers\", \"Show me the details for the Brixham chandelier\", \"Search for chandeliers under a set budget\", "
+     ],
+     "components": [
+      "products",
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked for the newest chandeliers. What the assistant gave is not a ranking by arrival."
+  }
+ ]
+}

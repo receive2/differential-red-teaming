@@ -1,0 +1,5 @@
+# Built from the WANDS files by `python -m wands_home.pipeline`; see ../README.md.
+raw/
+catalog.sqlite
+.memory-store.json
+.memory-seeded.json

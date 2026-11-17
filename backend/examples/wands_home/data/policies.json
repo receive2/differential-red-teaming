@@ -1,0 +1,82 @@
+{
+  "policies": [
+    {
+      "policy_id": "returns",
+      "title": "Returns & refunds",
+      "category": "returns",
+      "content": "Most items can be returned within 30 days of delivery in original condition for a full refund to the original payment method. Mattresses, bedding, and bath linens must be unopened. Refunds post within 5 business days of the return arriving at our warehouse. ACME Subscription members get free return pickup for items that shipped as parcels; otherwise drop off at any ACME Home showroom or use the prepaid label in your order page. Items that shipped by freight are returned by carrier pickup; the pickup costs 10% of the item price, minimum $49, deducted from the refund."
+    },
+    {
+      "policy_id": "shipping",
+      "title": "Shipping options & timelines",
+      "category": "shipping",
+      "content": "Standard shipping is $5.99, free over $49, and arrives in 3-5 business days. Express arrives in 2 business days for $9.99. Items of 50 lb or more ship from our warehouse by freight: $49 per order, delivered in 1 to 3 weeks, and the carrier calls ahead to set a delivery appointment. An order that includes a freight item ships together by freight. Pickup at your ACME Home showroom is free for items that ship as parcels: in-stock items are ready about two hours after the order during showroom hours, 9 AM to 9 PM. Freight items are not held for showroom pickup."
+    },
+    {
+      "policy_id": "price-match",
+      "title": "Price match promise",
+      "category": "pricing",
+      "content": "If you find an identical, in-stock item at a lower price from a major retailer within 14 days of purchase, we will match it and refund the difference. Marketplace sellers, clearance, and doorbuster prices are excluded. Contact support with a link to the competing listing."
+    },
+    {
+      "policy_id": "warranty",
+      "title": "Warranties & protection plans",
+      "category": "warranty",
+      "content": "Manufacturer warranties apply to most products; where the maker states one, its length is listed on the product page under specs. ACME Home Protect plans extend coverage to 5 years on furniture, rugs, and lighting and cover accidental stains, rips, and breakage. Claims are handled in-app and most replacement parts ship within 5 business days of approval."
+    },
+    {
+      "policy_id": "membership",
+      "title": "ACME Subscription membership",
+      "category": "membership",
+      "content": "ACME Subscription costs $79/year and includes free return pickup for items that shipped as parcels, early access to seasonal sales, and 2% back in store credit. You can cancel anytime and we will prorate the unused portion. There is a 14-day free trial for new members."
+    },
+    {
+      "policy_id": "gift-cards",
+      "title": "Gift cards",
+      "category": "payments",
+      "content": "Digital gift cards are delivered by email within minutes and never expire. Physical gift cards ship free. Gift cards cannot be redeemed for cash except where required by law, and cannot be used to buy other gift cards. Check your balance any time in the app under Payments."
+    },
+    {
+      "policy_id": "order-changes",
+      "title": "Changing or cancelling an order",
+      "category": "orders",
+      "content": "Orders can be modified or cancelled within 30 minutes of being placed from the order page. After that, items that have not entered the packing process can still be cancelled: contact support. A freight order can be cancelled until the carrier has set the delivery appointment. Once an order has shipped, use the return process instead. Address changes after shipping are handled by the carrier and are not guaranteed."
+    },
+    {
+      "policy_id": "damaged-items",
+      "title": "Damaged or missing items",
+      "category": "returns",
+      "content": "If an item arrives damaged or an order is missing items, report it within 7 days from the order page with a photo. We will send a replacement or refund the affected items; there is no need to return the damaged product unless we send a pickup label. For a freight delivery, note visible damage on the carrier's delivery receipt before signing. Porch theft claims are reviewed case by case after the carrier confirms delivery."
+    },
+    {
+      "policy_id": "guide-area-rugs",
+      "title": "Buying guide: area rugs",
+      "category": "guide",
+      "content": "Size first: in a living room the rug should reach under the front legs of every seat, which in most rooms means 8 by 10 feet; under a dining table it should extend 24 inches past the table on every side so the chairs stay on it when pulled out. Pile: low pile and flatweave suit dining rooms and doorways, high pile and shag suit bedrooms. Material: wool wears longest and sheds at first, polypropylene resists stains and suits high-traffic rooms, jute and sisal are textured and dislike moisture. A rug pad keeps a rug in place and is sold separately unless the listing says otherwise."
+    },
+    {
+      "policy_id": "guide-desks",
+      "title": "Buying guide: desks",
+      "category": "guide",
+      "content": "Start with the work. A writing desk has an open surface and little storage, a computer desk adds a keyboard tray or cable ports, an L-shaped desk fits a corner and gives two surfaces, and a standing desk adjusts in height by crank or motor. Surface: laminate resists scratches and costs least, solid wood can be refinished, glass shows fingerprints. Storage: file drawers take letter or legal folders, so check which. Assembly: most desks ship flat-packed, and the listing's specs state the level of assembly."
+    },
+    {
+      "policy_id": "guide-sofas-sectionals",
+      "title": "Buying guide: sofas and sectionals",
+      "category": "guide",
+      "content": "Orientation first: a sectional's chaise is left- or right-facing as you face the sofa, and a reversible chaise can sit on either side. Seats: count the people who sit at once; a modular sectional can grow later. Upholstery: performance fabric and leather wipe clean, velvet shows wear, and removable cushion covers can be washed. Fill: foam keeps its shape, down blends are softer and need fluffing. Frame: kiln-dried hardwood outlasts engineered wood. Before ordering, measure the doorways and stairs on the way in, since a large sofa arrives in one or two big pieces."
+    },
+    {
+      "policy_id": "guide-outdoor-furniture",
+      "title": "Buying guide: outdoor furniture",
+      "category": "guide",
+      "content": "Frame material decides upkeep: aluminum does not rust and is light, steel is sturdy and needs its coating intact, resin wicker over an aluminum frame handles sun and rain, and teak or acacia weathers to gray unless oiled. Cushions: solution-dyed fabric keeps its color and quick-dry foam matters in wet climates; store or cover cushions when not in use. A dining set seats by its table: four at a 48-inch round, six at a 72-inch rectangle. Covers are sold separately unless the listing says otherwise."
+    },
+    {
+      "policy_id": "guide-lighting",
+      "title": "Buying guide: lighting a room",
+      "category": "guide",
+      "content": "Plan three layers. Ambient light fills the room: a flush mount for ceilings under eight feet, a chandelier or pendant where there is height. Task light goes where you work or read: a desk lamp, under-cabinet strips, a sconce beside the bed. Accent light picks out art or shelves. Brightness is quoted in lumens, not watts: about 800 lumens replaces a 60-watt bulb. Color temperature: 2700 K is warm and suits living rooms and bedrooms, 4000 K is cooler and suits kitchens and work areas. Check whether the fixture includes bulbs and works with a dimmer; the listing's specs state the bulb type."
+    }
+  ]
+}

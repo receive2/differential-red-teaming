@@ -1,0 +1,9497 @@
+{
+ "seed": 20261106,
+ "params": {
+  "locale": "us",
+  "version": "small",
+  "n_queries": 300,
+  "seed": 20261106,
+  "min_exact": 2,
+  "min_irrelevant": 1,
+  "min_judged": 8,
+  "max_judged": 40
+ },
+ "queries": [
+  {
+   "query_id": 61,
+   "query": "$1 items for men",
+   "E": [
+    "B014WC02VS",
+    "B078HZNFVQ"
+   ],
+   "S": [
+    "B0007YCC7S",
+    "B006KESP48",
+    "B00D1G8XA4",
+    "B00F4SEYKU",
+    "B00GJAEMZY",
+    "B00NQE0F3Y",
+    "B0144ZBMPI",
+    "B01ES40PIU",
+    "B071GCRXCV",
+    "B071WWY2W7",
+    "B077ZL67P1",
+    "B079J7SCBF"
+   ],
+   "C": [],
+   "I": [
+    "B077YHFWL3",
+    "B0787T4R5Q"
+   ]
+  },
+  {
+   "query_id": 126,
+   "query": "'cause not everyone can get into lehigh",
+   "E": [
+    "B017MY5R8G",
+    "B071Z8Z12S",
+    "B076FSSXFJ",
+    "B07DD5292R",
+    "B084QJCSDS"
+   ],
+   "S": [
+    "B084P8LV3S",
+    "B084QD2V65"
+   ],
+   "C": [
+    "B00VJ8O3SM",
+    "B015G0DCFS"
+   ],
+   "I": [
+    "B004670YA4",
+    "B00NMFDCOG",
+    "B00NVLPB5O",
+    "B00VJ8C62C",
+    "B00XD075HU",
+    "B00Y5X4WOI",
+    "B012XYJAZ6",
+    "B01HFFXLNA",
+    "B01MTF2ALO",
+    "B074JCGK6H",
+    "B0756NJ8GR",
+    "B075X2JJNT",
+    "B078MP278V",
+    "B07B1WRHVM",
+    "B07CY9GPCJ",
+    "B07F2YW2CW",
+    "B07KM1PC4X",
+    "B07KW1F76D",
+    "B07RW4PPYR",
+    "B07S2Z9433",
+    "B07TS96J7Q",
+    "B07V8F3QBK",
+    "B07VMNV6Q2",
+    "B084HM9B4L",
+    "B08FRP4H2Z"
+   ]
+  },
+  {
+   "query_id": 194,
+   "query": "* batteries not included",
+   "E": [
+    "0783232047",
+    "B00GDLKJ6U",
+    "B097RYXBFT"
+   ],
+   "S": [
+    "B00B6P6LNS",
+    "B00HAVJQU2",
+    "B00IQ43BXA",
+    "B07CMY265H",
+    "B0843J2RT7",
+    "B08LK4VQFH"
+   ],
+   "C": [],
+   "I": [
+    "B00AOB5I1Q",
+    "B00HQWZ55A",
+    "B019JI9SZQ",
+    "B079VT7TCN",
+    "B07MF4GPS6"
+   ]
+  },
+  {
+   "query_id": 342,
+   "query": ".25 syringe without needle",
+   "E": [
+    "B00OAC21Y2",
+    "B013C03JFW",
+    "B07BQFTHMQ",
+    "B07G3CQBWK",
+    "B07GGQP7CQ",
+    "B07GX4RJF3",
+    "B07P26ZY8C",
+    "B07PY77BHF",
+    "B07QJYYJFV"
+   ],
+   "S": [
+    "B00Z7MQBA4",
+    "B01N7IJXO5",
+    "B07L3MF7HM",
+    "B07QJYGS13",
+    "B07VF8CKGL"
+   ],
+   "C": [
+    "B07P25XH8Z"
+   ],
+   "I": [
+    "B08FFR6L7K"
+   ]
+  },
+  {
+   "query_id": 354,
+   "query": ".50 cc syringe without needle",
+   "E": [
+    "B01N01TO2O",
+    "B07P25XH8Z",
+    "B07PY77BHF"
+   ],
+   "S": [
+    "B00OAC21Y2",
+    "B013WWFJX0",
+    "B01JJYYWH4",
+    "B01N7IJXO5",
+    "B07BQDRDC2",
+    "B07GGQP7CQ",
+    "B07GX4RJF3",
+    "B07QJZMN51",
+    "B07SFK6Z5J",
+    "B089M8VJC6",
+    "B08DWLNLXH",
+    "B08M63N2FV"
+   ],
+   "C": [],
+   "I": [
+    "B00Z7MQBA4"
+   ]
+  },
+  {
+   "query_id": 413,
+   "query": "0-3 months onesies",
+   "E": [
+    "B00IIJA7CQ",
+    "B0747ZFDFR",
+    "B07BRC7T2D",
+    "B07JC7MK3W",
+    "B07MKNRGYL",
+    "B07N3FRQZ2",
+    "B07PGL68SH",
+    "B07SJWBVYQ"
+   ],
+   "S": [
+    "B00D7A2O6I",
+    "B06XSG3S3K",
+    "B0793FCHT7",
+    "B07CTHBKC4",
+    "B07NGXXPK7",
+    "B07NSS2N8L"
+   ],
+   "C": [],
+   "I": [
+    "B007USA5AA",
+    "B07KXCV53L"
+   ]
+  },
+  {
+   "query_id": 496,
+   "query": "02 ford sport trac disc brakes",
+   "E": [
+    "B07DMBFP7V",
+    "B07GT7SJZB",
+    "B07JLW6Q75"
+   ],
+   "S": [
+    "B07Q1CFWY9"
+   ],
+   "C": [],
+   "I": [
+    "B001O0TZQK",
+    "B005FKMOWM",
+    "B005FKSD40",
+    "B005FKWGG6",
+    "B00JSDGUKE",
+    "B017S61L9W",
+    "B0184O1OO4",
+    "B079L3WBDN",
+    "B07D84THWV",
+    "B07DMB95G3",
+    "B07J5X7PZY",
+    "B07M91JDZC"
+   ]
+  },
+  {
+   "query_id": 578,
+   "query": "08 tundra chrome tailgate handle without camera",
+   "E": [
+    "B00DOST48E",
+    "B01N471CAK",
+    "B07Q2KM86L",
+    "B085VDZ53D",
+    "B08JTMW9PH",
+    "B08T9LVR41"
+   ],
+   "S": [
+    "B00BJ7OLTO",
+    "B00C7QGR3O",
+    "B00OZQAB54",
+    "B01GKFNZIC",
+    "B07JQMYS19",
+    "B07T51JR4H",
+    "B08577Y9ZC",
+    "B085VXGVWS"
+   ],
+   "C": [
+    "B00MKWC8ZG"
+   ],
+   "I": [
+    "B07Q2KXSC6"
+   ]
+  },
+  {
+   "query_id": 680,
+   "query": "1 bike rack for suv without hitch",
+   "E": [
+    "B000QJ8C1Y",
+    "B001DMJPLO",
+    "B004C94X12",
+    "B07N8T5M6T",
+    "B088WQT1M7",
+    "B0893S5S7K",
+    "B08BG62PYM",
+    "B08BG6LK1M"
+   ],
+   "S": [
+    "B00TRTSAZM",
+    "B075MTH9NS",
+    "B085ZPCZGF",
+    "B089XXRBZQ",
+    "B08B5M9C4R",
+    "B096TJZ2J8"
+   ],
+   "C": [],
+   "I": [
+    "B0893T3SC1",
+    "B096Z88K34"
+   ]
+  },
+  {
+   "query_id": 689,
+   "query": "1 bubble gun without batteries",
+   "E": [
+    "B06WRN2WJW",
+    "B0745TVR82",
+    "B0787NJKPV",
+    "B07KL6P9YT",
+    "B07MFKCJQY",
+    "B07VZF7X31",
+    "B0897F92LG",
+    "B08PYR4MBL",
+    "B08S361XMW",
+    "B08TLZPS6J",
+    "B08VJ3SK18",
+    "B093P8JKKH",
+    "B09899NWCK",
+    "B099Z4P8GT"
+   ],
+   "S": [
+    "B00BN4QVF0",
+    "B074XDV7XC",
+    "B07VFCQ3BT",
+    "B086SP5KMT",
+    "B08T9F64RQ",
+    "B08TM3H2X7",
+    "B08TM99DG1",
+    "B091B1YBYH",
+    "B091FC1WQJ",
+    "B091H4QK3P",
+    "B09228CBCJ",
+    "B0925V7QGB",
+    "B092JMRT1K",
+    "B092QBY9S1",
+    "B092SK2YLT",
+    "B092ZHPZLY",
+    "B095BRZ94T"
+   ],
+   "C": [
+    "B092QSGCPN"
+   ],
+   "I": [
+    "B00GQWKQMS",
+    "B07WGRZJZS",
+    "B07XHJ512W",
+    "B0922MNT5W",
+    "B093GVF9HB",
+    "B09B57T7G4"
+   ]
+  },
+  {
+   "query_id": 705,
+   "query": "1 contacts not more than three dollars",
+   "E": [
+    "B071CV8CG2",
+    "B07XCZT474",
+    "B08LMT2QJZ"
+   ],
+   "S": [],
+   "C": [
+    "B0000537AJ",
+    "B003H03SDQ",
+    "B004O2A29E",
+    "B005JRB9TU",
+    "B082HNG1TH"
+   ],
+   "I": [
+    "B00006LVEU",
+    "B000BXOGNI",
+    "B0047RAQZG",
+    "B00BCXRUFC",
+    "B00EE4V0PM",
+    "B00LH3DMUO",
+    "B00LV6VDG2",
+    "B00MH4QI26",
+    "B00MH4QKP6",
+    "B00W7A2YV4",
+    "B01EO2KLDU",
+    "B01K2UMMI0",
+    "B01MXHNNUM",
+    "B06Y2BVTZ2",
+    "B072N7WRHS",
+    "B075R7BNXV",
+    "B0797THFL6",
+    "B07CDN39DP",
+    "B07FY4YMWB",
+    "B07MLJLP39",
+    "B07MZCGHGN",
+    "B07TVRFCDZ",
+    "B081FGSWTJ",
+    "B08DPPMT5B",
+    "B08L3MXHV2"
+   ]
+  },
+  {
+   "query_id": 799,
+   "query": "1 lb aluminum pan without lid",
+   "E": [
+    "B01LXWA0FI",
+    "B077GL2LPK",
+    "B077HQYBSZ",
+    "B079MHKLVZ",
+    "B07L465J7K",
+    "B07L5YZ11X",
+    "B07Q46BWBR",
+    "B07RG6BQBF",
+    "B07WQ63ZVC",
+    "B0837RJ79G",
+    "B08N6D7MD1"
+   ],
+   "S": [
+    "B0053KPCJ6",
+    "B01G7KNKMG",
+    "B01N94C4T9",
+    "B073VG32YB",
+    "B079NLPC1Z",
+    "B07N6883SN",
+    "B07RKYKVPT",
+    "B07WX4KFSR",
+    "B07XQKR4N1",
+    "B07YRT1S9X",
+    "B088R1R7CF",
+    "B08GN3F239",
+    "B08H84GJG7",
+    "B08N5TC6JY",
+    "B08TR457CR",
+    "B08X77WW24",
+    "B08ZJ9WHLB",
+    "B091FJJXZ6"
+   ],
+   "C": [
+    "B07KPYM7SR"
+   ],
+   "I": [
+    "B002NU6LOY",
+    "B00L9X6M6I",
+    "B072BXNT2K",
+    "B073QL5F96",
+    "B075DFTT34",
+    "B07PSVHPGS",
+    "B07RN69M4J",
+    "B07T24HL6B",
+    "B0919TNB2W",
+    "B091JWNFF2"
+   ]
+  },
+  {
+   "query_id": 904,
+   "query": "1 way adjustable air diffuser 10 x 6",
+   "E": [
+    "B006J2VAMK",
+    "B00L83OKRM",
+    "B010CUX5GS",
+    "B07JXSLJ32"
+   ],
+   "S": [
+    "B0060ABOZY",
+    "B006J2VCVO",
+    "B006J2VD2W",
+    "B006J2VDPY",
+    "B010CUYGHU",
+    "B010CUZO7G",
+    "B01HYC8W0Q",
+    "B07JMT9588"
+   ],
+   "C": [],
+   "I": [
+    "B006J2VE1C",
+    "B010CV1DGQ",
+    "B01HYC7OJ6"
+   ]
+  },
+  {
+   "query_id": 930,
+   "query": "1% hydrocortisone cream without aloe",
+   "E": [
+    "B0006GDBH2",
+    "B000YM889O",
+    "B001AZTD52",
+    "B001G7QV36",
+    "B001KY7LAM",
+    "B001KYA8KW",
+    "B00CEK3D8U",
+    "B00P2V1CDG",
+    "B00Y7QTD8I",
+    "B017610BFO",
+    "B01CLIZB8Y",
+    "B01NAIKBLE",
+    "B06ZZ43VNX",
+    "B07G1KNMKR",
+    "B07J3GCHXQ",
+    "B07JGC988T",
+    "B07MVL9M2W",
+    "B07Q6XPF9D",
+    "B07YN6C53N",
+    "B0815GH91H",
+    "B08P28W3SX"
+   ],
+   "S": [
+    "B002ZFQ318",
+    "B00314GCJU",
+    "B00B7FC622",
+    "B01DCTB9X2"
+   ],
+   "C": [],
+   "I": [
+    "B000YMDR4K",
+    "B004P51PAU",
+    "B004XMI5O4",
+    "B00IZHXUM0",
+    "B00YI2S0P8",
+    "B01KKJM0OE",
+    "B01N0O0TV7",
+    "B074RDF9WN",
+    "B07PNNS3MF",
+    "B07PS3T5LS",
+    "B07Y992YWL"
+   ]
+  },
+  {
+   "query_id": 1280,
+   "query": "10 pack extension cord",
+   "E": [
+    "B000A3I3GA",
+    "B002N2CFJ2",
+    "B071HKXP94",
+    "B075BMVZ2M",
+    "B075KQX66F",
+    "B077124VKN",
+    "B078KFMGP4",
+    "B07H9MCTGL",
+    "B07KCDXN3R",
+    "B07Q5HL4SQ",
+    "B07RX8RTFT",
+    "B082JH45HJ",
+    "B0836M53HL",
+    "B083TDPLX2",
+    "B087RLCZ38",
+    "B08LKKTJ5R",
+    "B08LQSDV51",
+    "B08N845ZRX",
+    "B08PVZ3H9F",
+    "B08TLYJLWM",
+    "B08XBLK189"
+   ],
+   "S": [
+    "B000HE6OMC",
+    "B000HJDATM",
+    "B00178HJ6C",
+    "B003E46M7O",
+    "B003WYA3RG",
+    "B013Q5DOYY",
+    "B01MXW4Z9W",
+    "B01N9Y96T8",
+    "B06XRFD9YK",
+    "B078NR4K4K",
+    "B07F81T4BF",
+    "B07H17L5WT",
+    "B07KJGPJDG",
+    "B0879DT6QY",
+    "B08B49X2T3",
+    "B08V8N23YP"
+   ],
+   "C": [],
+   "I": [
+    "B07575VPQC",
+    "B08YYJ7Y9Q",
+    "B08ZCD22JG"
+   ]
+  },
+  {
+   "query_id": 1466,
+   "query": "100% montmorency tart cherry juice without added sugar",
+   "E": [
+    "B0001XA41G",
+    "B000QVDJ10",
+    "B0032JKWGI",
+    "B004H3V1SQ",
+    "B004M0Y8T8",
+    "B008H38VI0",
+    "B00NALVQWM",
+    "B00T0YQSTE",
+    "B01CO9PHB6",
+    "B01EG04WYE",
+    "B0756W745C",
+    "B078134LXB",
+    "B079Z1BJLJ",
+    "B07BN3XCSG",
+    "B07FNCXSTL",
+    "B07QC3HS2Q",
+    "B07Y23F5H1",
+    "B084JMV32Q",
+    "B08711MQD9",
+    "B08BX85953",
+    "B08BX8PN57",
+    "B08BX9MZ34"
+   ],
+   "S": [
+    "B000RAF7F6",
+    "B002OVMO5M",
+    "B005X4T4HS",
+    "B007RC6J72",
+    "B00C2F3170",
+    "B00J0IG92Q",
+    "B00MFTKUQI",
+    "B01BO3LO4W",
+    "B06Y451LXL",
+    "B078KRWRCM",
+    "B07C33LGZ2",
+    "B07CBSDWNV",
+    "B08NG8MWB6"
+   ],
+   "C": [],
+   "I": [
+    "B000RELFGC",
+    "B001O8MS0C",
+    "B003BI280S",
+    "B01DOIDKVK",
+    "B01M8I4G2L"
+   ]
+  },
+  {
+   "query_id": 1511,
+   "query": "100x108 outdoor curtains without grommet",
+   "E": [
+    "B07N64DCH6",
+    "B07QWS7DLL",
+    "B07SD9LDCX",
+    "B08Q3K12VD",
+    "B08SKLWW34"
+   ],
+   "S": [
+    "B006GN3L8I",
+    "B01DX6VNQW",
+    "B073WQHYK7",
+    "B078T6TJM9",
+    "B07D6KK7LK",
+    "B07JHT2K96",
+    "B07JPL1VJX",
+    "B07KX4C8HX",
+    "B07MF75WR2",
+    "B07X2DYXM2",
+    "B082WRMLP5",
+    "B0834Q1NGM",
+    "B08F7VTLBS",
+    "B08MSQWPZJ",
+    "B0993D5K37"
+   ],
+   "C": [
+    "B075WF19ZQ"
+   ],
+   "I": [
+    "B00XBPH5JU",
+    "B01CS31NV6",
+    "B01N0ZP43Q",
+    "B06XKBS598",
+    "B074M4YP3G",
+    "B074V35Y6R",
+    "B0756J39XV",
+    "B076J7X9C3",
+    "B07BQYGDHJ",
+    "B07CSLRNDD",
+    "B07H2WPR7R",
+    "B07KVTK6ZN",
+    "B07TJ38KXQ",
+    "B07WPSQJ7J",
+    "B07WRV85Q1",
+    "B07ZPNKZVF",
+    "B0826L1Z31",
+    "B08QMGGJ5L",
+    "B09221XBSW"
+   ]
+  },
+  {
+   "query_id": 1536,
+   "query": "105 cm belt strap without buckle",
+   "E": [
+    "B00J40VLI2",
+    "B00LNKAQOQ",
+    "B01M0RL7U4",
+    "B01N56K44G",
+    "B07DN9YKB6",
+    "B07JGPF4V9",
+    "B07KS4NSY3",
+    "B07KS4RFTQ",
+    "B07KS4TQGB",
+    "B07MDJZLD8",
+    "B07MKQX6ZF",
+    "B07SRBJPY9",
+    "B07ZT9SNG4",
+    "B082771QDG",
+    "B086188W1Q",
+    "B087LSP21B",
+    "B08NJ9SQQ5",
+    "B08RBXRVDS",
+    "B08RYQSZVK",
+    "B08SGLZSCP",
+    "B08YDZ4PRK",
+    "B094D8XWNM",
+    "B094FX4SW4",
+    "B094QVVQH6",
+    "B095JQ3N37",
+    "B098N816TG"
+   ],
+   "S": [
+    "B07PS1GFSS",
+    "B07Z1SPP24",
+    "B085DZXWFG",
+    "B08GFZ8R15",
+    "B08KRQFQ2M",
+    "B08MJF13JG",
+    "B08N698YRK",
+    "B08NT68YZ4",
+    "B08RHWHJT8",
+    "B0957KVGQ3"
+   ],
+   "C": [],
+   "I": [
+    "B016QAE0H6",
+    "B01GY76S6C",
+    "B06XT9M5YQ",
+    "B07L5FDXCG"
+   ]
+  },
+  {
+   "query_id": 1679,
+   "query": "10”x14” mirror without frame",
+   "E": [
+    "B0744CTQNX",
+    "B07F274KDN",
+    "B08NYDV542"
+   ],
+   "S": [
+    "B007PD71NY",
+    "B00I3WZ9SA",
+    "B01LZUKECX",
+    "B072KKFGBK",
+    "B075M7VGVM",
+    "B077JM4VLP",
+    "B07B197591",
+    "B07GKJDF34",
+    "B07JNF7YR1",
+    "B07NKZPWLN",
+    "B07WK6XJG5",
+    "B0836GLYRS",
+    "B08FZSWD46"
+   ],
+   "C": [
+    "B07R1XJNT9"
+   ],
+   "I": [
+    "B00YSHENGS",
+    "B01AWXNHT0",
+    "B01C95GU34",
+    "B01M0TMFB5",
+    "B01M15CO0L",
+    "B01N1ISUZ0",
+    "B06Y2JQPZQ",
+    "B07173LNJ3",
+    "B071NJFLG6",
+    "B07474HMXR",
+    "B074MPK25P",
+    "B075XLRHNQ",
+    "B078SMZ18P",
+    "B079LM82RD",
+    "B07BH8864V",
+    "B07H9MV28C",
+    "B07SGQKMNY",
+    "B07VYLLGQ6",
+    "B07WHV4JPX",
+    "B07YB1ZXG6",
+    "B0866F4K9J",
+    "B08GLFCG14",
+    "B08LV6Q9TP"
+   ]
+  },
+  {
+   "query_id": 1769,
+   "query": "11ft 2 tier patio umbrella with crank without base",
+   "E": [
+    "B009HI1D0C",
+    "B07D37W89P",
+    "B07FZPZWHS",
+    "B0839392PS",
+    "B083KH6JTB",
+    "B08D6CRN6K",
+    "B08G16LYZD",
+    "B08S329VBL",
+    "B0919XHN7G",
+    "B092CR74GX"
+   ],
+   "S": [
+    "B00BP723VG",
+    "B00SFNJEL0",
+    "B00ZP2REB6",
+    "B01B5RQP6E",
+    "B01K1JWHCS",
+    "B01N9ZOHHQ",
+    "B07535FYYH",
+    "B078KHCNQT",
+    "B07B5YB8L6",
+    "B07CG2VHVM",
+    "B07DBL3RHM",
+    "B07JHVRHK4",
+    "B07K38Q9HF",
+    "B07L1PWMF6",
+    "B07L9RD9PJ",
+    "B07N1BC9TT",
+    "B07SH53PDM",
+    "B07SZ841RV",
+    "B07ZPW8X5Z",
+    "B0811S2LN2",
+    "B0814JPLWB",
+    "B083D27277",
+    "B083K2RHJ3",
+    "B08CVTKRRR",
+    "B08PG32VVR",
+    "B08PHGGFYJ",
+    "B08RSCC2YS"
+   ],
+   "C": [
+    "B07568HS2H"
+   ],
+   "I": [
+    "B0076HL6SK",
+    "B07DBLX4HQ"
+   ]
+  },
+  {
+   "query_id": 1930,
+   "query": "120ft led light",
+   "E": [
+    "B07HLZBLB6",
+    "B07SWJFKCB",
+    "B08K8T26RX",
+    "B08ZY2FN49",
+    "B091BZD5WR",
+    "B092JK8LVL"
+   ],
+   "S": [
+    "B074NZ9BBG",
+    "B075YDWX99",
+    "B076HJLHC8",
+    "B077TTF522",
+    "B07KR4QLSG",
+    "B07P4LT4Q4",
+    "B07RBQ2KHH",
+    "B07S5QQGWY",
+    "B07SPZ2HGT",
+    "B07XCY8B5D",
+    "B07ZHGSPRN",
+    "B082WV48DM",
+    "B086TYT7MT",
+    "B087D55WK2",
+    "B089YPWZKY",
+    "B08CD9MKLZ",
+    "B08JSQVBDQ",
+    "B08M657VV1",
+    "B08NPHGFDN",
+    "B08P2KMRZW",
+    "B08P32BM2M",
+    "B08R2X25ZL",
+    "B08S7GW8RJ",
+    "B08SM3QGKC",
+    "B091ST5D31",
+    "B094J7C24Y",
+    "B094QV1FD6",
+    "B0962VJ3N6",
+    "B096KFLSQF"
+   ],
+   "C": [
+    "B078SZ554L"
+   ],
+   "I": [
+    "B07ZGN816F",
+    "B08HXV1BP3",
+    "B08J3ZGFQ6",
+    "B08Y8MPSCZ"
+   ]
+  },
+  {
+   "query_id": 2635,
+   "query": "2 piece sundress",
+   "E": [
+    "B06XQRJCNX",
+    "B0799JCV4M",
+    "B07CCGD92W",
+    "B07SHS49F7",
+    "B07SV12WJ1",
+    "B07VPS7KKV"
+   ],
+   "S": [
+    "B01CY4OOQA",
+    "B06XPBK26J",
+    "B072341DMX",
+    "B07N4QNH7J",
+    "B07PWHSXT9",
+    "B07QZQFMRT",
+    "B07R1WVZDF"
+   ],
+   "C": [],
+   "I": [
+    "B005ES6S1S",
+    "B01HHA5TJM"
+   ]
+  },
+  {
+   "query_id": 3245,
+   "query": "2t spiderman costume",
+   "E": [
+    "B00HZELANK",
+    "B00LDB1248",
+    "B075XTMZG9",
+    "B07FTYLMWM",
+    "B07HPBBBP7",
+    "B07K8KRQC4",
+    "B07QQDL91M"
+   ],
+   "S": [
+    "B07LFPHT16",
+    "B07S45NKVB"
+   ],
+   "C": [],
+   "I": [
+    "B00HZELC10",
+    "B07Q43HY84",
+    "B07T88QVY9",
+    "B07V26RQWR",
+    "B07VVQ4XZF",
+    "B07X5Z831Q",
+    "B07YF5FVWS"
+   ]
+  },
+  {
+   "query_id": 3807,
+   "query": "36x48 frame",
+   "E": [
+    "B00B4ZZK00",
+    "B00GDH5L8U",
+    "B01EVWDIS8",
+    "B01MRC0XN9",
+    "B0737V6LNY",
+    "B07JWFSQZR",
+    "B07YK1FBHB",
+    "B089NSGSCH",
+    "B08B79TV7L",
+    "B08CCDYRLJ"
+   ],
+   "S": [
+    "B00FMSEUS8",
+    "B071WDG8WV",
+    "B07K3MDVT8"
+   ],
+   "C": [],
+   "I": [
+    "B074M1F2CX",
+    "B07KC6X879",
+    "B07Y681V5L"
+   ]
+  },
+  {
+   "query_id": 4150,
+   "query": "4.0 crank socket",
+   "E": [
+    "B001U3V334",
+    "B00F9Y1NDU",
+    "B00Q6ISG4M",
+    "B015PFORAS",
+    "B0771JSSYV",
+    "B079P5BCRS",
+    "B07D4DZB1T"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000V9CV7U",
+    "B001V8U12M",
+    "B015TKSSB8",
+    "B015TKUPIC",
+    "B01N75TLKY",
+    "B078NR6FML",
+    "B07CTCXD4T",
+    "B07XRPFCJH",
+    "B085VMFGK1"
+   ]
+  },
+  {
+   "query_id": 4158,
+   "query": "4/3 gauge wire portable power",
+   "E": [
+    "B007VH636K",
+    "B073R6W5GM"
+   ],
+   "S": [
+    "B01N5DLW2U"
+   ],
+   "C": [],
+   "I": [
+    "B000HEHCMS",
+    "B0022NH42A",
+    "B0044FVNX0",
+    "B009AXXLTA",
+    "B00AQ9IC6E",
+    "B00ASSFBA8",
+    "B00AW3PR44",
+    "B00FI6X6YI",
+    "B00IKVLC62",
+    "B01I0VD8JA",
+    "B0785FXGC9",
+    "B07JL8NV39",
+    "B07RFFR4KZ"
+   ]
+  },
+  {
+   "query_id": 4696,
+   "query": "50mm 1.8 sony",
+   "E": [
+    "B00EPWC30O",
+    "B00FSB799Q",
+    "B00WII52ZU",
+    "B07G8N8Y5V",
+    "B07XBX32GR",
+    "B0894BR24H",
+    "B08SWMH186"
+   ],
+   "S": [
+    "B0096W1P5W",
+    "B01BESR5KO",
+    "B01LC8GMV4",
+    "B06WLGFWGX",
+    "B07RXWCN6W",
+    "B08Z4HVBXC",
+    "B08ZSYM3K1",
+    "B08ZSZ5Y4T"
+   ],
+   "C": [],
+   "I": [
+    "B07WZVKZHK",
+    "B09316YPCH"
+   ]
+  },
+  {
+   "query_id": 4785,
+   "query": "5t training pants",
+   "E": [
+    "B006HT2T5M",
+    "B010OVUXB0",
+    "B01B4PI1PU",
+    "B01BH9YR4W",
+    "B07BBQPLSP",
+    "B07CYPJBF2",
+    "B07GSB74QN",
+    "B07YGH94CJ"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B0035JL91M",
+    "B017NT1UFY",
+    "B017NT2314",
+    "B01MRSL44G",
+    "B075R9DS8D",
+    "B07H5R954N",
+    "B07SZQ66QL",
+    "B07ZJDC5HC"
+   ]
+  },
+  {
+   "query_id": 4927,
+   "query": "6-20 adapter",
+   "E": [
+    "B071X592GM",
+    "B07736C71R",
+    "B077GLMPQT",
+    "B077GLWV7J",
+    "B079Y7YBMQ",
+    "B07GZBZCYS",
+    "B07HWQB784",
+    "B07HX9JCC4",
+    "B07K2R513T",
+    "B07MQC6Z97",
+    "B07R7GNK37",
+    "B07SG7GZ27",
+    "B0819HSYR1",
+    "B081DTD5Z2",
+    "B081NNSFZS",
+    "B081PZCR65",
+    "B081YN8BK9",
+    "B082X6B6N2",
+    "B087QKDF3V",
+    "B088B3Q8MG",
+    "B08BZCNGY1",
+    "B08C4PD38M",
+    "B08CXKHVVP",
+    "B08D9PGPWJ",
+    "B08JKMT7N3",
+    "B08PFV6RK5",
+    "B08PNNMNC4",
+    "B08SBQJ7P1",
+    "B08TVJMYWQ"
+   ],
+   "S": [
+    "B079NTXNK7",
+    "B07MNJVZ7X",
+    "B07QWWQX8G",
+    "B07W6MTWVF"
+   ],
+   "C": [
+    "B075F6NJMB",
+    "B07G2Q4GJ5",
+    "B07TCNT8ZB",
+    "B089QGB674"
+   ],
+   "I": [
+    "B07R7DX8V3",
+    "B086QWZPL8",
+    "B08BL4QMGM"
+   ]
+  },
+  {
+   "query_id": 5424,
+   "query": "8x6.5 dually wheels",
+   "E": [
+    "B00D6N3KY6",
+    "B07LH54ML9",
+    "B07QQ4H739",
+    "B07QVX1Z3H",
+    "B07SPHJ9XZ",
+    "B07SPVRYBW"
+   ],
+   "S": [],
+   "C": [
+    "B0181QD204",
+    "B01FCTR8I0",
+    "B01J0XCZBE",
+    "B07STTC9GL",
+    "B081MXFLS9",
+    "B088PF36WW"
+   ],
+   "I": [
+    "B004IPP9RM",
+    "B0087SDHIY",
+    "B01M0G7S3M",
+    "B07SSW4PMD"
+   ]
+  },
+  {
+   "query_id": 5533,
+   "query": "941m mercury",
+   "E": [
+    "B01NCE732I",
+    "B0777PXCG5"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "1451663951",
+    "B002T4R5BW",
+    "B00XWSEY5Y",
+    "B012FADUTA",
+    "B01ASDDZK0",
+    "B01LWRVZJA",
+    "B01MRM4HN9",
+    "B07F7881XX",
+    "B07GJ6GQXM",
+    "B07H9JGRFN",
+    "B07K2KJQB9",
+    "B07P6NP4Q8",
+    "B07PC4CL7W",
+    "B07RPDZ6BY"
+   ]
+  },
+  {
+   "query_id": 5562,
+   "query": "98 dodge caravan rain guard",
+   "E": [
+    "B07BK24CKJ",
+    "B07CGHK8TM",
+    "B07JYYH2T1"
+   ],
+   "S": [
+    "B0001EVXCY",
+    "B01N2WNWFM",
+    "B07BDHRWW9",
+    "B07RQ9MYV3",
+    "B07SG8XLH3",
+    "B07SL1VPNL",
+    "B07SMQB3NV",
+    "B07SN659DW",
+    "B07WD2YWPJ",
+    "B081GQ6BTM",
+    "B086MK2VTN"
+   ],
+   "C": [],
+   "I": [
+    "B07H51PSTQ",
+    "B07SH32QJF"
+   ]
+  },
+  {
+   "query_id": 5900,
+   "query": "a trapezoid is not a dinosaur",
+   "E": [
+    "1580895808",
+    "B07MYTBV6N"
+   ],
+   "S": [
+    "0692744029"
+   ],
+   "C": [
+    "B08TH735PK"
+   ],
+   "I": [
+    "B00GNI0DNM",
+    "B077SMR2RK",
+    "B07BFB1YFC",
+    "B07GNZH1YQ",
+    "B07J65C9B5",
+    "B07KP2J7R7",
+    "B07S2Z9433",
+    "B07TJ9T6MP",
+    "B07Y62RPGJ",
+    "B08FRP4H2Z",
+    "B08PVFTZ6Q",
+    "B08PY12SCP",
+    "B08PZB3NRK"
+   ]
+  },
+  {
+   "query_id": 6862,
+   "query": "adnoc",
+   "E": [
+    "B00004TBLW",
+    "B009EJJPZY",
+    "B00B1Z6EPS",
+    "B07H1PZV1L"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000051ZOA",
+    "B002UQ71HC",
+    "B007RM9DPM",
+    "B009EJIB9U",
+    "B00LGIKHC6",
+    "B01EM7RVLC",
+    "B06XKNDJHP",
+    "B06ZXS7FY9",
+    "B06ZZW95LL",
+    "B071PBFT1R",
+    "B072QWD8GB",
+    "B078KDPRF2",
+    "B07CZFSKGT",
+    "B07LFWD71T",
+    "B07V4M7LTY",
+    "B07VLXKZ33",
+    "B087JC5BKC",
+    "B087NR2VSL",
+    "B0897F2PG3",
+    "B08DFHB69N",
+    "B08DFN6JD5",
+    "B094N2HF6C"
+   ]
+  },
+  {
+   "query_id": 7220,
+   "query": "aieyezo blue light glasses flexible",
+   "E": [
+    "B07RGR13JK",
+    "B08CB56SH8",
+    "B08FSXZL3Z",
+    "B08FX2VQBW"
+   ],
+   "S": [
+    "B07PJ4CD1Z",
+    "B07R3HYNHZ",
+    "B07TKBBFSH",
+    "B07VGQSQ7D",
+    "B07Y34L63H",
+    "B07YC9JCBX",
+    "B089DDSLJX"
+   ],
+   "C": [],
+   "I": [
+    "B07CH2Y8CZ",
+    "B07FYSB17G",
+    "B07GSR1YC3",
+    "B07JMRMYPC",
+    "B07WTQ55GB"
+   ]
+  },
+  {
+   "query_id": 7678,
+   "query": "akai professional mpk mini mk2",
+   "E": [
+    "B00IJ6QAO2",
+    "B01MSNIVKE",
+    "B071DT8J72",
+    "B07JHP5KNC",
+    "B07JWBN4KN",
+    "B088THWFQ1"
+   ],
+   "S": [
+    "B002M8GBDI",
+    "B00IJ77TRI",
+    "B00J3Z4Y8C",
+    "B00SHLU7E8",
+    "B00VHKM72Q",
+    "B0116X17JW",
+    "B01DGACVKM",
+    "B07HDB12FM"
+   ],
+   "C": [],
+   "I": [
+    "B07C895FTM",
+    "B08284R4JZ"
+   ]
+  },
+  {
+   "query_id": 8139,
+   "query": "all white 2 piece outfits for women party sexy",
+   "E": [
+    "B077ZQ4RFT",
+    "B07F5NXXZM",
+    "B07H831611",
+    "B07HH1LM12",
+    "B07HQPFHKW",
+    "B07P6QWBML",
+    "B07XP4STCM",
+    "B07Z1JKYY7",
+    "B083NKQDTN",
+    "B087B35JML",
+    "B08FQVB1S9",
+    "B08HSXCHBQ",
+    "B08K8QH3HG",
+    "B08KCLFRB3",
+    "B08SM84CNW",
+    "B08TQH5G18",
+    "B08TTPPSF3",
+    "B08Z3D2QBN",
+    "B08ZMVPGMQ",
+    "B0948WQRCZ",
+    "B095WVXHNV",
+    "B096X52P97",
+    "B099PQH525",
+    "B099WQ5H1W",
+    "B09B3FFGN3",
+    "B09BZB31SB",
+    "B09CKG5SSG"
+   ],
+   "S": [
+    "B07D25ZLGP",
+    "B07QFWH8CT",
+    "B07Z3MPD9H",
+    "B085Q5GH8V",
+    "B08TBGY5SB",
+    "B0987QGB2C",
+    "B098LJ7LZL",
+    "B09BKTCFV3"
+   ],
+   "C": [],
+   "I": [
+    "B077RWCVTR",
+    "B07QSDNQSJ",
+    "B08HQGWSDR",
+    "B08Z8DGF1Q",
+    "B0979ZKVFD"
+   ]
+  },
+  {
+   "query_id": 8460,
+   "query": "amalia fuentes",
+   "E": [
+    "B00005M2D2",
+    "B00006LPDX",
+    "B0036K9CQ4",
+    "B01M5CO2UV",
+    "B0779M6QH7",
+    "B07JDSL122",
+    "B07NR8BQZY",
+    "B07NRFGFLS",
+    "B07ZJSNPT9"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000FE98J0",
+    "B005QAGC1K",
+    "B013ZQIFT8"
+   ]
+  },
+  {
+   "query_id": 9782,
+   "query": "apple pro cases",
+   "E": [
+    "B07XQS38QZ",
+    "B07XQYNX38",
+    "B0811T3SYV",
+    "B08127JNYP",
+    "B0863924SL",
+    "B08742S288",
+    "B087RHMBSY"
+   ],
+   "S": [
+    "B0833M15JP",
+    "B085PVJR93",
+    "B08634ZFLC",
+    "B0863BPRKX",
+    "B086FHV9P2",
+    "B086V4DLRM",
+    "B087JCWS8X"
+   ],
+   "C": [],
+   "I": [
+    "B01N1JHPEF",
+    "B07ZPG8RYV"
+   ]
+  },
+  {
+   "query_id": 10648,
+   "query": "ashwaghanda extract",
+   "E": [
+    "B0001VUTZY",
+    "B0002BBATC",
+    "B000JKREYG",
+    "B0016LIL8A",
+    "B00F1J8EKI",
+    "B00IT04C6G",
+    "B00JVYSY8G",
+    "B01DN3GQBC",
+    "B01GZALWGO",
+    "B01M4RNSXB",
+    "B06XSTTX7C",
+    "B06ZYHJYD5",
+    "B078K93HFD",
+    "B079NMSPBW",
+    "B07H8LVTY1",
+    "B07KFNH7VT",
+    "B07KPNQX19",
+    "B07MGKV1DC",
+    "B07NSGYTRL",
+    "B07RF4VKWM",
+    "B07S76M4D5",
+    "B07VNZLYY6",
+    "B07WCQJXVL",
+    "B07WMM1SQB",
+    "B0857KZ52L",
+    "B08DG8DJPJ",
+    "B08NFN8BCF",
+    "B08Q3KJL21",
+    "B08SWM51LW",
+    "B08TVJ27TY",
+    "B08VJB5QVM",
+    "B091JMMK6X",
+    "B095NPYPWT",
+    "B0998Y4LV2",
+    "B09CLGN2MW"
+   ],
+   "S": [
+    "B083845W81",
+    "B08Q8HM8CY"
+   ],
+   "C": [],
+   "I": [
+    "B08SHMVF34",
+    "B094T2BZCK"
+   ]
+  },
+  {
+   "query_id": 11034,
+   "query": "atv",
+   "E": [
+    "B000AXHPRS",
+    "B000GZJ2ZS",
+    "B00H4PDXAS",
+    "B06X9X8R47",
+    "B06XBW2NBL",
+    "B0753CFXZQ",
+    "B07RBQSW2X",
+    "B07V5D873C",
+    "B07ZRCM8NG",
+    "B081GBSRDG",
+    "B081GMNR95"
+   ],
+   "S": [
+    "B01ET72RHI",
+    "B07B1FKJK2"
+   ],
+   "C": [
+    "B01GU9YWY4",
+    "B01HCMKVXE"
+   ],
+   "I": [
+    "B07FPB92WQ"
+   ]
+  },
+  {
+   "query_id": 11052,
+   "query": "au lait hand wash",
+   "E": [
+    "B0040BGUB8",
+    "B00NQ7OBIG",
+    "B00NQ7QN28",
+    "B00NQ7SID0",
+    "B00NQ7UDBK",
+    "B00NQ9A2EG",
+    "B00NQ9SGKS",
+    "B017ZH0QU4",
+    "B01N6RX5SH"
+   ],
+   "S": [
+    "B000VXKA2O",
+    "B007QXOEBU",
+    "B00AWNT82Q",
+    "B00NQ91T8E",
+    "B01D635M8C",
+    "B07FXWVST2"
+   ],
+   "C": [],
+   "I": [
+    "B086HPD5RB"
+   ]
+  },
+  {
+   "query_id": 11266,
+   "query": "auto electrical",
+   "E": [
+    "0760320993",
+    "1932494871",
+    "B01MY4QF58",
+    "B075HY7VL5",
+    "B079ZRQRJR",
+    "B07BX94SMY",
+    "B07CWNQC4V",
+    "B07KP369MF",
+    "B07MJKCM81",
+    "B07PNBYWMP",
+    "B07QFW8X9Z",
+    "B081JGYFWT",
+    "B08F7QD63C"
+   ],
+   "S": [],
+   "C": [
+    "1645640736"
+   ],
+   "I": [
+    "B07W829F3F"
+   ]
+  },
+  {
+   "query_id": 11593,
+   "query": "b h photo",
+   "E": [
+    "B07524LHMT",
+    "B07G334LP9",
+    "B07H9J1YXN"
+   ],
+   "S": [
+    "B06XS1D62L",
+    "B07FYCJZZY"
+   ],
+   "C": [
+    "B06XBGTWLG",
+    "B08FB2Q5RC",
+    "B08HH984SX",
+    "B091YRRBT7"
+   ],
+   "I": [
+    "B005FHZ2SI",
+    "B00EPWC30O",
+    "B00PJSIIES",
+    "B01LZJH63M",
+    "B07V42JLFH"
+   ]
+  },
+  {
+   "query_id": 11656,
+   "query": "b089d5t6j8 adhesive",
+   "E": [
+    "B00H3R9S1K",
+    "B089D5T6J8",
+    "B08LVGZJLB",
+    "B08NXB4FS6",
+    "B08P4544L3"
+   ],
+   "S": [
+    "B081BJLF5X",
+    "B08HQGKCJL",
+    "B094NNFS3V",
+    "B094QQ7LG5"
+   ],
+   "C": [],
+   "I": [
+    "B07Y7RTG3Q",
+    "B07YV5FW9W",
+    "B08TWDQKWG",
+    "B08V1FNCMQ"
+   ]
+  },
+  {
+   "query_id": 11715,
+   "query": "baby add on items",
+   "E": [
+    "B06XTQ4FNN",
+    "B07F2CHSLQ"
+   ],
+   "S": [
+    "B00000JTER",
+    "B00001P4WK",
+    "B00001P4WT",
+    "B00001QEA4",
+    "B00001QEC2",
+    "B007GE75HY",
+    "B00H0JW340",
+    "B07C7NXZ79",
+    "B07DFGC7DR",
+    "B07MX5F6B3"
+   ],
+   "C": [],
+   "I": [
+    "B004TSIRTA",
+    "B00ZVFTHXA",
+    "B01H7KAJH4"
+   ]
+  },
+  {
+   "query_id": 11979,
+   "query": "baby girl lebron jersey",
+   "E": [
+    "B00OX1RRV2",
+    "B07DBC5MDD",
+    "B07F6S17N2",
+    "B07F6X5SP9",
+    "B07FN9DM3Z",
+    "B07JKH4X6C",
+    "B07JLG77NL",
+    "B07Y1M5PYT",
+    "B07ZC24BWM",
+    "B0847C52JC"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B008C280D2",
+    "B00INH661E",
+    "B06XVH77SN",
+    "B07DMHWKHH",
+    "B07T3D2521"
+   ]
+  },
+  {
+   "query_id": 12051,
+   "query": "baby long sleeve onesies",
+   "E": [
+    "B00X228BRC",
+    "B01MG8MVHS",
+    "B01MRE55Z0",
+    "B01MRE7ABF",
+    "B06WD642X2",
+    "B071FG62P8",
+    "B075YZ1963",
+    "B0792GX9RC",
+    "B07CY4443G",
+    "B07FK9S1F1",
+    "B07G1FRWKN",
+    "B07GF9T9JJ",
+    "B07Q4QPS3M",
+    "B081DHZ16K"
+   ],
+   "S": [
+    "B07GFPVS2M"
+   ],
+   "C": [],
+   "I": [
+    "B07961JYWP"
+   ]
+  },
+  {
+   "query_id": 13180,
+   "query": "barbie red carpet dolls",
+   "E": [
+    "B000GYWXT6",
+    "B004VYYA2K",
+    "B00PKRTRES",
+    "B00T03U6AC",
+    "B014DEHDZI",
+    "B01L02J0G6",
+    "B01MQY92JW",
+    "B01N2RLKLG",
+    "B074MQ94PC",
+    "B0751RGXLR",
+    "B079JCZMMK",
+    "B07VF93BN6"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00005QTVG",
+    "B000W2FE8O",
+    "B0012YMJAW",
+    "B00FB7XKYK"
+   ]
+  },
+  {
+   "query_id": 13857,
+   "query": "batman lego sets 4-7",
+   "E": [
+    "B00IANU9HS",
+    "B01AW1R8EC",
+    "B01KJENRA6",
+    "B075M5MTS3",
+    "B075NTKB1G",
+    "B07Q2MZV3F",
+    "B07Q2N1LVB",
+    "B07Q2N27TV",
+    "B07Q2VRC44",
+    "B07Q2WMLM5",
+    "B08589RNFQ",
+    "B0858JVBZV",
+    "B0858MYF21",
+    "B08NFBP4XX",
+    "B08NFC6YHV"
+   ],
+   "S": [
+    "B00NHQFA1I",
+    "B01KJEOCDW",
+    "B01KOL639Q",
+    "B07GVXJVDM",
+    "B07PS65RKM",
+    "B085D5FQTL",
+    "B08HVXHFSR",
+    "B08HVZBBSD",
+    "B08HVZMW1S",
+    "B08HW14VC2",
+    "B08HW2PSTQ",
+    "B08NF9H6SV",
+    "B08NFBH2K1",
+    "B08NFCK4JZ",
+    "B08YP6Y6J1",
+    "B08YPBT8BT",
+    "B08YPCK9HX",
+    "B08Z9TXLRC"
+   ],
+   "C": [
+    "B08HW2SX2D"
+   ],
+   "I": [
+    "B075NRZ1HY",
+    "B07CSXVNSD",
+    "B07MFYC7F9",
+    "B0858C7YHW",
+    "B08HVYLS6L"
+   ]
+  },
+  {
+   "query_id": 14004,
+   "query": "bavul",
+   "E": [
+    "6051424350",
+    "6257938619",
+    "9751029228",
+    "B00CN98LFM",
+    "B076KMKFGJ",
+    "B076KPBXZF",
+    "B078STHWGL",
+    "B07HP95SHV",
+    "B07XV3XRHW"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "9750837584",
+    "9759964007",
+    "B002Q5UUIO",
+    "B00CRGOXH6",
+    "B083F3QPD3",
+    "B083F419XP",
+    "B0847TPMNT"
+   ]
+  },
+  {
+   "query_id": 14234,
+   "query": "beads without holes",
+   "E": [
+    "B01KEUX6MO",
+    "B01M3WZGB5",
+    "B06Y4BS9T1",
+    "B075245PPS",
+    "B078K5CZ39",
+    "B079GMB8CQ",
+    "B079PWS1DH",
+    "B07DS37372",
+    "B07HCZ4MD9",
+    "B07KXMRNSY",
+    "B07NCMM558",
+    "B07PHRN9Z3",
+    "B07R53V744",
+    "B07R8B8ZYJ",
+    "B07X9FCD13",
+    "B07ZNBYCN8",
+    "B081R3M35F",
+    "B086W6TZK9",
+    "B087ZQH7ZR",
+    "B08CHB1BGJ",
+    "B08FD85K9L",
+    "B08P5HPP7C",
+    "B08SLF8ZJ5",
+    "B08SWRPY6N",
+    "B092QMWXRR",
+    "B094GYHMNP",
+    "B09CKFCDQV"
+   ],
+   "S": [
+    "B08V8TJQJ8",
+    "B0922HLXCJ",
+    "B09B4Z5SRY",
+    "B09BCHPBQP",
+    "B09CQ2TRD4"
+   ],
+   "C": [],
+   "I": [
+    "B01KNUQR62",
+    "B077YF5JGH",
+    "B07QSR89T2",
+    "B07TKRJN1Z",
+    "B08FLHM2T7",
+    "B08GH7JGL7",
+    "B08TTKVN9T",
+    "B08W1X6G2N"
+   ]
+  },
+  {
+   "query_id": 14645,
+   "query": "bee wings for women",
+   "E": [
+    "B002EV3H5S",
+    "B00QD74KYG",
+    "B0143M7ICS",
+    "B06Y4597PK",
+    "B07259RV1H",
+    "B07F77MPB8",
+    "B07H4FSK73",
+    "B07QS5ZGL1",
+    "B07VDT16K2",
+    "B07VW6BGTN"
+   ],
+   "S": [
+    "B075ZBVFVJ",
+    "B07RLZQ987"
+   ],
+   "C": [],
+   "I": [
+    "B000AO7PY0",
+    "B0014F50OQ",
+    "B01K5WC3C0",
+    "B07G5LKYYT"
+   ]
+  },
+  {
+   "query_id": 15586,
+   "query": "big blue 20 inch carbon replacement filters b01mdkll1m",
+   "E": [
+    "B008GNRMYK",
+    "B01M328NLZ",
+    "B01MG52PQT",
+    "B077XP63JV"
+   ],
+   "S": [
+    "B00LBHIW8S",
+    "B01JIRHRBK",
+    "B01MU7973W",
+    "B085C22ZJM",
+    "B08DCXR6TT"
+   ],
+   "C": [],
+   "I": [
+    "B01MG5BZYR",
+    "B01N2H2OO6",
+    "B073SLDNJW",
+    "B086WRLZPY"
+   ]
+  },
+  {
+   "query_id": 16206,
+   "query": "bitters angustora",
+   "E": [
+    "B001ACDOA0",
+    "B0037X4QDO",
+    "B003BP1BJK",
+    "B009QDQVK0",
+    "B009YF90OO",
+    "B00B1L36IU",
+    "B00GYJI4MC",
+    "B01MQHFEGK",
+    "B081XDRRWT"
+   ],
+   "S": [
+    "B001CDTO6U",
+    "B013TQKEWK",
+    "B01MA28YIS",
+    "B01MCZWIRJ",
+    "B01NAHY8G3"
+   ],
+   "C": [],
+   "I": [
+    "B009YLDJY0",
+    "B0798N6HWC"
+   ]
+  },
+  {
+   "query_id": 16305,
+   "query": "black and white candy canes",
+   "E": [
+    "B00MIANQB0",
+    "B076CW9KK9",
+    "B076X199CF",
+    "B077R1G9YL",
+    "B07ZTM6VGN"
+   ],
+   "S": [
+    "B018IU4WV6",
+    "B0754THVHP",
+    "B07K6VRPC3",
+    "B07QD7F2RT",
+    "B07T2FQZM9"
+   ],
+   "C": [],
+   "I": [
+    "B0017L4PH0",
+    "B017S1UKXK",
+    "B07D9Z7W9H",
+    "B07MJLP9M6",
+    "B07N7QT3ZQ",
+    "B07VK7KCFV"
+   ]
+  },
+  {
+   "query_id": 16759,
+   "query": "black removable vinyl",
+   "E": [
+    "B00JZ1VFD6",
+    "B00MW8X9LU",
+    "B00WTFQTRM",
+    "B01E1PT8A2",
+    "B01HSDU3BC",
+    "B06XHTWJRJ",
+    "B06Y1SC11F",
+    "B06Y4WPH21",
+    "B0725XWZ3N",
+    "B074MYNK14",
+    "B077TJYHRX",
+    "B077XK745F",
+    "B077XQVKS5",
+    "B0785GKWNS",
+    "B079YY3D7S",
+    "B07BHV92W2",
+    "B07F1FFLBG",
+    "B07F6F1T9C",
+    "B07FBN2Q2P",
+    "B07KMYFGQ8",
+    "B07P5HG8T5",
+    "B07P7RPCRH",
+    "B07W56SS2N",
+    "B07WW6XNTH",
+    "B07Z1NLMS1",
+    "B082YTZ4F6",
+    "B084LMJDJT",
+    "B08HK72T2S",
+    "B08L78HTT5",
+    "B0942S4T92"
+   ],
+   "S": [
+    "B077XK3HYW",
+    "B07F1BMNQM",
+    "B07H86YYDP",
+    "B07N2ZP6XP",
+    "B086MNWZSW",
+    "B087ZRJQ7F",
+    "B08TMM8M7Y",
+    "B092LWQKLZ"
+   ],
+   "C": [],
+   "I": [
+    "B08HCKNMHY",
+    "B097HHK1WN"
+   ]
+  },
+  {
+   "query_id": 17011,
+   "query": "bladeless fan without filter",
+   "E": [
+    "B000E5WAUO",
+    "B000RL1WNQ",
+    "B000RL3UJA",
+    "B002M0HU04",
+    "B007XWNT74",
+    "B01N2P6V5P",
+    "B072PS3FR1",
+    "B0792KWMF5",
+    "B07M5N3KFQ",
+    "B07MHV47LR",
+    "B07QHG97RZ",
+    "B07RGMW8MX",
+    "B07RKNRS8Q",
+    "B07WNYB65S",
+    "B082WZHMND",
+    "B082WZYFJV",
+    "B087D65HVK",
+    "B087LTQJF8",
+    "B08888VZBR",
+    "B0888R3QDR",
+    "B088H3DJDX",
+    "B08P4Z3B5X",
+    "B08P5NNNL5",
+    "B08PDDSDHY",
+    "B08R697SHF",
+    "B08T1YQTNZ",
+    "B08T9RHCFQ",
+    "B091FB11FH",
+    "B0925RSCSW",
+    "B0928JNZYD",
+    "B092DT57Y1",
+    "B097R8HG7S",
+    "B09B54FZ49"
+   ],
+   "S": [
+    "B000RMJANY"
+   ],
+   "C": [
+    "B07GBV8KCB",
+    "B092CQRYK3"
+   ],
+   "I": [
+    "B075SRW48D",
+    "B08CRMGYG8"
+   ]
+  },
+  {
+   "query_id": 18481,
+   "query": "boost mobile phones",
+   "E": [
+    "B01NAW98VS",
+    "B07BH6MXRT",
+    "B07DXPLJB2",
+    "B07GC1T27V",
+    "B07H8PXT7K",
+    "B07N91914Z",
+    "B07N929634",
+    "B07NYV8TDR",
+    "B07S8CZQW5",
+    "B07XYDZPWF",
+    "B07YP3M7GV",
+    "B07YZS2X7J",
+    "B07ZG5XVZV",
+    "B081YSP2WY"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B073V5S3T7",
+    "B0793F4PNG"
+   ]
+  },
+  {
+   "query_id": 18980,
+   "query": "bowflex max trainer m6",
+   "E": [
+    "B000XU5U7A",
+    "B0029KL2MO",
+    "B078HHTS9L",
+    "B07B6GLTDQ",
+    "B07QRCSBY6",
+    "B085N9LTWF"
+   ],
+   "S": [
+    "B000GRDS6U",
+    "B01MY88ZZ0",
+    "B078DP9JXX",
+    "B07QFJV8GG",
+    "B07XTQ6SRG",
+    "B07Y2CN21D"
+   ],
+   "C": [],
+   "I": [
+    "B001ARYU58",
+    "B00K6ZURAW",
+    "B00STOHPMU"
+   ]
+  },
+  {
+   "query_id": 19189,
+   "query": "boys cream sweater",
+   "E": [
+    "B01M03114J",
+    "B074W1FNNZ",
+    "B079R8GMPZ",
+    "B07BJ4CDTJ",
+    "B07F17B1XL",
+    "B07HQGCQQ7",
+    "B07N4PXW2H",
+    "B07NYBK99G",
+    "B07P1F1DQ9",
+    "B07P7BCR1J",
+    "B07PBLH2KN",
+    "B07VV3DS8Y",
+    "B07W3BFVBK",
+    "B08FX2SCL6",
+    "B08KVMZJMJ",
+    "B08L5464MX",
+    "B08TVJMK4H",
+    "B09256JQ69",
+    "B095YFMRPW",
+    "B09646M9WN",
+    "B099PKJ687"
+   ],
+   "S": [
+    "B00I2ZHCBU",
+    "B01EMLSQMG",
+    "B075F94RWH",
+    "B07DQ89D5Q",
+    "B07PBMGYYD",
+    "B07Q28694W",
+    "B07VJRVPDK",
+    "B07VVMRTY6",
+    "B07WL8CK7W",
+    "B0813ZDV6T",
+    "B08GZ8QLZ8",
+    "B08JPM18R7",
+    "B08N649465",
+    "B09B233XZG",
+    "B09FKKJH82"
+   ],
+   "C": [],
+   "I": [
+    "B079R8JQ83",
+    "B07P3NPLZL",
+    "B07VGS3Y2N"
+   ]
+  },
+  {
+   "query_id": 19941,
+   "query": "brooklyn 99",
+   "E": [
+    "B00F9TU4MQ",
+    "B00O7L8866",
+    "B015TNTKLM",
+    "B01M65TFWX",
+    "B077XTWQF2",
+    "B07DL8GHHP",
+    "B07NZZBWZL",
+    "B084JNQQXF",
+    "B084ZV2Q8W"
+   ],
+   "S": [],
+   "C": [
+    "B07Q3SXFD8",
+    "B07Q5VKYTZ",
+    "B07Q6ZXT68",
+    "B07Q84M7FF",
+    "B086GPQL3W"
+   ],
+   "I": [
+    "B000U63ZHO",
+    "B000VU2SW2",
+    "B0026Q4OPI",
+    "B077ZFJX23",
+    "B07QS8Z777",
+    "B07QW3ZM3R"
+   ]
+  },
+  {
+   "query_id": 20158,
+   "query": "brush zippered easel case",
+   "E": [
+    "B013W3KOB6",
+    "B013W6VEV2",
+    "B01GCBBRXE",
+    "B07D4R1HG4",
+    "B07DK115XB",
+    "B07DKTNF8K",
+    "B07JMHVLP4",
+    "B07SMY2253"
+   ],
+   "S": [
+    "B07KWKW4WT"
+   ],
+   "C": [],
+   "I": [
+    "B004O4K44A",
+    "B00LGOYE88",
+    "B071P3BTR7",
+    "B0746H5F3D",
+    "B07CBB5MML",
+    "B07JBC4SFK",
+    "B082TYMKZ2"
+   ]
+  },
+  {
+   "query_id": 20314,
+   "query": "budha mural wall art",
+   "E": [
+    "B008P6SKDK",
+    "B00TPLW2LA",
+    "B00X5LVUMS",
+    "B013YH1VJY",
+    "B01GJGG4OE",
+    "B01I1AELAK",
+    "B01IT9EH1Q",
+    "B01J520H4C",
+    "B06W5XYG6D",
+    "B06WVMY3JF",
+    "B06XRS2D63",
+    "B071D1CR68",
+    "B071Z8CV7V",
+    "B074S3W28H",
+    "B07BSBVK9Z",
+    "B07G19R86J",
+    "B07KRP1NFV",
+    "B07R526PQ5",
+    "B07W8X6JQV",
+    "B08FT334NZ",
+    "B08KT8NCGG",
+    "B08LCG16WT",
+    "B08XWS51CZ",
+    "B08Y7JBQW9",
+    "B091ZHXK9W",
+    "B093GTFJ9B",
+    "B094JTWZ6P",
+    "B098TPVB6D",
+    "B09BVCWF92"
+   ],
+   "S": [
+    "B010TTLVVI",
+    "B0173R9YKO",
+    "B01GYJIKT8",
+    "B075ZW38NV",
+    "B07BN888BF",
+    "B07Y7H1NK1",
+    "B08MFRGZZX",
+    "B0993JX187"
+   ],
+   "C": [],
+   "I": [
+    "B012JTYGAO",
+    "B07D2HHDQ8",
+    "B092JCQR96"
+   ]
+  },
+  {
+   "query_id": 20844,
+   "query": "butter balm bug",
+   "E": [
+    "B00C67ED80",
+    "B00UW3X27S",
+    "B010MJAKCG",
+    "B073H3W5R6"
+   ],
+   "S": [
+    "B000WOYH0S",
+    "B001PQBEAI",
+    "B002GZMAL4",
+    "B004RIS32I",
+    "B00FKNC2WG",
+    "B00TTD9BRC",
+    "B01AASJCPA",
+    "B01LBUNB8A",
+    "B07JC2T1Z1",
+    "B07MX1YD73"
+   ],
+   "C": [],
+   "I": [
+    "B004AI97MA",
+    "B01MSSDEPK"
+   ]
+  },
+  {
+   "query_id": 20875,
+   "query": "butterfly knife trainer without latch",
+   "E": [
+    "B01CQ8G2VO",
+    "B01I31QY52",
+    "B01N7SRM52",
+    "B06WLQ7PXG",
+    "B074P2SYVL",
+    "B07FMSZMTM",
+    "B07LDZ6PZG",
+    "B07M9QR95F",
+    "B07MKN9Y9R",
+    "B07NYFR817",
+    "B07PJY251J",
+    "B07QQQPWB3",
+    "B07RYPJ33F",
+    "B07TB8T9ZK",
+    "B07W5P1NMS",
+    "B085RLKK4N",
+    "B087D7JKZV",
+    "B088X32BZT",
+    "B08941MYG2",
+    "B08Y5QS9KW",
+    "B08YYKB1WF",
+    "B0914SFCL5",
+    "B0922SBY15",
+    "B094CBW834",
+    "B094FDZD49",
+    "B09B8N9QQ4",
+    "B09CYMM4LW",
+    "B09HNXBR85"
+   ],
+   "S": [
+    "B001DF02WC",
+    "B06XRCGCV8",
+    "B07MDBNB3G",
+    "B07PJZJ4YK",
+    "B07QLK56Z7",
+    "B07W6637B5",
+    "B08B12NJ8C",
+    "B08CCQCN9Y",
+    "B091HBVB2X",
+    "B0934F3CJ6"
+   ],
+   "C": [],
+   "I": [
+    "B07BHGXBMG",
+    "B091JX8WR4"
+   ]
+  },
+  {
+   "query_id": 21233,
+   "query": "cactus shoes for women",
+   "E": [
+    "B0711CSJN1",
+    "B076MFQM31",
+    "B079RLHJBG",
+    "B07FL5C268",
+    "B07JM2ML53",
+    "B07LH474NN",
+    "B07P6XRWJ8",
+    "B07PQ1HBJN"
+   ],
+   "S": [
+    "B07D3ZNRG6"
+   ],
+   "C": [
+    "B008ALM57W",
+    "B0788GBPQ1"
+   ],
+   "I": [
+    "B00MVAQN4E",
+    "B077991JK8",
+    "B078J84WQL",
+    "B078XMVP2W",
+    "B07FKVWVYJ"
+   ]
+  },
+  {
+   "query_id": 21555,
+   "query": "calenders with pockets",
+   "E": [
+    "0545114799",
+    "1087370523",
+    "1089056990",
+    "1449496946",
+    "1469412284",
+    "1469412322",
+    "152350594X",
+    "1643323962",
+    "1724871447",
+    "B07QLST968",
+    "B07TLL7LC7",
+    "B07Y1XPKB4"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "1412799538",
+    "1469412381",
+    "B07R4MKMMT",
+    "B0861ZJDHN"
+   ]
+  },
+  {
+   "query_id": 22083,
+   "query": "camo snow jacket men",
+   "E": [
+    "B006JT7DBK",
+    "B01GO0RW3W",
+    "B07CJWLBYM",
+    "B07MSP4J79",
+    "B07RK4Q15Z",
+    "B07W43NVYB"
+   ],
+   "S": [
+    "B00OA2NCVI",
+    "B00TEQ4476",
+    "B0784FW7Q3",
+    "B07FR6JRTN",
+    "B07ML3ZDVK",
+    "B07PC6XY4V",
+    "B07SJYG19Y",
+    "B07SRYN8GK"
+   ],
+   "C": [],
+   "I": [
+    "B00LXFKAFQ"
+   ]
+  },
+  {
+   "query_id": 23235,
+   "query": "carmen sandiego prime video",
+   "E": [
+    "B07NNRCHP9",
+    "B07PZY362Y",
+    "B07Q113549",
+    "B07Q22NHVR",
+    "B084ZTMZ5X",
+    "B084ZTWNS4",
+    "B084ZV671V",
+    "B08511267W",
+    "B086R9DVY5"
+   ],
+   "S": [
+    "B0000D0YTO",
+    "B006WCPRC6",
+    "B006WNSHUY",
+    "B0169ELFGI",
+    "B0817MXNG2",
+    "B081L5PJZ9"
+   ],
+   "C": [],
+   "I": [
+    "B074BS6RJT"
+   ]
+  },
+  {
+   "query_id": 24018,
+   "query": "caucasian hat",
+   "E": [
+    "B00CQNZN7E",
+    "B0149MR09I",
+    "B014RVD928",
+    "B06XDB25T6",
+    "B075SDK4Q6",
+    "B07CDD8YJS",
+    "B07JW4PP6W",
+    "B07JYRXM63",
+    "B07XD9WRP3",
+    "B081Y99TD7"
+   ],
+   "S": [
+    "B017R71Q8S"
+   ],
+   "C": [],
+   "I": [
+    "B01MD1SY0C",
+    "B071HXKKHQ",
+    "B07JYF46G8",
+    "B07MDH8HZR",
+    "B084H6CYNX"
+   ]
+  },
+  {
+   "query_id": 24377,
+   "query": "cera ve face wash",
+   "E": [
+    "B00D7BZJ3C",
+    "B01MSSDEPK",
+    "B07RJ18VMF",
+    "B07YLJPMC3"
+   ],
+   "S": [
+    "B000YJ2SLG",
+    "B001ET79H8",
+    "B00F97FHAW",
+    "B00SNPCSUY",
+    "B00TTD9BRC",
+    "B01N34XW93",
+    "B01N7T7JKJ",
+    "B07GC74LL5",
+    "B07KWJLCM2",
+    "B07PNCCLD2",
+    "B07VWSN95S"
+   ],
+   "C": [],
+   "I": [
+    "B075N8CDGT"
+   ]
+  },
+  {
+   "query_id": 24666,
+   "query": "challenges for youtubers",
+   "E": [
+    "B00ICT6ARS",
+    "B073R59XYF",
+    "B0742DY1GX",
+    "B075VM9N96",
+    "B075ZRJDK4",
+    "B0778X6JJX",
+    "B087XXTXBZ",
+    "B08THZBHC5",
+    "B0978N1TPB"
+   ],
+   "S": [
+    "B08XK2NN22"
+   ],
+   "C": [
+    "B08B1MBQQW"
+   ],
+   "I": [
+    "B005HBTNH8",
+    "B00GE1XKHY",
+    "B00KQ23GGW",
+    "B01BV59ON6",
+    "B01EWNUUUA",
+    "B01LXDNNBW",
+    "B01M5DJ6PZ",
+    "B06XKNZT1P",
+    "B083YKWBC1",
+    "B0896Y8PLN",
+    "B08CRXNYDS",
+    "B08D6PPWY5",
+    "B08R2DB2R5",
+    "B08YXSQJZF",
+    "B08Z4H7YGZ",
+    "B093NHPRFY"
+   ]
+  },
+  {
+   "query_id": 24717,
+   "query": "champion shoes for men",
+   "E": [
+    "B01FGGQP74",
+    "B07487NP4L",
+    "B078WYNQLZ",
+    "B07DPVTR8N",
+    "B07G686FF8",
+    "B07GSKVZLC",
+    "B07L6RCV71"
+   ],
+   "S": [
+    "B07CTNPC41",
+    "B07TCY2ZY1"
+   ],
+   "C": [],
+   "I": [
+    "B00177ETJ8",
+    "B0797NJXXK",
+    "B07F7RJT8Z",
+    "B07JHWRTNZ",
+    "B07KCS5LX3",
+    "B07NQH31Y5",
+    "B07QGL2LDP"
+   ]
+  },
+  {
+   "query_id": 25168,
+   "query": "cheep light yellow heels",
+   "E": [
+    "B01C4TUP4K",
+    "B01MQXUGXP",
+    "B06X3YPY6L",
+    "B06ZZBGT4C",
+    "B079GDY2PP",
+    "B07JJ918TP",
+    "B07MQTNWWS",
+    "B07SJM5VRC",
+    "B07TC96LB5"
+   ],
+   "S": [
+    "B07BQZ1N6Y",
+    "B07GPS9KXR",
+    "B07LGGWGNX",
+    "B07MRHHFDS",
+    "B07NHYT4ZK",
+    "B07P1BNMS1"
+   ],
+   "C": [],
+   "I": [
+    "B00RM3B4OY"
+   ]
+  },
+  {
+   "query_id": 25329,
+   "query": "chery brown",
+   "E": [
+    "B01MZGC38E",
+    "B07RRX73PC"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B008PFDUW2",
+    "B00JG01QTY",
+    "B00S5E4LX0",
+    "B01CDYB8AG",
+    "B01ER4B7K6",
+    "B01MS0I1ZK",
+    "B01NAI2TXC",
+    "B07B8DS585",
+    "B07DRRT25V",
+    "B07K193HZ4",
+    "B07N4D7S6F",
+    "B07QRGGCGP",
+    "B07TP2VJ54",
+    "B082GRKQYF"
+   ]
+  },
+  {
+   "query_id": 25582,
+   "query": "childrens calculator",
+   "E": [
+    "B0006UHE8U",
+    "B000RZAR9M",
+    "B005EQ8DTA",
+    "B07JD7R2RS",
+    "B07XTPKRG6"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00000JBNQ",
+    "B0006PJ0VO",
+    "B000CD2MCE",
+    "B000M8HFAI",
+    "B00178HMMS",
+    "B003825ODA",
+    "B003U6P100",
+    "B00J1VB2WO",
+    "B01JAD2VC2",
+    "B01JOS6E8K",
+    "B07L15PNHM"
+   ]
+  },
+  {
+   "query_id": 26062,
+   "query": "christmas towels fingertips",
+   "E": [
+    "B00FYYP47G",
+    "B00L5EEFZQ",
+    "B076JHQKXQ",
+    "B07TCQN2BZ",
+    "B07XB5FZ9S",
+    "B07XGHNTNW"
+   ],
+   "S": [
+    "B00WHZFPDS",
+    "B01IU9OS14",
+    "B01LWA88XK",
+    "B07J1XTL1B",
+    "B07TGKS1K1"
+   ],
+   "C": [],
+   "I": [
+    "B000V65REC",
+    "B008NMOLIY",
+    "B014VIJUF2",
+    "B01DMKZOFU",
+    "B07453L1MY"
+   ]
+  },
+  {
+   "query_id": 27167,
+   "query": "coach wallet for women",
+   "E": [
+    "B01FV04W52",
+    "B01GRDH8HG",
+    "B01MZ6IPQ2",
+    "B074YCRS3Z",
+    "B076R9N7H9",
+    "B077DTMQTX",
+    "B077F881W1",
+    "B0785Y234G",
+    "B07P5KDBVS",
+    "B07TVQTGFD",
+    "B07X2V2K37",
+    "B07X5DXCGW",
+    "B07XYHH43L"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B076V8TTYX",
+    "B07CV65BBX",
+    "B07H7XVP7R"
+   ]
+  },
+  {
+   "query_id": 27881,
+   "query": "colored contact lenses",
+   "E": [
+    "B00Y12LBHO",
+    "B01MRJHRMS",
+    "B06Y3WL4ZB",
+    "B07PD21PYK",
+    "B07T4FBLPN"
+   ],
+   "S": [],
+   "C": [
+    "B003H03SDQ",
+    "B003H07RXS",
+    "B072N7WNTK",
+    "B07BVYZL88",
+    "B07FMYS892",
+    "B07JG8ZYWF",
+    "B07TWCJD6D",
+    "B081R59TDT"
+   ],
+   "I": [
+    "B01LZLXJ9M",
+    "B01M0MPE7I",
+    "B0719FL3KJ",
+    "B071FQLYJY",
+    "B074J9PQ89",
+    "B07DD9L7R5",
+    "B07FF1951D",
+    "B07HG28D4C"
+   ]
+  },
+  {
+   "query_id": 28563,
+   "query": "consumer cellular",
+   "E": [
+    "B01J24YR80",
+    "B0764GW695",
+    "B0793J65SN",
+    "B07D4MDK6L",
+    "B07FK3B5C3"
+   ],
+   "S": [
+    "B01DRV2BBY",
+    "B06XRG5S2C",
+    "B07BHHHT7Z",
+    "B07GC5QFXB",
+    "B07GS1V652",
+    "B07J6PC244",
+    "B07NRTN5XG",
+    "B082FNJJ54"
+   ],
+   "C": [
+    "B08371TX5P"
+   ],
+   "I": [
+    "B0741FV7ZV"
+   ]
+  },
+  {
+   "query_id": 29390,
+   "query": "cosrx mela 14 white ampule",
+   "E": [
+    "B016NRXO06",
+    "B01LZJ3LN7",
+    "B01N5GPXG2",
+    "B0874WBNBN"
+   ],
+   "S": [
+    "B0030JE7M0",
+    "B00EKEE4TK",
+    "B01GRV9MR2",
+    "B06Y15D1LH",
+    "B0757FCW3M",
+    "B07CZZ2QGB",
+    "B07DKC23D5",
+    "B07NGF5395",
+    "B07Q6DBMT8",
+    "B07RGYL5J9",
+    "B07RJ3CP36",
+    "B07X41RNFH",
+    "B07ZGJQZ8G",
+    "B082J482N8",
+    "B088C6CKHX",
+    "B089SD4RZ2",
+    "B08JSL9W6K",
+    "B08MVLG8N2"
+   ],
+   "C": [
+    "B00PBX3L7K",
+    "B07N3SMBRM",
+    "B086TZWQRG",
+    "B08JPNX967"
+   ],
+   "I": [
+    "B00B73SMFY",
+    "B00OZ9WOD8",
+    "B00OZE57XW",
+    "B00PBX3FLW",
+    "B010FOFSH0",
+    "B01LEJ5MSK",
+    "B01N13W31F",
+    "B01N224F9Z",
+    "B073P6BPF5",
+    "B073P6ZQ4V",
+    "B07BNCMR54",
+    "B07N81CDCN",
+    "B086V28LXL",
+    "B088WJHVXS"
+   ]
+  },
+  {
+   "query_id": 30677,
+   "query": "cuisinart electric knife",
+   "E": [
+    "B00004X12T",
+    "B00006IUX1",
+    "B00065XWO0",
+    "B001FDGKX2",
+    "B002DUCCDI",
+    "B00GIBKC3K",
+    "B00GJVA8I8",
+    "B00GMH7UW6",
+    "B00S0BEUIY",
+    "B00X3N9L8S",
+    "B01K1JJAI2",
+    "B01M7R8UM8",
+    "B076H7395Q",
+    "B079MFD755",
+    "B07DRM9YXL",
+    "B07FCTL85G",
+    "B07H5T2T2S"
+   ],
+   "S": [
+    "B06XYSGHBB"
+   ],
+   "C": [],
+   "I": [
+    "B000A7NRV2",
+    "B001C2F5NW"
+   ]
+  },
+  {
+   "query_id": 31466,
+   "query": "danburite crystal",
+   "E": [
+    "B003TTDURY",
+    "B01CM0XQ4C",
+    "B01CNFLZH6",
+    "B01JZNASM2",
+    "B01KWQ5XLW",
+    "B06XF9VFQR",
+    "B075R4XPM3",
+    "B07NL98CF6",
+    "B07TP4LW2V",
+    "B082Z32CTV",
+    "B0898YY3NS",
+    "B08XBF37N9",
+    "B099HXZ5BB"
+   ],
+   "S": [
+    "B003C27Z60",
+    "B003TTAGOY",
+    "B007C2ZAR2",
+    "B00OGX47GK",
+    "B06ZYP2STH",
+    "B071SGJ5V7",
+    "B0727WP5KC",
+    "B07Q154L8Z",
+    "B07TT8DMLD",
+    "B07TWZRSPB",
+    "B07XLXGCDY",
+    "B07YR7441J",
+    "B081D8GY5F",
+    "B08CBD2JC4",
+    "B08HCTDLJ5",
+    "B08L54FTP8",
+    "B08S3LKPP9",
+    "B08SW234C8",
+    "B08THPXTKR",
+    "B08WVDM19B",
+    "B0952DZ5GL"
+   ],
+   "C": [
+    "B08S352KSJ"
+   ],
+   "I": [
+    "B07FZ4H22J",
+    "B07K18CPHR",
+    "B086Q5JX2W",
+    "B08PJJW9MD",
+    "B08VRND8K1"
+   ]
+  },
+  {
+   "query_id": 31523,
+   "query": "danny devito",
+   "E": [
+    "B001AQQR2S",
+    "B001BR3OPE",
+    "B003UH6BZI",
+    "B003Y2U3O4",
+    "B004FHC0E8",
+    "B008Q00LFK",
+    "B0093QEPQM",
+    "B00E9PYFLC",
+    "B019NOE85G",
+    "B07PZDVJZ7"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000HPD6PY",
+    "B000VIJ1AQ",
+    "B002WD4MLG",
+    "B0107ORYR0",
+    "B01I24FZ1Y",
+    "B07VDBBT4C"
+   ]
+  },
+  {
+   "query_id": 31581,
+   "query": "dark grey knee high socks women",
+   "E": [
+    "B00CM29BGI",
+    "B00DY1F7LY",
+    "B00OPZMO5A",
+    "B018RIQ6MM",
+    "B01NCVQW4V",
+    "B072MN6HX1",
+    "B072X7BM2F",
+    "B074WNV4ZF",
+    "B076FPFYJV",
+    "B07B664HR8",
+    "B07FM77KGF",
+    "B07G3D1V8P",
+    "B07HQDQTXN",
+    "B07ST8X429",
+    "B07TYFYZ55",
+    "B07TZL3LDM",
+    "B07TZN41SD",
+    "B07V34MKHS",
+    "B07XPFYZ1Z",
+    "B081RP1BBR",
+    "B088B53WMK",
+    "B08HJW6QXT",
+    "B09BF8CJM1"
+   ],
+   "S": [
+    "B002HJ3FFO",
+    "B072XJTJ5P",
+    "B075WT6TQ8",
+    "B076VZQ58K",
+    "B07855QX3C",
+    "B079WFLWL4",
+    "B07B4YMXD4",
+    "B07QLHYCDW",
+    "B07W11YQSS",
+    "B07WPMK3TR",
+    "B07YVFT41N",
+    "B08F7Z9CQC",
+    "B08HNG3V3T",
+    "B08HP5VLM1"
+   ],
+   "C": [],
+   "I": [
+    "B00K6P04NW",
+    "B00MUKK6RK",
+    "B00UBEFZMI"
+   ]
+  },
+  {
+   "query_id": 31680,
+   "query": "dating is not for marriage",
+   "E": [
+    "B01FWOW5OM",
+    "B08DHCZXWT"
+   ],
+   "S": [
+    "0062980734",
+    "B018H9DP5C",
+    "B01GSMOKFY"
+   ],
+   "C": [],
+   "I": [
+    "006301209X",
+    "0743225503",
+    "0802407048",
+    "080241270X",
+    "0981548709",
+    "0998270105",
+    "1477573305",
+    "1533589240",
+    "1647397294",
+    "B0006NH9BO",
+    "B0061YXJO8"
+   ]
+  },
+  {
+   "query_id": 31786,
+   "query": "days of the dead anthology black bedsheet books",
+   "E": [
+    "1510728589",
+    "B084CT68G6"
+   ],
+   "S": [
+    "0140455507",
+    "0811807673",
+    "B0006IU5WE",
+    "B0058I8A6K",
+    "B005HEVN9G",
+    "B00F91G0OA",
+    "B00OW204LW",
+    "B016J862XU",
+    "B01N3XS8RP",
+    "B0753CSYC4",
+    "B079WJQY8H"
+   ],
+   "C": [],
+   "I": [
+    "0062437607",
+    "B00RM4IB30",
+    "B0751LCQLQ"
+   ]
+  },
+  {
+   "query_id": 31926,
+   "query": "dearth vader mask",
+   "E": [
+    "B0007TZX0Q",
+    "B000ZQ667A",
+    "B010B92B7Y",
+    "B01HRJSD82",
+    "B079JYK8Y5",
+    "B07T85WKXC",
+    "B089M9FLFJ",
+    "B08C9VB4W6",
+    "B08CRND6JK",
+    "B08FWV769J",
+    "B08FZQNQGH"
+   ],
+   "S": [
+    "B08CBXXXD6",
+    "B08K42DKWN"
+   ],
+   "C": [],
+   "I": [
+    "B0009MK8C4",
+    "B000W4RQA6",
+    "B072QN51ZG"
+   ]
+  },
+  {
+   "query_id": 32157,
+   "query": "defiant flashlight magnetic",
+   "E": [
+    "B012BR6D1E",
+    "B01HGD5GKW",
+    "B01HHRDXWK",
+    "B075DGTR48",
+    "B075JCNJJK",
+    "B07DZS158Q",
+    "B07FFKJVT1",
+    "B07K2NZSR6",
+    "B07K6X1CHW",
+    "B07T47M8ZY",
+    "B07XGH2NP5",
+    "B07XJN27NZ",
+    "B081TKX37Q",
+    "B086JHJ2R8",
+    "B08L8C7DTW",
+    "B08QHWKNCT",
+    "B08SHT9YDF",
+    "B08YNFSCS7",
+    "B0922HPG9P"
+   ],
+   "S": [
+    "B004WN6172",
+    "B0135QO2AE",
+    "B01NAYUHYS",
+    "B072893X2Z",
+    "B0798XR4DL",
+    "B07CRJV5RM",
+    "B07FNRNC2B",
+    "B07G9X19G1",
+    "B07L6T1N1K",
+    "B07RC6KP19",
+    "B07SK66ZDH",
+    "B07SVCJLHW",
+    "B07VNCWZBF",
+    "B07X74ZPKZ",
+    "B07XQCJXNY",
+    "B08265KZYH",
+    "B08C9PFQKB"
+   ],
+   "C": [],
+   "I": [
+    "B07QC2ZBB4"
+   ]
+  },
+  {
+   "query_id": 32350,
+   "query": "denin dress for women",
+   "E": [
+    "B01HOBIYBO",
+    "B01MDOYIHE",
+    "B07D5WKDM4",
+    "B07D6FYWBP",
+    "B07KFDWC9R",
+    "B07MLZR7C9",
+    "B07TD7RKXN",
+    "B07TKVFFYJ",
+    "B07TM7S4WX"
+   ],
+   "S": [
+    "B07RNJXW18"
+   ],
+   "C": [],
+   "I": [
+    "B012TVP41C",
+    "B01NBZ2WQI",
+    "B071V69TJX",
+    "B077R9JD2L",
+    "B079TYZM3C",
+    "B07HXDG5TP"
+   ]
+  },
+  {
+   "query_id": 32733,
+   "query": "detective pikachu digital",
+   "E": [
+    "B07BHKS99B",
+    "B07RMGBKB2",
+    "B07TJKW29H",
+    "B07VDVGSW5"
+   ],
+   "S": [
+    "B01MT8AIBE",
+    "B07C13K1YL",
+    "B07DHWCV38",
+    "B07DJXXFH6",
+    "B07DXPYSQ7",
+    "B07KKKC1MT",
+    "B07NRK4MQJ",
+    "B07RMHCS3C",
+    "B07WWMJRGG"
+   ],
+   "C": [],
+   "I": [
+    "B01IW7Z67E",
+    "B07SHXFSH5",
+    "B07TKZQFJC"
+   ]
+  },
+  {
+   "query_id": 32761,
+   "query": "detroit lions golladay jersey",
+   "E": [
+    "B07594TD5Q",
+    "B07CZQK9XH",
+    "B07XC7K63Y",
+    "B081HGG7G9",
+    "B082C7TR2F",
+    "B083V7YX3L",
+    "B08949J6X9",
+    "B08C6BVTM9",
+    "B08CMPBQSM",
+    "B08DN1Z8PV"
+   ],
+   "S": [],
+   "C": [
+    "B07Q3S1QKX",
+    "B08CJ9GJJ1"
+   ],
+   "I": [
+    "B07HVR5XRX",
+    "B07L62XZK5",
+    "B07RF7DWL8",
+    "B08221P29R"
+   ]
+  },
+  {
+   "query_id": 32773,
+   "query": "devil costume for women",
+   "E": [
+    "B001ADUJZ2",
+    "B0027CA1S0",
+    "B00VFK9H94",
+    "B00VFKB2GA",
+    "B01I0Q2JPY",
+    "B072QDW9MB",
+    "B078W4FBKT",
+    "B07CGQHQD3",
+    "B07WMYDVDV",
+    "B083PSRPNM",
+    "B083Q16WG3",
+    "B08FC561YW",
+    "B097P9N5KL",
+    "B098RTGW6V"
+   ],
+   "S": [
+    "B001AXF8HG",
+    "B00BTPPR26",
+    "B00FWIMZ3U",
+    "B079DKJM1K",
+    "B07RHQ9TPT"
+   ],
+   "C": [
+    "B001F0I6QO",
+    "B07592YWQ5",
+    "B08B5RW1RB",
+    "B08BYMTMK4",
+    "B08C2KFS9N",
+    "B08G8LHCKR",
+    "B08K2W3FMK",
+    "B0949S74W8",
+    "B097PPSZSB",
+    "B098DKZLYM"
+   ],
+   "I": [
+    "B001J6OMNU",
+    "B013S1ILU8",
+    "B01L8JJDJU",
+    "B075WNMSVF",
+    "B07CM1DRCY",
+    "B07K2WT6Y9",
+    "B07TP5S8DS",
+    "B07VXC5XGZ",
+    "B081ZVJJDN",
+    "B08Y74JKYW"
+   ]
+  },
+  {
+   "query_id": 32784,
+   "query": "deviled egg plate for 6",
+   "E": [
+    "B07GZP4WTQ",
+    "B07JM9NHYW"
+   ],
+   "S": [
+    "B004SJYINO",
+    "B00NEADT7Y",
+    "B00NYV6PPG",
+    "B01AH24RX6",
+    "B06WRPHHJC",
+    "B072DSP6X7",
+    "B074WF5T6H",
+    "B079KSBGGP",
+    "B079RJYQ8K",
+    "B07MV1B1KV",
+    "B07PXLCRFH"
+   ],
+   "C": [],
+   "I": [
+    "B01GTYTWR2",
+    "B01MXTH6WF",
+    "B07Z1Q7PDD"
+   ]
+  },
+  {
+   "query_id": 33382,
+   "query": "dinosaur mens onsie",
+   "E": [
+    "B07H7HQLTX",
+    "B07V5TZVRN"
+   ],
+   "S": [
+    "B0083I5KM4",
+    "B0145JTPT8",
+    "B017OU0TVI",
+    "B0747HWC8M",
+    "B0748LN8WD",
+    "B076Q1R8PV"
+   ],
+   "C": [],
+   "I": [
+    "B00UNUYE2W",
+    "B01DZLAOT2",
+    "B01HTTS8R6",
+    "B01LVXAFVO",
+    "B0741BBYDH",
+    "B07HCP6NZS",
+    "B07JYDHRZR",
+    "B07RBZVMDY"
+   ]
+  },
+  {
+   "query_id": 34130,
+   "query": "do not let your dragon spread germs",
+   "E": [
+    "1684463653",
+    "B084PTVQLZ"
+   ],
+   "S": [
+    "1649160569",
+    "1948040999",
+    "B08JF5M22D"
+   ],
+   "C": [],
+   "I": [
+    "1250175364",
+    "B00171WXII",
+    "B07MBHHGLQ",
+    "B07NFSW8BX",
+    "B07RHBQ31Q",
+    "B07ZRCCXTV",
+    "B087N3Y8Y3",
+    "B088FZT5T8",
+    "B08FRP4H2Z",
+    "B08G1PPBPH",
+    "B08K8X3P72",
+    "B08L6QP9CB",
+    "B08QRBSTV1",
+    "B097M8WKNQ"
+   ]
+  },
+  {
+   "query_id": 34570,
+   "query": "dog tbird costume",
+   "E": [
+    "B00C6UWE6U",
+    "B00CJQ406I",
+    "B00CJQ4MI4",
+    "B00CJQ4MLG",
+    "B00WBBHX0G",
+    "B079Q9DH56",
+    "B079QDSZMH",
+    "B079QJ7QZB",
+    "B07CRCVZJL"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B007L5ORUG",
+    "B007OWIP86",
+    "B00BFW88R4",
+    "B00BFW8Y8W",
+    "B00CBO6JRG",
+    "B00E1PI7NM",
+    "B07F8NSX1S"
+   ]
+  },
+  {
+   "query_id": 35454,
+   "query": "dresser storage under 30 inches in height",
+   "E": [
+    "B075156G82",
+    "B07G5R8F6X",
+    "B07Q7GVZV6",
+    "B07SRWGW7V"
+   ],
+   "S": [
+    "B01FX5CLBC"
+   ],
+   "C": [],
+   "I": [
+    "B01M9EQ8UD",
+    "B07JB4397M",
+    "B07WYDKMM9"
+   ]
+  },
+  {
+   "query_id": 35710,
+   "query": "dry iron without steam",
+   "E": [
+    "B00440EEIG",
+    "B00ISW92IS",
+    "B083G3L2P5",
+    "B08J6WKGJP",
+    "B08JYQCT8H",
+    "B08SR7LQ5S"
+   ],
+   "S": [
+    "B0064CNBC2"
+   ],
+   "C": [
+    "B00LMIVLXY",
+    "B00UFG6260"
+   ],
+   "I": [
+    "B0091YYUAM",
+    "B00ACDXJSU",
+    "B06XKVR8BF",
+    "B07CB47PZV",
+    "B07HKNX7Q5",
+    "B093H6MYXR",
+    "B0946H7L85"
+   ]
+  },
+  {
+   "query_id": 35924,
+   "query": "dumb and dumber shirts",
+   "E": [
+    "B00A9ME76C",
+    "B00I9LB12I",
+    "B00IOVKGX8",
+    "B00KMFWC90",
+    "B073T6DPDJ",
+    "B0762BYV2V",
+    "B0799B7D2L",
+    "B07V7H2CVH",
+    "B07WX1YMZD",
+    "B088GW222Z"
+   ],
+   "S": [
+    "B0064241R6",
+    "B01GUAQZRA",
+    "B07BTC2W33",
+    "B07DPLS4ZJ",
+    "B07PSGR2KC"
+   ],
+   "C": [],
+   "I": [
+    "B00IIVIYPG"
+   ]
+  },
+  {
+   "query_id": 35972,
+   "query": "dunking booth",
+   "E": [
+    "B006K3HZQS",
+    "B00THN80LM",
+    "B073X2QTGK",
+    "B07FZ1L3BY",
+    "B07R7NGN82",
+    "B07RQN2FMQ",
+    "B07ZL2QG7N",
+    "B084KTT32Y",
+    "B087CBLRQF"
+   ],
+   "S": [
+    "B008A0S09U"
+   ],
+   "C": [],
+   "I": [
+    "1640781684",
+    "B0031DMKII",
+    "B009HSNDI2",
+    "B00QAZD948",
+    "B01GIL6EU4",
+    "B01KL273IS",
+    "B01N219BB4",
+    "B071G3LL38",
+    "B072N3Y64F",
+    "B076JTGHKH",
+    "B07BRN5ZX8",
+    "B07FWCBXJC",
+    "B07P5JCX5J",
+    "B07T16K28M",
+    "B07TKVPC27",
+    "B07W4KRFF5",
+    "B07YF4FNL1",
+    "B086ZGXYM9",
+    "B087DXYFWQ",
+    "B088W7F35G",
+    "B089WBFN39",
+    "B08B16WYDG",
+    "B08F9RCTVD",
+    "B08G1DVQG9",
+    "B08HWF68DR",
+    "B08N6D1SH9",
+    "B08RJCCCM4",
+    "B0936P1B21",
+    "B09DR2FPVC"
+   ]
+  },
+  {
+   "query_id": 36056,
+   "query": "dutch oven cleaner",
+   "E": [
+    "B074PXDX8H",
+    "B079WLMPKZ"
+   ],
+   "S": [
+    "B000H84Q6Y",
+    "B01AXZ6E8I",
+    "B01FNDG2GE",
+    "B073X2KFCG"
+   ],
+   "C": [
+    "B0039UU9UO",
+    "B074PL4YJ7"
+   ],
+   "I": [
+    "B0076NOI7A",
+    "B00FKBR1ZG",
+    "B013FDOXJC",
+    "B01A51S9Y2",
+    "B01MXZ0WD4",
+    "B01N328T3N",
+    "B071YCH2X5",
+    "B07KXK83MP"
+   ]
+  },
+  {
+   "query_id": 36516,
+   "query": "easy to open pill bottle",
+   "E": [
+    "B002A2NCVA",
+    "B00EZ6TL2S"
+   ],
+   "S": [
+    "B01KKP4SZ2",
+    "B071Y2SZGH",
+    "B073VGC9N7",
+    "B074MC6HJR",
+    "B07794YMY7",
+    "B077VLFCML",
+    "B07BSB1BFP",
+    "B07CKYS13D",
+    "B07DFK4SSQ",
+    "B07KXZJGBB",
+    "B07RGJSY5X",
+    "B0828JCGTS"
+   ],
+   "C": [],
+   "I": [
+    "B000X6K9J8",
+    "B01HI7WP0U"
+   ]
+  },
+  {
+   "query_id": 36561,
+   "query": "eboys stuff",
+   "E": [
+    "B000KS52D2",
+    "B00EZORGTA",
+    "B06Y2HCTJS",
+    "B0736WFKBR",
+    "B07FFH56NS",
+    "B07WC9N8GB",
+    "B07Y2HPQSL",
+    "B086HSTVCY",
+    "B08LY8CHCB",
+    "B08MTD1QY1",
+    "B08R64RX18"
+   ],
+   "S": [
+    "B093WSJJ23"
+   ],
+   "C": [],
+   "I": [
+    "B009JBJ142",
+    "B00R92CL5E",
+    "B01BQLPIXA",
+    "B01IMZWVGU",
+    "B01M1NWI42",
+    "B01M25O8E0",
+    "B077D1ZMK3",
+    "B07GFP14SF",
+    "B07GRDXW4L",
+    "B07HT9VHB8",
+    "B07S6K6B27",
+    "B07WZDGVYJ",
+    "B07XMN3SK6",
+    "B07Y2HSDNR",
+    "B07Y54RDBH",
+    "B0869Q3LD2",
+    "B0897MJKGP",
+    "B08CY9XSKM",
+    "B08CZHXRBM",
+    "B08DNSF15K",
+    "B08PV7C9H1",
+    "B08SP3CK3P",
+    "B094TM9FCV",
+    "B09BCN14JD"
+   ]
+  },
+  {
+   "query_id": 36614,
+   "query": "echo show 8",
+   "E": [
+    "B01MEG2HXP",
+    "B07PF1Y28C",
+    "B07T575145",
+    "B07X6K3L7M",
+    "B07X851LY9",
+    "B081BTSFPL",
+    "B081BVH55M",
+    "B085FLTKKB",
+    "B086M9LJPV",
+    "B08B2NYMTW"
+   ],
+   "S": [
+    "B077SXWSRP",
+    "B07BZFJJNK",
+    "B07D7Q4M7J",
+    "B07HZLHPKP",
+    "B07MV64LGF",
+    "B07NJQTTXK"
+   ],
+   "C": [
+    "B079S8K1RP",
+    "B085RCKZNS"
+   ],
+   "I": [
+    "B01EVKUKSG",
+    "B01KBFWW0O",
+    "B079B7SHD8",
+    "B07CVH7WPD",
+    "B07SG7PYYF",
+    "B07Z8SXDQD"
+   ]
+  },
+  {
+   "query_id": 36829,
+   "query": "ego leaf blower without battery",
+   "E": [
+    "B00NP0M1RC",
+    "B01DVO8Y6I",
+    "B07BFK7G5N",
+    "B08X16QRZR",
+    "B0921Q62XJ"
+   ],
+   "S": [
+    "B00D3KJM62",
+    "B00DRBBRWO",
+    "B01BNMP6CU",
+    "B01HIGWCQI",
+    "B07CKZF6TH",
+    "B07RPSP1KN",
+    "B08CXMLQ9S",
+    "B095KN8PJD"
+   ],
+   "C": [
+    "B0102QGE4C"
+   ],
+   "I": [
+    "B01N6P2F8M",
+    "B08R8D66FJ"
+   ]
+  },
+  {
+   "query_id": 37498,
+   "query": "emergency go bag",
+   "E": [
+    "B00U9L1ATK",
+    "B00Y94BARU"
+   ],
+   "S": [
+    "B000FJQQVI",
+    "B00149O23M",
+    "B00475B96S",
+    "B0722L37PL",
+    "B07BFRV7K5",
+    "B07H81GC8B",
+    "B07Q7T6VC3",
+    "B07VLY4558",
+    "B07YKYRTXM"
+   ],
+   "C": [],
+   "I": [
+    "B006QF3TW4",
+    "B0134DAXJ2",
+    "B07FKYHTWP",
+    "B07NVWY95Y",
+    "B07WSDZ3WB"
+   ]
+  },
+  {
+   "query_id": 37518,
+   "query": "emeril pasta and beyond maker",
+   "E": [
+    "B01N3PB5LN",
+    "B081WXKNGC",
+    "B085XTB8YL",
+    "B08HHXJX5C",
+    "B08LG958TY",
+    "B08LZNMTLV",
+    "B08NW9MLDG",
+    "B08PCLF49Q",
+    "B08PCM1S2S",
+    "B08PPFM1F8",
+    "B08WFX8LQW",
+    "B08Z7X65LC"
+   ],
+   "S": [
+    "B00062R6WC",
+    "B019P8B1PU",
+    "B01ENK4UV2",
+    "B07HJTYLGX",
+    "B07TCJGJS6",
+    "B083FKQQV1",
+    "B08D6SGV2G",
+    "B08DT4NB7X",
+    "B08FWXC3KW",
+    "B08HD1989X",
+    "B08HPMYMBW",
+    "B08HZ23LWB",
+    "B08QC7NNB4",
+    "B08QFNQZN7",
+    "B08QJ8Z65K",
+    "B08SQC8SL6",
+    "B08T967764",
+    "B08V527YVD",
+    "B08XPPH55J",
+    "B092QSM54C",
+    "B093SQ6KCJ",
+    "B097YVKKY1"
+   ],
+   "C": [],
+   "I": [
+    "B076158F22",
+    "B07VB79B9S",
+    "B089QJG34L",
+    "B08C77W6KZ",
+    "B08NHSWCFW",
+    "B08VJ4B2X2"
+   ]
+  },
+  {
+   "query_id": 39388,
+   "query": "fake sweets",
+   "E": [
+    "B01M5EJ87A",
+    "B077WZB3KJ",
+    "B07ZT64KVB",
+    "B0829C34JJ",
+    "B08346B5DS",
+    "B084RN1Q7N"
+   ],
+   "S": [
+    "B01CQN81UE",
+    "B07D9VQ2H6",
+    "B07FXXCC8L",
+    "B07GDG4P6N",
+    "B07JFJBCX6",
+    "B07L4NR6JV",
+    "B07S7W8SR3"
+   ],
+   "C": [],
+   "I": [
+    "B007UULES0",
+    "B00FG0Q990",
+    "B07ZYNMG74"
+   ]
+  },
+  {
+   "query_id": 39837,
+   "query": "feather bustle",
+   "E": [
+    "B0158H2M0A",
+    "B075ZRBN43"
+   ],
+   "S": [
+    "B005TLZRNK",
+    "B00BBB30RW",
+    "B00BJP0BXQ",
+    "B00BNQII7C",
+    "B00P0E2XW4",
+    "B075GSS8NF",
+    "B075J7WMQ6",
+    "B07B4TLSMW",
+    "B07M6KB9DW"
+   ],
+   "C": [],
+   "I": [
+    "B00AZGMESU",
+    "B06XFFMWHQ",
+    "B07DBN1P8M",
+    "B07F7VTMCT",
+    "B07FBYF4KZ"
+   ]
+  },
+  {
+   "query_id": 40618,
+   "query": "first line umbrella",
+   "E": [
+    "B000VU106W",
+    "B0052HRXRY",
+    "B07DXD98TF"
+   ],
+   "S": [
+    "B008XC53V8",
+    "B07XXNTX7H"
+   ],
+   "C": [],
+   "I": [
+    "B003MZ1EV4",
+    "B019MS0HK8",
+    "B01NAFI8ZJ",
+    "B06W2HJN4F",
+    "B07BNKKRTV",
+    "B07DFG1QWN",
+    "B07J5344YJ",
+    "B07JBX24YH",
+    "B07RK72GBD",
+    "B07W5MB7YM",
+    "B07YB2MM53"
+   ]
+  },
+  {
+   "query_id": 40699,
+   "query": "fisher price doll house furniture",
+   "E": [
+    "B001JK4MRM",
+    "B005XUI5QI",
+    "B009SH8POE",
+    "B009SH8PS0",
+    "B00JH971S4",
+    "B00JH9LVRG",
+    "B00MR5ZG4Q",
+    "B01HDYL1TE"
+   ],
+   "S": [
+    "B003ADVR3S",
+    "B00SWFQ98C",
+    "B01N0I5H55",
+    "B07MPRHQGH",
+    "B07VL8LQP7"
+   ],
+   "C": [
+    "B077PJBXPX",
+    "B077PMHTQ3"
+   ],
+   "I": [
+    "B00IWPKC4Y"
+   ]
+  },
+  {
+   "query_id": 40749,
+   "query": "fishing likes",
+   "E": [
+    "0306845318",
+    "B06WGP2F4G",
+    "B07QMV21F8",
+    "B07X1WTL3P"
+   ],
+   "S": [
+    "B07KB6F5LT"
+   ],
+   "C": [],
+   "I": [
+    "1533073430",
+    "B00OAB5H6C",
+    "B01H6NY1IA",
+    "B079SP13RW",
+    "B07CYH3XW5",
+    "B083Z2LL4K",
+    "B08CYKTPV8"
+   ]
+  },
+  {
+   "query_id": 42211,
+   "query": "forrest gump yellow running shirt",
+   "E": [
+    "B00ZTQH9KY",
+    "B075X28WTK"
+   ],
+   "S": [
+    "B008LP6UE6",
+    "B01EK2HSY4",
+    "B01IXFQ1GU",
+    "B072Q5SH6J",
+    "B075LZXXVC",
+    "B07SMM4B42",
+    "B07XL6QVZH"
+   ],
+   "C": [],
+   "I": [
+    "B002FA7J8E",
+    "B00VGX5DFC",
+    "B01IF7KNY2",
+    "B06XWLZQ1H",
+    "B0775X1TRZ",
+    "B07BJ73V56",
+    "B07MSQLRYM"
+   ]
+  },
+  {
+   "query_id": 42337,
+   "query": "foxboro hot tubs vinyl",
+   "E": [
+    "B0016LOSAK",
+    "B082324K53",
+    "B08J35HNVC"
+   ],
+   "S": [
+    "B07G2NRR2V",
+    "B082LXF4VK"
+   ],
+   "C": [],
+   "I": [
+    "1754164498",
+    "B0051VT14E",
+    "B00HRT863U",
+    "B00NB3P98G",
+    "B07CC9DW9W",
+    "B07JL4JQB7",
+    "B083LL68Z5",
+    "B083YZW313",
+    "B085CMF58K",
+    "B08CLT5KGN",
+    "B097KXGM9G"
+   ]
+  },
+  {
+   "query_id": 42557,
+   "query": "french door curtain rods set of 2",
+   "E": [
+    "B0075FUS96",
+    "B0076FN7TI",
+    "B00MBENLRM",
+    "B0146HODHS",
+    "B018F00X7G",
+    "B072BDCMNB",
+    "B0792H887H",
+    "B07DNBWVDK",
+    "B07F5FSD6C",
+    "B07M8RJGD4",
+    "B07P9PQQSP",
+    "B07Q2GZGZ1",
+    "B07TPM8C44",
+    "B07W91VFCW",
+    "B084SFXLCG",
+    "B084SPPK4Q",
+    "B085G77H56",
+    "B08K77KNTW",
+    "B08PK628D6",
+    "B08SBNSZB9",
+    "B08VDD2VVH",
+    "B08WY9RWHR",
+    "B093KJ2FFT"
+   ],
+   "S": [
+    "B0075FUS4Q",
+    "B00DEYHOZI",
+    "B01MTWBZAG",
+    "B07F3T2RXY",
+    "B07P8XLPH8",
+    "B07WPJCSCK",
+    "B08N9HNWMR",
+    "B08NJNW8GJ",
+    "B08R5MWVMH",
+    "B08WZ2V4ZX"
+   ],
+   "C": [
+    "B01F3HQ4CW",
+    "B01GJIWH84",
+    "B07FGWBQ3D"
+   ],
+   "I": [
+    "B01NCQGC5J",
+    "B075CJQFX5",
+    "B07RSH34HT"
+   ]
+  },
+  {
+   "query_id": 42652,
+   "query": "friends board games",
+   "E": [
+    "B0794WJ13S",
+    "B07VVLQ5LS"
+   ],
+   "S": [
+    "B000GOY9JS",
+    "B001RARONS",
+    "B0794TLDLD",
+    "B07F3DHPX3",
+    "B07HGQ7M3L",
+    "B07MSGF5TX",
+    "B07PV9HYQK",
+    "B07PV9NG2N",
+    "B07VXR4W5B",
+    "B07XC15K2B",
+    "B07YDPSZ84",
+    "B07YVNGTRS"
+   ],
+   "C": [],
+   "I": [
+    "B01FADOJ7Q",
+    "B07F7RQM4S"
+   ]
+  },
+  {
+   "query_id": 42679,
+   "query": "frigidaire dehumidifier drain kit",
+   "E": [
+    "B001PAWUWK",
+    "B004CR4NLO",
+    "B00KKXUBHY",
+    "B00O94O3DS",
+    "B00PU0599W",
+    "B07RM3PQ32",
+    "B0872WPPJF"
+   ],
+   "S": [
+    "B000KKSC0A",
+    "B00M0YSPQK",
+    "B00Y1XEYFY"
+   ],
+   "C": [
+    "B07RFSYHF6",
+    "B07RGRHP6D"
+   ],
+   "I": [
+    "B00167U0PG",
+    "B0046ECL7G",
+    "B0064OJ1HE",
+    "B007D5LJ50"
+   ]
+  },
+  {
+   "query_id": 42750,
+   "query": "front bumper mugen",
+   "E": [
+    "B00GOP77JW",
+    "B00Q6DL662",
+    "B07CPLJ7RD",
+    "B07FB6N9B4",
+    "B07H15CZSZ",
+    "B07HRP2H2D",
+    "B08FXXQRQC"
+   ],
+   "S": [
+    "B00BS1IYNA",
+    "B071S4CK8N",
+    "B07L2QKT2L"
+   ],
+   "C": [
+    "B009DJYO8S",
+    "B01MY2HC9S"
+   ],
+   "I": [
+    "B009DJTSRA",
+    "B009T0BJ7U",
+    "B01N7FG62C",
+    "B07NLGXSWD"
+   ]
+  },
+  {
+   "query_id": 42968,
+   "query": "fuel filter 5.7 chevy",
+   "E": [
+    "B0076I30V0",
+    "B00CT31122",
+    "B00I8J0EJ2",
+    "B07G58W7VB"
+   ],
+   "S": [
+    "B0009H523O",
+    "B0009H524S",
+    "B000C6MLO0",
+    "B000C9SH2C",
+    "B000C9SR90",
+    "B00O6WPVXY",
+    "B00OXZD9F6",
+    "B00OXZE4SC",
+    "B00OXZFAAI",
+    "B07DKQ1VHH"
+   ],
+   "C": [],
+   "I": [
+    "B00AKEW0JU",
+    "B01N7CWIGN"
+   ]
+  },
+  {
+   "query_id": 42992,
+   "query": "fugi water cases",
+   "E": [
+    "B000R6QRF4",
+    "B000WGBKNS",
+    "B0013T5YO4",
+    "B004CQRG0A",
+    "B004CQWWKY",
+    "B00567AQG0",
+    "B00BYYTTM6",
+    "B00RYLMVDW",
+    "B01I3JI0MO",
+    "B01I3JI4U2",
+    "B07G7FQRCR",
+    "B07W89H4BD"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B005HG9ESG",
+    "B00FX6NXNC",
+    "B01MQ3ZO6B",
+    "B07CDP48H9"
+   ]
+  },
+  {
+   "query_id": 43006,
+   "query": "fujifilm instax mini 11 accessories bundle without camera",
+   "E": [
+    "B018RBPN6E",
+    "B077CMZB4H",
+    "B077CPFTGC",
+    "B07DVTV9LJ",
+    "B0894DLL93",
+    "B08H8DSTDW",
+    "B08HWJT367",
+    "B08LGK8JXC",
+    "B08N4L6HR4"
+   ],
+   "S": [
+    "B07TLVWFPN",
+    "B07XGZZ529",
+    "B07YCV46GB",
+    "B08NWFZG7X"
+   ],
+   "C": [],
+   "I": [
+    "B085286JCJ",
+    "B08CG1GKRV",
+    "B091D8C7RC"
+   ]
+  },
+  {
+   "query_id": 43911,
+   "query": "galaxy 9 plus case waterproof",
+   "E": [
+    "B079DRFCGH",
+    "B07B7M9K45",
+    "B07BFBBD5X",
+    "B07BRBNBDT",
+    "B07GL492SC",
+    "B07VQ7W8DW",
+    "B07XC38NVY",
+    "B082VZR76S"
+   ],
+   "S": [
+    "B079KPQ9BH",
+    "B07B94KQSP",
+    "B07JWLBNLB"
+   ],
+   "C": [],
+   "I": [
+    "B07GFHZBTR",
+    "B07GKRXM4K",
+    "B07H82MQ6V",
+    "B084V1MN6H"
+   ]
+  },
+  {
+   "query_id": 44033,
+   "query": "galaxy s9 car holder",
+   "E": [
+    "B07BMVQ9DB",
+    "B07RLZLKGF",
+    "B07SN3DKSV",
+    "B07TGBDLPX",
+    "B07V6WQBCJ",
+    "B07VNCM91Q",
+    "B07VQZD9Y7",
+    "B082G2VZ91",
+    "B087NQ9Q76"
+   ],
+   "S": [
+    "B07F3BCXDH",
+    "B07FY84Y8Y"
+   ],
+   "C": [],
+   "I": [
+    "B074PVFTDW",
+    "B07G7H3CFY",
+    "B07QSPZJRM",
+    "B07R1QZ8V1",
+    "B07TNF1LC5"
+   ]
+  },
+  {
+   "query_id": 44040,
+   "query": "galaxy s9 phone case rfid",
+   "E": [
+    "B07B2QPYJB",
+    "B07CV8MWG3",
+    "B07MYT8BLZ",
+    "B07QP6X3NN",
+    "B07RDQ6FY5",
+    "B07RGSMLQ5",
+    "B07WC9ZRJ9",
+    "B07XMC7FXV"
+   ],
+   "S": [
+    "B078J3P3R3",
+    "B07B4MLFG2",
+    "B07R3V8VLJ",
+    "B07T48K1GB"
+   ],
+   "C": [],
+   "I": [
+    "B06XXGYQT2",
+    "B07FYR1CGN",
+    "B07K6FLD88"
+   ]
+  },
+  {
+   "query_id": 44062,
+   "query": "galaxy tutu for kids",
+   "E": [
+    "B000P5CLBG",
+    "B078JXDW8S",
+    "B0798M4WVH",
+    "B07BYBWP6D",
+    "B07H1FJC8T",
+    "B07P2VXFKD",
+    "B07PN28FHS",
+    "B07TLPGB2B"
+   ],
+   "S": [
+    "B06XSFPT9T",
+    "B0742DCLDH",
+    "B07SZ74KBR"
+   ],
+   "C": [],
+   "I": [
+    "B00UUAKJ9M",
+    "B01MZBUO5N",
+    "B07GMFLGDB",
+    "B07PHXT9KT",
+    "B07TJ3F354"
+   ]
+  },
+  {
+   "query_id": 44270,
+   "query": "gaming mix amp",
+   "E": [
+    "B004L6C6BK",
+    "B014H2W1YO",
+    "B01G3WBCTG",
+    "B072LQWGSB",
+    "B07D2FVTGD",
+    "B07D2L6NXF",
+    "B07NSN61NS"
+   ],
+   "S": [
+    "B07G5TP4BN"
+   ],
+   "C": [
+    "B00JC5Y9LK",
+    "B01EM9PMO8",
+    "B01LDTP46G",
+    "B01LDTP484",
+    "B07FYY2CMH",
+    "B07GW1SHSN",
+    "B07RG7BYX2"
+   ],
+   "I": [
+    "B07KR3RF4H"
+   ]
+  },
+  {
+   "query_id": 44602,
+   "query": "gaston doll from beauty and the beast",
+   "E": [
+    "B01JOBDUVG",
+    "B01LEYKIIY",
+    "B01MYEBZNY",
+    "B06XCPM6S7",
+    "B07D7FK31M",
+    "B07D7FN1V1",
+    "B07DVXQ2TC",
+    "B07FJ4MSRH",
+    "B07SZ31C4V",
+    "B09G8T12NH"
+   ],
+   "S": [
+    "B0007WBDA2",
+    "B002919R0W",
+    "B01JKAR5IK",
+    "B01JOBDVBK",
+    "B01JOBDVRE",
+    "B01KCECDGW",
+    "B01KCECDT4",
+    "B01N6RPVNE",
+    "B06XPPLNN2",
+    "B07GCF6HVM",
+    "B07MM6CDWD",
+    "B07NY52185",
+    "B083W5J97S",
+    "B083W6BTP6",
+    "B08DFXRF36",
+    "B08JGMCJD3",
+    "B08MVR2H1N"
+   ],
+   "C": [
+    "B000UXX4XW",
+    "B01JOBDV4M",
+    "B072QVRQTP",
+    "B08528YFZD",
+    "B08VNKPLXF"
+   ],
+   "I": [
+    "B000ITQ94Y",
+    "B001CKD7B6",
+    "B00Z6K67BA",
+    "B01LAMQ17W",
+    "B01LEYKIKW",
+    "B07D7HFN5N",
+    "B07LBNMQ9X",
+    "B07T81G14Z"
+   ]
+  },
+  {
+   "query_id": 44698,
+   "query": "ge stackable washer and dryer handle",
+   "E": [
+    "B00A8O0FGC",
+    "B00MNMS3WU",
+    "B0145UP6MC"
+   ],
+   "S": [],
+   "C": [
+    "B07DNKKY9Q",
+    "B07T1L36P3"
+   ],
+   "I": [
+    "B003BIGCZU",
+    "B00JFG6YOG",
+    "B00MNMS81Q",
+    "B00MOD1ER4",
+    "B00OMR1G1Y",
+    "B079Y4XMGX",
+    "B07B5H15HP",
+    "B07BDRM9DN",
+    "B07DVMN9R6",
+    "B07GBGCT85",
+    "B07QHCP9ZY"
+   ]
+  },
+  {
+   "query_id": 45028,
+   "query": "get skinny fast",
+   "E": [
+    "B00ISAPPLI",
+    "B00MOHZ4B2",
+    "B00NG16ETG",
+    "B01ESZ8Y1E",
+    "B01J2GKVUQ",
+    "B06XJ62JT8",
+    "B074HHG8JY",
+    "B07CNGKY6B",
+    "B07DVT4ZDD",
+    "B07FBQ7SP2",
+    "B07GBMXBKP",
+    "B07JJCM13X",
+    "B07N5LSWHV",
+    "B07N6RDKNT",
+    "B07PFLFQCZ",
+    "B07QK8VZDY",
+    "B07QWPB3NF",
+    "B07R8GD47V",
+    "B07T86KG2D",
+    "B07TLDBXX8",
+    "B07X39RHLK",
+    "B07ZS53M6J",
+    "B0833LKHHB",
+    "B0849R7N2S",
+    "B086TWFRHB",
+    "B08CG9JB46",
+    "B08FCY3XXY",
+    "B08NRFT2YS"
+   ],
+   "S": [
+    "B01E4OP9LC",
+    "B07BVZH2LF"
+   ],
+   "C": [
+    "B08DP57QF5"
+   ],
+   "I": [
+    "B06XXP2B3Y",
+    "B07CDN39DP",
+    "B07GBLKWRT",
+    "B07P6P2VQ9",
+    "B07QF31KX1",
+    "B07TK4VYWS",
+    "B0859RRK6P",
+    "B086JFWS88"
+   ]
+  },
+  {
+   "query_id": 46281,
+   "query": "godwfroy instant eyebrow tint",
+   "E": [
+    "B0199REHI0",
+    "B019FWSEMY",
+    "B07349GL4H",
+    "B07BZMP96M",
+    "B07SG12M35",
+    "B07SGY6WSB"
+   ],
+   "S": [
+    "B00P2M7QVW",
+    "B00UYY2GXG",
+    "B01N6LULLB"
+   ],
+   "C": [],
+   "I": [
+    "B000AS45KS",
+    "B000AS45LC",
+    "B00CCYN798",
+    "B00EEN2HCS",
+    "B012INWTYG",
+    "B0131FFTMO",
+    "B07T4GMJ2D"
+   ]
+  },
+  {
+   "query_id": 46891,
+   "query": "goth lingirie",
+   "E": [
+    "B074JCJSCK",
+    "B0773C9S25"
+   ],
+   "S": [
+    "B01HAVTXVS",
+    "B074JFB1FM",
+    "B074S4QRYN",
+    "B0789CXH2J",
+    "B079G36ZPQ",
+    "B07D38BDXP",
+    "B07J9LM1PK",
+    "B07PYS1J9R",
+    "B07QX7PR21",
+    "B07VFC3G9V"
+   ],
+   "C": [
+    "B00SZO91U8"
+   ],
+   "I": [
+    "B0161O5V3O",
+    "B06XRXVCF9",
+    "B07M9R44RW"
+   ]
+  },
+  {
+   "query_id": 47395,
+   "query": "green womens shirt",
+   "E": [
+    "B07T2ZVRXG",
+    "B07VLM7V2Y",
+    "B083XTJZ91"
+   ],
+   "S": [
+    "B08BCS9LPH"
+   ],
+   "C": [],
+   "I": [
+    "B011PNRBSE",
+    "B01N1X0YFC",
+    "B06XC1LLYM",
+    "B074V122XJ",
+    "B07CJC5KP4",
+    "B07N8HFLTZ",
+    "B07T294LNM",
+    "B07VMMRJG1",
+    "B083FQ2FKX",
+    "B083R2XBW7",
+    "B086P31P1G"
+   ]
+  },
+  {
+   "query_id": 47875,
+   "query": "gucci purses for women",
+   "E": [
+    "B00QCN8QXW",
+    "B00R1SMY4E",
+    "B00ZUKZ3CA",
+    "B0106BGTHK",
+    "B0151V8CFC",
+    "B019CVGOXE",
+    "B01H44UU2W",
+    "B01LM78OHU",
+    "B01MEETVEG",
+    "B01MSSN2CF",
+    "B07236KBBG",
+    "B073RRLP4F",
+    "B07573WSC9",
+    "B0779PHYDJ",
+    "B07KX3F4XD",
+    "B08DJF5XXX"
+   ],
+   "S": [
+    "B01MUTSZ74",
+    "B07NTP91S8",
+    "B087BLPTB8"
+   ],
+   "C": [],
+   "I": [
+    "B00C85BBY4",
+    "B00CYWWXN4",
+    "B019ECVFJ4",
+    "B01KGR3YFE",
+    "B06XC28Q9P",
+    "B06XCGNNL2",
+    "B06XCKRQRH",
+    "B06XCP3TP6",
+    "B06XCVV2FC",
+    "B06XSN7VGS",
+    "B071D85DS1",
+    "B071D877KZ",
+    "B071HYLWCJ",
+    "B078SVL7MT",
+    "B07GXRX8B5",
+    "B07GXRZ8DV",
+    "B07GXSHS6V",
+    "B07JHZH9S5",
+    "B07NXW1J1M",
+    "B07PK5S513",
+    "B08B9V4Z26"
+   ]
+  },
+  {
+   "query_id": 48802,
+   "query": "hand boards climbing",
+   "E": [
+    "B002N54TFM",
+    "B002N55HDK",
+    "B002N56X8I",
+    "B01C4TQAZS",
+    "B01CK219W8",
+    "B077GXYRR4",
+    "B0785H8DT1",
+    "B07C67JND2",
+    "B07Y3TYSL6",
+    "B083NH5N7G",
+    "B0856TPJ95",
+    "B0871ZP3PH",
+    "B087ZN2QCL"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B07435N2LV",
+    "B07MW3HP5B",
+    "B083GLZ6FP"
+   ]
+  },
+  {
+   "query_id": 48875,
+   "query": "hand swelling reducer",
+   "E": [
+    "B016N4BL72",
+    "B071PCGXJJ",
+    "B075G2DG1D",
+    "B07C7131WY"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00LOX2SHA",
+    "B00TP54IFO",
+    "B010BVZ1VU",
+    "B0112M60KI",
+    "B01DBTFO98",
+    "B01N1ICSSI",
+    "B0767Y6X6N",
+    "B076DSBHD1",
+    "B07G1KKZNN",
+    "B07RLSW2BY",
+    "B07W58VJ7C",
+    "B083JM99Q8"
+   ]
+  },
+  {
+   "query_id": 49862,
+   "query": "heat glove for curling wand",
+   "E": [
+    "B00XRK1V08",
+    "B071F4N4RD",
+    "B07KSBDWH5",
+    "B07NZD1YFF",
+    "B07YJTTCP9",
+    "B07YJVBBMV",
+    "B07Z7SFCGV",
+    "B0827JL55N",
+    "B085C8JTYH",
+    "B086YRLJV6",
+    "B089RT9G8R",
+    "B089VY1V26",
+    "B08B3D8TC8",
+    "B08RNNDGSV",
+    "B08S6VV2RJ",
+    "B08TM38769",
+    "B08ZYFNMCC",
+    "B093WP9RD9",
+    "B097T164RJ",
+    "B098F583T5",
+    "B098SLN1XZ",
+    "B099N62Q1Q",
+    "B09BK1F1JB"
+   ],
+   "S": [
+    "B07XL3G6BR",
+    "B07ZXRX8Q1",
+    "B08L735L39",
+    "B08LVVTVF5",
+    "B08YK5NGG7",
+    "B09B48SF4S",
+    "B09CGPP64Z"
+   ],
+   "C": [
+    "B07HB17W3R"
+   ],
+   "I": [
+    "B00KOUH9M8",
+    "B00XIKZBZI",
+    "B07SK782WY",
+    "B08HTNJFQX",
+    "B08PNSF418",
+    "B08QFJ6MW1",
+    "B08R9DMSVQ",
+    "B09B3XS4K8"
+   ]
+  },
+  {
+   "query_id": 49994,
+   "query": "heavy duty mixer lift",
+   "E": [
+    "B0001ZYYNI",
+    "B000BK9BXG",
+    "B000P9CWNY",
+    "B008XF78IQ",
+    "B00MGVAHI6",
+    "B00OGBGZOY",
+    "B00VI79OOM",
+    "B01540SKTI",
+    "B01MXRL53Y",
+    "B01N9K5F8R",
+    "B0758BQPY8",
+    "B075TTYL3S",
+    "B07NZ5DJFM",
+    "B07QG7PPF2",
+    "B07RDHSJ4M",
+    "B081TRJQCN",
+    "B087LWSFD2",
+    "B08C6XRXCG",
+    "B08CKJM8G4",
+    "B08H5CFNNV",
+    "B08LFWGJXR",
+    "B08PKJ3BL3",
+    "B08TT8RJ5V",
+    "B08WM1TZX5",
+    "B08ZNJ7MBG"
+   ],
+   "S": [
+    "B0007XLDZQ",
+    "B07HCHWK88"
+   ],
+   "C": [
+    "B013S2KKX8",
+    "B07W84BC5H"
+   ],
+   "I": [
+    "B004RVIJHO",
+    "B00DDX3Z9O",
+    "B00L2EZIP0",
+    "B0721TD77Z",
+    "B075JZDSWZ",
+    "B07DXPVD7C",
+    "B07SK4KHTP",
+    "B088KJ99N1",
+    "B0918S1RQ7",
+    "B095QZDS5P"
+   ]
+  },
+  {
+   "query_id": 50223,
+   "query": "henry fonda",
+   "E": [
+    "1501102176",
+    "B001U0IZLA",
+    "B003Y5PF80",
+    "B006MBAQXC",
+    "B076DR6H8N",
+    "B07PXPQ8SW",
+    "B07QB745B3",
+    "B07VFYJRPX",
+    "B07XYC34TG"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000VZHLCY",
+    "B009K5UMYA",
+    "B00A32CGY8",
+    "B01JKDA5WU",
+    "B01N071G2L",
+    "B07TBY9S54",
+    "B07YN2CWVC"
+   ]
+  },
+  {
+   "query_id": 50490,
+   "query": "high frame rate camera",
+   "E": [
+    "B01HGM33HG",
+    "B07DWXRKNL",
+    "B07GDGZCCH",
+    "B07MNCHH1X"
+   ],
+   "S": [
+    "B00KA7WSSU",
+    "B074WH86Y2",
+    "B076DD5JNS",
+    "B07MBCD7P9",
+    "B07N1C81HB",
+    "B07YCV46GB"
+   ],
+   "C": [],
+   "I": [
+    "B014I8SSD0"
+   ]
+  },
+  {
+   "query_id": 50675,
+   "query": "hinatab",
+   "E": [
+    "B00F4MKHJI",
+    "B00TUJ9PLC",
+    "B016TK4VUO",
+    "B019R7CYFK",
+    "B0778F6Y19",
+    "B079RR135X",
+    "B07JQ9W9XR",
+    "B07PDY8LVX",
+    "B07PVRX79B",
+    "B07YYVYPTN",
+    "B0836CKLY1"
+   ],
+   "S": [
+    "B07BHYNJ8N"
+   ],
+   "C": [
+    "B06XQR1Q5L",
+    "B07XLGSFS4"
+   ],
+   "I": [
+    "B000N4MWKE",
+    "B012MC5MZ6"
+   ]
+  },
+  {
+   "query_id": 50914,
+   "query": "hologram",
+   "E": [
+    "B000N5T8KA",
+    "B00Q2IAT0A",
+    "B01CO0EW34",
+    "B01L8CLFPM",
+    "B0746RB32C",
+    "B077YD59RN",
+    "B07HSTLTR5",
+    "B07JBTKQP7",
+    "B07JVHRGJZ",
+    "B07S82RZVW",
+    "B083ZTB9MD",
+    "B089WF8HFZ"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "1119088909",
+    "B018CSY0R0",
+    "B01GW4RPN2",
+    "B07V4DQWCW"
+   ]
+  },
+  {
+   "query_id": 51647,
+   "query": "how we teach science",
+   "E": [
+    "0674919343",
+    "B004ULMIFU"
+   ],
+   "S": [
+    "0679832270",
+    "1943874964",
+    "B00M1Z2THY",
+    "B01HMXV0UQ"
+   ],
+   "C": [],
+   "I": [
+    "0062397346",
+    "0062667122",
+    "0140280197",
+    "0143127748",
+    "0593121961",
+    "069284838X",
+    "0692914374",
+    "0807047414",
+    "1335936637",
+    "B01COR1GM2"
+   ]
+  },
+  {
+   "query_id": 52190,
+   "query": "hvac refrigeration",
+   "E": [
+    "0826907857",
+    "1591265525",
+    "1591266599"
+   ],
+   "S": [
+    "0071825657",
+    "0357122275",
+    "1111644470",
+    "1285179986",
+    "130550643X",
+    "1305578295",
+    "1337399124",
+    "1631263544",
+    "1631263552",
+    "1635638771",
+    "1930044062",
+    "B00HQN3PQK"
+   ],
+   "C": [],
+   "I": [
+    "1591266653"
+   ]
+  },
+  {
+   "query_id": 52418,
+   "query": "i love you ornament",
+   "E": [
+    "B001OL88LW",
+    "B018S59T1O",
+    "B01LWSM0VP",
+    "B01M7ZKQLH",
+    "B01NCA7PJD",
+    "B075S7X35K",
+    "B0779B4MXC",
+    "B07F43FSH1",
+    "B07QG3D4PZ",
+    "B07TMTX8MP",
+    "B07YL5G276",
+    "B07ZXNVJGR"
+   ],
+   "S": [
+    "B00M8U4AII",
+    "B01NBR548R"
+   ],
+   "C": [],
+   "I": [
+    "B01LXM2J7N",
+    "B07JJXX722"
+   ]
+  },
+  {
+   "query_id": 52630,
+   "query": "ice neck and eye wrap",
+   "E": [
+    "B01M08DV3R",
+    "B079K2XSYF",
+    "B07F3P3L9S"
+   ],
+   "S": [
+    "B000R74VL0",
+    "B00XM1JI48",
+    "B07C9BYYVQ",
+    "B07CBD2WJF",
+    "B07HXM5VFR",
+    "B07JR9JDSX",
+    "B07V9J4YG4",
+    "B07YKMZX36",
+    "B082WN9NJL"
+   ],
+   "C": [],
+   "I": [
+    "B07GD6692H",
+    "B07VDMZP65"
+   ]
+  },
+  {
+   "query_id": 53171,
+   "query": "infant hats boys 0-3 months",
+   "E": [
+    "B007M98QYE",
+    "B00D402CKE",
+    "B00X224Q08",
+    "B074G84B2V",
+    "B07767MNHN",
+    "B07CS1H4Z4",
+    "B07CS21VVF",
+    "B07GQ8DKH5",
+    "B07KBMFBQK",
+    "B07L99T36K",
+    "B07M67S5MB",
+    "B07MHDH44Z"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B01N5SZC6C",
+    "B0744PTT8F",
+    "B07GDS658J",
+    "B07HCKG87Y"
+   ]
+  },
+  {
+   "query_id": 53436,
+   "query": "installation services",
+   "E": [
+    "B00IAD0LLW",
+    "B00IAD0NQU",
+    "B00IAD0PKE",
+    "B00JZZX8M8",
+    "B00JZZX9Y0",
+    "B00QI7YA9G",
+    "B00STOHPMU",
+    "B00STRX7OW",
+    "B00STRXHEC",
+    "B00UBYCKCG",
+    "B017HWC3L2",
+    "B01E4FWXY2",
+    "B01M9E5IBJ",
+    "B06VX413N3",
+    "B07GC4XHG8"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B07WPG9MQF"
+   ]
+  },
+  {
+   "query_id": 53963,
+   "query": "ipc360 camera",
+   "E": [
+    "B07ZR4G72T",
+    "B089W4PKRW",
+    "B0931Z6BCG",
+    "B094QQ118V",
+    "B09G2SMQJV"
+   ],
+   "S": [
+    "B01CW4ASS0",
+    "B01CW4DTB8",
+    "B07QKXM2D3",
+    "B07X1KV23K",
+    "B07X316ZCZ",
+    "B07Y3RV1KK",
+    "B08L3KS4FN",
+    "B08QV1PZRC",
+    "B08R8BGDM5",
+    "B09DGJM4GS"
+   ],
+   "C": [],
+   "I": [
+    "B01CW4BVU4"
+   ]
+  },
+  {
+   "query_id": 54645,
+   "query": "iphone xs max case jordan shoes",
+   "E": [
+    "B07SFCY54M",
+    "B082DZKW64"
+   ],
+   "S": [
+    "B07J2KQZQB",
+    "B07JGSLNBD",
+    "B07JPD1SDR",
+    "B07MCJF41P",
+    "B07NTZXRB6",
+    "B07PLVJBCX",
+    "B07RL3TC21",
+    "B07SVPZX4R",
+    "B07WHHRWVF",
+    "B081K1Z7N3",
+    "B0847F387Q"
+   ],
+   "C": [],
+   "I": [
+    "B07T7VHP3T",
+    "B07Y9J97GZ",
+    "B083PVL1FC"
+   ]
+  },
+  {
+   "query_id": 54829,
+   "query": "iptv modulator",
+   "E": [
+    "B07G5K1ZV2",
+    "B07SKKSZBG",
+    "B089655HQV",
+    "B095ND5VLT"
+   ],
+   "S": [
+    "B00BIQER0E"
+   ],
+   "C": [],
+   "I": [
+    "B00TOAAHG4",
+    "B01EW098XS",
+    "B01KWQAQ00",
+    "B07G5LD2W3",
+    "B07J65G9DD",
+    "B07P5PRK7J",
+    "B07YP9FBMM",
+    "B08D3GJSMB",
+    "B08TRLGS1Y",
+    "B08W54MS5X",
+    "B08WQ274T7"
+   ]
+  },
+  {
+   "query_id": 54984,
+   "query": "isavera gel packs replacement",
+   "E": [
+    "B008A6MFVS",
+    "B00ZVI485Y",
+    "B072QD7PWV",
+    "B07SJTZMPG",
+    "B08VTFQ31F",
+    "B0984HJT93"
+   ],
+   "S": [
+    "B01EHD5KIC",
+    "B06XBKG542",
+    "B06XC8822B",
+    "B07V2QD5G7",
+    "B07WK86ZDD"
+   ],
+   "C": [
+    "B08YFDQ3DK"
+   ],
+   "I": [
+    "B07D7KN84Q",
+    "B07F37V2LT",
+    "B08M1WG5GB",
+    "B08W2HG4BD",
+    "B08YFFH8S3",
+    "B0927496XS",
+    "B0979LGMNC",
+    "B09856XZ7Y",
+    "B098KNW5G9"
+   ]
+  },
+  {
+   "query_id": 55357,
+   "query": "jacques maritain logique",
+   "E": [
+    "0268043590",
+    "0300001630",
+    "0806530197",
+    "0813209056",
+    "086597828X",
+    "0874621062",
+    "1163146374",
+    "1944418105",
+    "1944418768",
+    "B0006BVY9Y",
+    "B004QVEI1Q",
+    "B007AMLAFA",
+    "B00KXKRLSG",
+    "B018QZMI2S"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "1944418474"
+   ]
+  },
+  {
+   "query_id": 55414,
+   "query": "jamie sadock sunsense men",
+   "E": [
+    "B07ZM4CTKH",
+    "B07ZM4HK6L",
+    "B07ZM4S423"
+   ],
+   "S": [
+    "B075XG293R"
+   ],
+   "C": [],
+   "I": [
+    "B017MWTO2I",
+    "B071QZM5DB",
+    "B072813HRW",
+    "B074KGDTRH",
+    "B0774HK7GX",
+    "B07MJGVH82",
+    "B07SPDBLPN",
+    "B07VD3HH7S",
+    "B07ZM3MK6R",
+    "B07ZM3P7NW",
+    "B07ZM434GW",
+    "B07ZQ4B8ST"
+   ]
+  },
+  {
+   "query_id": 56125,
+   "query": "john daly poster",
+   "E": [
+    "B00IHGJMDK",
+    "B00M8BRU4I",
+    "B01GIS5I7C",
+    "B0876TLBQL",
+    "B089MC6DWS"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B008MHD5T6",
+    "B00K57P0EO",
+    "B00KK6K2SY",
+    "B00KZYKSZ8",
+    "B00TE9KA9O",
+    "B00UHFBKK2",
+    "B07H1TJWHH",
+    "B086R7QNVD",
+    "B086W3R12S",
+    "B087CMNLZ9",
+    "B08CHK151M"
+   ]
+  },
+  {
+   "query_id": 56252,
+   "query": "jolly clothes",
+   "E": [
+    "B00A9Z1IOI",
+    "B017L6ZXXE",
+    "B01L1BGEII",
+    "B0711QQTGM",
+    "B0754YYC56",
+    "B07HDVWQFS"
+   ],
+   "S": [
+    "B00TGBI2QS",
+    "B01BXGMNAE",
+    "B075CRBNV8",
+    "B0797KRT9X",
+    "B07D7J7SGT",
+    "B07SZJ85RM",
+    "B07TD2Q9HC"
+   ],
+   "C": [],
+   "I": [
+    "B003JTHFTI",
+    "B07RHS6DS3",
+    "B07RLPH6BT"
+   ]
+  },
+  {
+   "query_id": 56865,
+   "query": "kajal stick indian",
+   "E": [
+    "B000MXBYOQ",
+    "B0079Z48S4",
+    "B00DNK5UR2",
+    "B00P6UBOWC",
+    "B010E1X15K",
+    "B01B1KQ6N2",
+    "B078TY13L2",
+    "B079L18WTW",
+    "B07BDPF7GD",
+    "B07H3XDM3M",
+    "B07NX6Q2B8",
+    "B07QPWSG2P",
+    "B07SM166KT",
+    "B07X2LS4QD",
+    "B07XDMKSHP",
+    "B07XT8KS32",
+    "B08LR1ZP83",
+    "B0922Y3FK3",
+    "B098WPRQS4"
+   ],
+   "S": [
+    "B001TJXI5U",
+    "B004BDVF6A",
+    "B005EIIAPA",
+    "B005G9E9AW",
+    "B00L2TDZ14",
+    "B00L5QZBP2",
+    "B01KH7BNU6",
+    "B01KI40DF4",
+    "B075RHSHMP",
+    "B0768YNQND",
+    "B07BPVDPT9",
+    "B07CD5R2PV",
+    "B07GM317JJ",
+    "B07R95VMLZ",
+    "B07RS1T1ZR",
+    "B07TXHQDN7",
+    "B082YQ8TXR",
+    "B08P4R5PXN",
+    "B08S3PFV1R",
+    "B09723J1QY"
+   ],
+   "C": [],
+   "I": [
+    "B074Y8LM6T"
+   ]
+  },
+  {
+   "query_id": 56923,
+   "query": "kangol hats for women",
+   "E": [
+    "B001HNK2B6",
+    "B014FUYT0W",
+    "B01H5KM1YK",
+    "B01MRE1G6Y",
+    "B06XJ6KXPG",
+    "B07B2YRKM3",
+    "B07HKJ6TVV",
+    "B07ND9PL74",
+    "B07QBF8Q7S",
+    "B084RQ5JZL",
+    "B085F35DLP",
+    "B08616PWFB"
+   ],
+   "S": [
+    "B014V0DULA",
+    "B06WWM1NTN",
+    "B07R5TRK6L"
+   ],
+   "C": [],
+   "I": [
+    "B085LPY3P4"
+   ]
+  },
+  {
+   "query_id": 57115,
+   "query": "kc chiefs girl jerseys",
+   "E": [
+    "B003L9OLSY",
+    "B07RXXFVZD",
+    "B07TBPRWPN",
+    "B07TLNXB5D",
+    "B07TMQDV48"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00NHYLOCY",
+    "B01G2EQG3M",
+    "B01G2EUHMI",
+    "B01N788VFK",
+    "B06ZZG5GD2",
+    "B07414J4YQ",
+    "B07C9LRG4Z",
+    "B07F7C7N88",
+    "B07QXBT32H",
+    "B07WJR49HX",
+    "B084WGPD3T"
+   ]
+  },
+  {
+   "query_id": 57246,
+   "query": "kensington lock 3 pack",
+   "E": [
+    "B0036Z9TNU",
+    "B004IANXHA",
+    "B01CSDPA42",
+    "B01MTBQUX2",
+    "B071S3FPWH",
+    "B075NZZDWC",
+    "B075P1MSN7",
+    "B07SHJ1RC8"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000JTMOVA",
+    "B01JV7FJN0",
+    "B07GY2R9BR",
+    "B07PWN9WMY",
+    "B07S43ZTMV",
+    "B07TDMX6PT",
+    "B07WZR19D9",
+    "B081CVDWLH"
+   ]
+  },
+  {
+   "query_id": 57287,
+   "query": "kershaw deep carry pocket clip",
+   "E": [
+    "B0009VC9Y0",
+    "B0009VCA0I",
+    "B00172A3DE",
+    "B002IVPKOU",
+    "B006PTMSCI",
+    "B00AU6NRJU",
+    "B00AU6NWP4",
+    "B00I04P0QC",
+    "B00I0RUCXK",
+    "B00I1XOTXC",
+    "B00J14BOBU",
+    "B00TAD2DGW",
+    "B01B7MP702",
+    "B01B7MPOXC",
+    "B01B7MQ8IW",
+    "B01B7MQE3G",
+    "B01CDX38JG",
+    "B06XHW4673",
+    "B06XQRXM8M",
+    "B06XR8XTJP",
+    "B06XR9QLH8",
+    "B06XSTYR81",
+    "B06XSY6SWS",
+    "B06XT3QT2S",
+    "B06Y645MXC",
+    "B07BC6RYBG",
+    "B07BCFFXHD",
+    "B07RWR1L44",
+    "B07V9QH7PB",
+    "B07VGKBZRG",
+    "B07XZYBMSQ",
+    "B084MXS7HS",
+    "B085B1NDND"
+   ],
+   "S": [
+    "B00ILFL5X2",
+    "B06XS5CY5S",
+    "B07Y2YC3TN"
+   ],
+   "C": [],
+   "I": [
+    "B0057R8SSM",
+    "B00TUC4O9C",
+    "B079XW6ZFG",
+    "B07BHTRNDM"
+   ]
+  },
+  {
+   "query_id": 57544,
+   "query": "khaki skirts for women knee length",
+   "E": [
+    "B00T53NXDO",
+    "B01MQQXEWT",
+    "B071WG8TQ8",
+    "B071WL4MSX",
+    "B07QFZ6P2F"
+   ],
+   "S": [
+    "B005SZI75M",
+    "B014QWMX3O",
+    "B0188AQUFW",
+    "B01BCPGMH6",
+    "B01H0SQS14",
+    "B0743FP425",
+    "B0789F9ZW8",
+    "B07S1Y5VS5",
+    "B07T2DV3LT",
+    "B085HJJPXN"
+   ],
+   "C": [],
+   "I": [
+    "B07BK35YFZ"
+   ]
+  },
+  {
+   "query_id": 57641,
+   "query": "kid vegan cookbook",
+   "E": [
+    "1600940722",
+    "1615193421",
+    "1624144799",
+    "1720543526",
+    "1940184223",
+    "1941631045",
+    "1984857177"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "0735217785",
+    "1401947492",
+    "1449471870",
+    "1465451528",
+    "1476753334",
+    "1492670022",
+    "1570670862",
+    "1592339050",
+    "1641529008"
+   ]
+  },
+  {
+   "query_id": 57804,
+   "query": "kids firefighter hat",
+   "E": [
+    "B0033MIVBW",
+    "B00411A3YC",
+    "B013SMM63U",
+    "B0157878EA",
+    "B01G8MBD4U",
+    "B0758PKPBY",
+    "B075GH5PQH",
+    "B0779JWK3V",
+    "B077H72W5K",
+    "B077MPF14S",
+    "B07CDQD1ZZ",
+    "B07DD1LCSJ",
+    "B07NBRJMSC",
+    "B07V48J9Y5",
+    "B07YQCXC4W",
+    "B0829RR96J",
+    "B08C8WQTC1",
+    "B08NW598FN",
+    "B08Z4GXB8N",
+    "B097WBQLQW",
+    "B099GBL8VG",
+    "B09D7HR4YV"
+   ],
+   "S": [
+    "B013KP9H7I",
+    "B01DYRDZAW",
+    "B01G2GNHPK",
+    "B01MTII1YS",
+    "B074G41YDP",
+    "B076JKNDH1",
+    "B07C45M3SY",
+    "B07MFQZN8N",
+    "B088F99JTW",
+    "B08FXG8YX1",
+    "B08KCCHJM1",
+    "B094D9X7N8",
+    "B099VGKTZC"
+   ],
+   "C": [],
+   "I": [
+    "B002MCYVAY",
+    "B01MXZ5G1S",
+    "B079YWZ9QP"
+   ]
+  },
+  {
+   "query_id": 58021,
+   "query": "kids stomach medicine",
+   "E": [
+    "B000TLQ6WQ",
+    "B0013HZ5MC",
+    "B004AZZDW6",
+    "B004BH503U",
+    "B007TIVLQ8",
+    "B0087FFIES",
+    "B00I4BUEY4",
+    "B00MBABLZ0",
+    "B00SKWGUAO",
+    "B01EIK8JR8",
+    "B01M2CITBM",
+    "B073V2CTGW",
+    "B073V2W5SQ",
+    "B07C9K3LXW",
+    "B07CL6WR1X",
+    "B07P5VTCMK",
+    "B07WSY7NSN",
+    "B07XFQSH85",
+    "B081W3F18D",
+    "B083QQGYLM",
+    "B086ZH81DK",
+    "B08JMY6XWL",
+    "B08JN11GRX"
+   ],
+   "S": [
+    "B01BGEVWZA"
+   ],
+   "C": [],
+   "I": [
+    "B0010TOQOG",
+    "B004E0QGOQ",
+    "B0078W0QOI",
+    "B00DWJF64G",
+    "B00L3LAK7S",
+    "B01EKJ941C",
+    "B01M1OXSAK",
+    "B071H7973G",
+    "B0749R5HQN",
+    "B074F18H4B",
+    "B074F1RWV9",
+    "B074F297S7",
+    "B074MJCC1H",
+    "B07796WXL9",
+    "B07K1J1WJ3",
+    "B08FVD46RM"
+   ]
+  },
+  {
+   "query_id": 58139,
+   "query": "kill weeds not lawn",
+   "E": [
+    "B001H1EPP2",
+    "B001OELY9C",
+    "B001OENXRI",
+    "B006MVFSOE",
+    "B008RH98PQ",
+    "B00F4JS3SS",
+    "B00FN3N0A6",
+    "B00GRSRA02",
+    "B00IJVBJO8",
+    "B00KHVR3SE",
+    "B00MKB67Q8",
+    "B00OHV5S96",
+    "B00XJM8KMQ",
+    "B01956RZ3E",
+    "B01JIRKFVE",
+    "B01JIRNU0M",
+    "B075G283GS",
+    "B075R7BNXV",
+    "B0784WGDKM",
+    "B07BBSC88Y",
+    "B07GSGFBRN",
+    "B07JZV6NZT",
+    "B07K724ML5",
+    "B07KMSSJR4",
+    "B07M9SQ9CQ",
+    "B07SSVYHHK",
+    "B07YM6XT6Q",
+    "B084KSCHCZ",
+    "B0883B6N3Z",
+    "B08KGX48NG",
+    "B08XYC9HQN"
+   ],
+   "S": [
+    "B07YM5435G"
+   ],
+   "C": [
+    "B001DKCWYI"
+   ],
+   "I": [
+    "B001OSH5P0",
+    "B00ARKS3XO",
+    "B00GPAGO6S",
+    "B01G7M309M",
+    "B07SW1HBC3",
+    "B089HSJQ4Q",
+    "B08KGYNJ8H"
+   ]
+  },
+  {
+   "query_id": 58383,
+   "query": "kings cribbage board game",
+   "E": [
+    "B00005LBF0",
+    "B000WZCDYY",
+    "B07D63X49P",
+    "B07G1F1Z7M",
+    "B07H185K6H",
+    "B07LF8YT15",
+    "B082SJV191",
+    "B08D6H1VVN",
+    "B08VF751RW"
+   ],
+   "S": [
+    "0975277324",
+    "B00000IVAK",
+    "B00001NTXN",
+    "B00004SDBL",
+    "B00004W60G",
+    "B000809OAO",
+    "B001Q77S1A",
+    "B002TPVOUE",
+    "B00IL5XY9K",
+    "B00NQQTXU8",
+    "B00U26V4VQ",
+    "B00WKVLYMK",
+    "B016MLRTC2",
+    "B01F46RPS4",
+    "B01HDYFCJO",
+    "B01MU9K3XU",
+    "B01N3A4070",
+    "B076HK9H7Z",
+    "B0792JY6G4",
+    "B07KT2HSC8",
+    "B07LG4WMLY",
+    "B07V5THHK6",
+    "B082KR9PP8",
+    "B0854B2BH8",
+    "B085RB34YD",
+    "B08C1L81MT",
+    "B08DRQRBVH",
+    "B094PY8179"
+   ],
+   "C": [],
+   "I": [
+    "1947494503",
+    "B0003MA0PK",
+    "B076X7RS73"
+   ]
+  },
+  {
+   "query_id": 58526,
+   "query": "kitchen block off",
+   "E": [
+    "B003ZLIDVE",
+    "B005H7YZBQ",
+    "B0072VZ1EA",
+    "B00ROX6VRW",
+    "B01FLRV1LI"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00BR1FSU8",
+    "B00LTWTPSG",
+    "B0119IOQOC",
+    "B01BZ0MRDQ",
+    "B01CS31VPO",
+    "B01N5BQUB2",
+    "B075DK69TV",
+    "B07FMHKHQC",
+    "B07FPP1HT7",
+    "B07KX5Z9FZ",
+    "B07MQRBQ2N"
+   ]
+  },
+  {
+   "query_id": 59603,
+   "query": "lady beatnik poetry",
+   "E": [
+    "0838756077",
+    "0867193468",
+    "1365231348",
+    "B007GQXG0C",
+    "B00APK0VB8",
+    "B014L7JG48",
+    "B07KQMV9TY"
+   ],
+   "S": [
+    "B08B35XK3P"
+   ],
+   "C": [],
+   "I": [
+    "B003299WUU",
+    "B00BR0FPV6",
+    "B00O17T34C",
+    "B00SUMGC5M",
+    "B01M69HD6O",
+    "B01N3KLTZM",
+    "B07GZJ1FJD",
+    "B07M7D53XJ"
+   ]
+  },
+  {
+   "query_id": 61334,
+   "query": "lego organizers",
+   "E": [
+    "B000LDH3JC",
+    "B002YTG540",
+    "B002YTP1IG",
+    "B003P0XRH0",
+    "B003P2UOCO",
+    "B003TV3NL0",
+    "B004NKLPJS",
+    "B004NKLSH2",
+    "B008KQ1X3O",
+    "B0778P6DK7",
+    "B07CF7HWPL",
+    "B07G4XTDYD",
+    "B07HCYX7LV",
+    "B07Q5Z52XF",
+    "B07RTPS46T",
+    "B07TTDM48K",
+    "B07Y3YWH48",
+    "B07YNVHLVM",
+    "B07ZSFYNJB",
+    "B083CTQ6MP",
+    "B083T99JQ5",
+    "B085K8WKML",
+    "B088BRLJ4Q",
+    "B088FBD2H9",
+    "B08LSBGS8X",
+    "B08NK957JP"
+   ],
+   "S": [
+    "B00OM52MX2",
+    "B01MQGKX41",
+    "B073Q6GWPJ",
+    "B07GZFW76H",
+    "B07T874F2G",
+    "B083Z396KS",
+    "B085Y2CCZ4",
+    "B0861C1K8Y"
+   ],
+   "C": [
+    "B08YP9ZQN6"
+   ],
+   "I": [
+    "B003NE5L86",
+    "B00CBY2E6G",
+    "B015G1DZWM",
+    "B073SC93H9",
+    "B083JZRCSS"
+   ]
+  },
+  {
+   "query_id": 61798,
+   "query": "lg aristo 3 phone case wallet",
+   "E": [
+    "B06XK5MWJV",
+    "B07CZW9J7J",
+    "B07CZWH69Y",
+    "B07DHGBJZK",
+    "B07GZPMGNF",
+    "B07JD4G6J1",
+    "B07P634SDR",
+    "B07QCMQT6B",
+    "B07RV27C4D",
+    "B07XQBMKDV",
+    "B07XQBP6QQ"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B06Y3Z7GXJ",
+    "B076VP7LDN",
+    "B07DGS2G17",
+    "B07F82LCJP",
+    "B07P7L8N18"
+   ]
+  },
+  {
+   "query_id": 62275,
+   "query": "light dimmer film",
+   "E": [
+    "B006R0VWSG",
+    "B009WTOGFK",
+    "B00BM8JAWS",
+    "B01BLA5PRA",
+    "B01DUR4YEC",
+    "B01DX1IW2U",
+    "B07BD2B7G3",
+    "B07XCBM3LM"
+   ],
+   "S": [
+    "B009WSJNCW",
+    "B00CLVEQCO",
+    "B07V6X2H9Z"
+   ],
+   "C": [
+    "B005Z63ZN8",
+    "B07TTQCKWX"
+   ],
+   "I": [
+    "B01LXDNNBW",
+    "B072Q42GXQ",
+    "B07N6MWCN6"
+   ]
+  },
+  {
+   "query_id": 62359,
+   "query": "light up tutu 24 months",
+   "E": [
+    "B071FQ4467",
+    "B07F16S4BD"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00004U1J2",
+    "B000P5CLBG",
+    "B00CP3MD00",
+    "B00HZELANK",
+    "B00SJP1EGW",
+    "B00SYN1ZCM",
+    "B00SYN288C",
+    "B01BTYS9NA",
+    "B077ZHDT62",
+    "B07GMFLGDB",
+    "B07NDZHMBM",
+    "B07NDZHNRY",
+    "B07PH2CRYP",
+    "B07PWHT81N"
+   ]
+  },
+  {
+   "query_id": 62370,
+   "query": "light without shade",
+   "E": [
+    "B0132MT8ZA",
+    "B07M76HV1Z",
+    "B07VZW3CHL",
+    "B08DK9NRNH",
+    "B08M8XTSQP",
+    "B08MQ4CLZB",
+    "B08Q36TQKZ",
+    "B08T863P14",
+    "B094XM2JR5"
+   ],
+   "S": [
+    "B01AWQMR52",
+    "B0891MBWS3",
+    "B08DTP8MH5",
+    "B08GLWFLVT",
+    "B08LB2D2BC",
+    "B08MDRVZ78",
+    "B08N6CCWRM"
+   ],
+   "C": [
+    "B00JJY1QG0",
+    "B01GQ8XVG4",
+    "B07LBMR5X4",
+    "B0973C3NPP",
+    "B0979KSLDC"
+   ],
+   "I": [
+    "1720294763",
+    "B0041HYB7Q",
+    "B01AWRGP9A",
+    "B06WRTW7BJ",
+    "B083W2CGRC",
+    "B086HKPZDN",
+    "B088G19WBZ",
+    "B089R3RV21",
+    "B08DTZ6HM9",
+    "B08G8ST91C",
+    "B08L4WV4NV",
+    "B08MBN5K3V",
+    "B08MPYMN1P",
+    "B08PP34SYL",
+    "B08XPD6Q2C",
+    "B08Y5GGYW8",
+    "B092VL2686",
+    "B093H1WV3X",
+    "B093L2SJNP"
+   ]
+  },
+  {
+   "query_id": 63544,
+   "query": "long sleeve flannel night shirts for women",
+   "E": [
+    "B07FMPMGXQ",
+    "B07XYG3ZM5"
+   ],
+   "S": [
+    "B0195MZOZY",
+    "B0195OXLHU",
+    "B01M0DVPSV",
+    "B077P1FT8F",
+    "B07DLYF4RT",
+    "B07H8Z2QQH",
+    "B07HFHVW5H",
+    "B07KKKNKYG",
+    "B07V4N316Y"
+   ],
+   "C": [],
+   "I": [
+    "B015FT3VGU",
+    "B01I21HMH2",
+    "B01MS8JXIO",
+    "B079HM2ZNS",
+    "B07JJQSRXD"
+   ]
+  },
+  {
+   "query_id": 64288,
+   "query": "lunir",
+   "E": [
+    "B07F32XRMS",
+    "B07JJ83TBL",
+    "B07JWGL67L",
+    "B07KKC65WD",
+    "B07N8QPLDH",
+    "B07NYNGPPV",
+    "B07QV4RX3G",
+    "B07WC9LTDZ",
+    "B083124GVM",
+    "B0872TJH5X"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B07K4DD61W",
+    "B07MXSBRS6",
+    "B07TZDV5F7",
+    "B07Y9MNH6R",
+    "B082VR9J98",
+    "B086PSH7B1"
+   ]
+  },
+  {
+   "query_id": 64332,
+   "query": "luxury socks",
+   "E": [
+    "B009EREJ98",
+    "B00FNPH43I",
+    "B01MXO14AL",
+    "B071W142JY"
+   ],
+   "S": [
+    "B00LFX0Q3W",
+    "B01L3MGNMM",
+    "B01LY6JN07",
+    "B01NBIW5UY",
+    "B0757QSMPL",
+    "B0779L78WT",
+    "B077ZLWBG6",
+    "B079C9PNMQ",
+    "B07JQCZX7L",
+    "B07PGL4SFK",
+    "B07RV2H5YD"
+   ],
+   "C": [],
+   "I": [
+    "B00K1UJ0A0"
+   ]
+  },
+  {
+   "query_id": 64919,
+   "query": "magnetic eyelashes without eyeliner",
+   "E": [
+    "B0775MD6R7",
+    "B07FH6Y5PL",
+    "B07FNXBDY3",
+    "B07PHN2VQ4",
+    "B07RNJR5VW",
+    "B07WDJB6BH",
+    "B07X8BJM79",
+    "B07ZXYYD3L",
+    "B0834F3P8W",
+    "B087C5D4QG",
+    "B089T6TV1L",
+    "B08KVRG2PT",
+    "B08P4S5642",
+    "B08PNPRPFM",
+    "B08WHMYCLT",
+    "B08Z8FYV5B",
+    "B08ZNQRTN5",
+    "B091TCS4M9",
+    "B0927GWLNJ",
+    "B092KK7Q52",
+    "B0933LNQR4",
+    "B093CQ7NGZ",
+    "B095SXRGZZ",
+    "B095YFDLNM",
+    "B096YPBGKD",
+    "B097MF2MQ5",
+    "B098DRW249"
+   ],
+   "S": [
+    "B07TZ6TKWF",
+    "B081SVJBL9",
+    "B0851SFLXK",
+    "B08HSCD584",
+    "B08L3FK9GM",
+    "B08LCTGRMD",
+    "B091T2PDNB",
+    "B0921X8NYC",
+    "B0978SQRBG"
+   ],
+   "C": [],
+   "I": [
+    "B082FWPZ5Z",
+    "B08GC3VZXP",
+    "B08LMW8YQ3",
+    "B08TKRX1DL"
+   ]
+  },
+  {
+   "query_id": 65062,
+   "query": "maio maker 2",
+   "E": [
+    "B07NQDG7RQ",
+    "B07NSSHPFN",
+    "B07S2H2GRS",
+    "B07TJPXX9P",
+    "B07W22833N",
+    "B07WNPXB9M",
+    "B07WR469T3"
+   ],
+   "S": [
+    "B014GEF6QI",
+    "B07HCZ7LPW",
+    "B07JKVHH2X",
+    "B07MTYHGLT",
+    "B07SL6ZXBL"
+   ],
+   "C": [
+    "B07PNZMXCQ",
+    "B07X559WXY",
+    "B07ZLQ5DVT"
+   ],
+   "I": [
+    "B07C36HVWK"
+   ]
+  },
+  {
+   "query_id": 65970,
+   "query": "martinellis sparkling cider mini bottles",
+   "E": [
+    "B000Q5SCJA",
+    "B001HTKP5I",
+    "B005U4XNBE",
+    "B06VTN1VNH",
+    "B06W9JSXYM",
+    "B06WGQ92M6",
+    "B06WP5TSJ7",
+    "B06WRRZYK9",
+    "B06WRV5QCQ",
+    "B0744ZQ8ZC",
+    "B07574D4QW",
+    "B07574F2M9",
+    "B07574TYN2",
+    "B079SW7VFY"
+   ],
+   "S": [
+    "B0004LZRY4",
+    "B000Q5SCNG",
+    "B000WLXMCU",
+    "B001HTG3Q8",
+    "B001HTISO8",
+    "B001SAWNSS",
+    "B00261V85M",
+    "B004QYCH5C",
+    "B00CIJP97A",
+    "B00EPNWHL8",
+    "B00J7XTOLC",
+    "B01H7KDSBS",
+    "B01KYHD6FO",
+    "B01N4LB3BB",
+    "B07573RJ9V",
+    "B07GX53XWN",
+    "B07V5RCGHY",
+    "B089LMCX8B"
+   ],
+   "C": [
+    "B07XF7FG6G"
+   ],
+   "I": [
+    "B0048IH3VE",
+    "B00GIIPHWY",
+    "B00OOEGYC6",
+    "B00XA0DP86",
+    "B0731PQMP4",
+    "B07WXNCKL9",
+    "B08559T761"
+   ]
+  },
+  {
+   "query_id": 66197,
+   "query": "masquerade mask for women",
+   "E": [
+    "B00Q8IFQL6",
+    "B01K3UM8A6",
+    "B01KTPJ2NQ",
+    "B01M63ZSGB",
+    "B06XK4QL8S",
+    "B071KT3LGD",
+    "B075ZRFKD1",
+    "B0789X897N",
+    "B07BGS8ZB4",
+    "B07D6HW455",
+    "B07G2BXQFC",
+    "B07G6XQT51",
+    "B07HC1T1NS",
+    "B07KK3CKGG",
+    "B07L1NWLM6",
+    "B07PK2JZ9V",
+    "B07PV844Y4",
+    "B07QHYSZNC",
+    "B07RDYDS5G",
+    "B07SPCVGRB",
+    "B07VWR4CYS",
+    "B07YD88RBS",
+    "B085ZKK6FV",
+    "B087T5V9Q8",
+    "B088PR3KG2",
+    "B08B5GFXDW",
+    "B08CD94K5V",
+    "B08CR6HNKV"
+   ],
+   "S": [
+    "B00WMA6HWQ",
+    "B07C19R2LW",
+    "B07H5DT8ZH"
+   ],
+   "C": [],
+   "I": [
+    "B071VD9ZFK"
+   ]
+  },
+  {
+   "query_id": 66375,
+   "query": "math with bad drawings",
+   "E": [
+    "0316509035",
+    "0762499869",
+    "B07TM9WYVD"
+   ],
+   "S": [
+    "0141989149",
+    "0316509086",
+    "150637669X",
+    "B07VTQT95V"
+   ],
+   "C": [],
+   "I": [
+    "0451481089",
+    "0544272994",
+    "1615192255",
+    "1615192417",
+    "1641526211",
+    "1951056353",
+    "9387779319",
+    "B00BGSDWTG",
+    "B07NCQTJV3"
+   ]
+  },
+  {
+   "query_id": 66925,
+   "query": "mega blocks",
+   "E": [
+    "B007GE75G0",
+    "B007GE75HY",
+    "B0083F2ZIY",
+    "B00TZZQKXW",
+    "B00U26LQBY",
+    "B00U26LT34",
+    "B01CQL2LK2",
+    "B01NGUO1QM",
+    "B075M4ZZF2",
+    "B079KKFGH1",
+    "B079KKTVSW",
+    "B07GLMHMPC",
+    "B07GLXBHMJ",
+    "B07MZDQV1W",
+    "B07P6N62RK",
+    "B07PC2DSND",
+    "B07PW9CHHN",
+    "B07X8Z1K43",
+    "B07XDCPNQG",
+    "B07YT7JWQ6",
+    "B07YT7NDZJ"
+   ],
+   "S": [
+    "B01N7VG58Q",
+    "B07KX5JC1D",
+    "B07Q5ZZKLK",
+    "B07QD1FBZC",
+    "B07VHZ78VB"
+   ],
+   "C": [
+    "B0744Q2RFK"
+   ],
+   "I": [
+    "B07GBTHF1T"
+   ]
+  },
+  {
+   "query_id": 67662,
+   "query": "mens holographic shirt",
+   "E": [
+    "B01KA99SDU",
+    "B071N9MNW2",
+    "B071ZHC9W1",
+    "B07B3KQJ1M",
+    "B07CR1X6TK",
+    "B07F7W6FGN",
+    "B07FLWHBLS",
+    "B07Q5Y82VK"
+   ],
+   "S": [
+    "B0089E6BBQ",
+    "B00NUDDCWW",
+    "B00OWA8FY2",
+    "B07C2879DP",
+    "B07GR9SXNV",
+    "B07KVJW3TX"
+   ],
+   "C": [],
+   "I": [
+    "B001RJ1U6G"
+   ]
+  },
+  {
+   "query_id": 68303,
+   "query": "mess",
+   "E": [
+    "0399536000",
+    "1400207630",
+    "B00UXHBHGQ",
+    "B072L7RGYF",
+    "B0818PKJ1J",
+    "B088JRMC7V"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00G2FA8QI",
+    "B00KZ6WRAA",
+    "B00UC9FG30",
+    "B07BCGF3WL",
+    "B07NLHG7NQ"
+   ]
+  },
+  {
+   "query_id": 68479,
+   "query": "metallica black album box set",
+   "E": [
+    "B01G4C5NO0",
+    "B01KAOGFWM",
+    "B08VGX8MC9",
+    "B08VP1XCGK",
+    "B096TJNHPS",
+    "B0973CXB5X",
+    "B097C5NJ51",
+    "B097CFN5W3",
+    "B097NJWTXY",
+    "B097NP5HXH"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B01LTHN0DG",
+    "B08MVDSWMQ",
+    "B08W9SGL25",
+    "B0986FXHMV",
+    "B0987CW4LY",
+    "B09DWX7BJ6"
+   ]
+  },
+  {
+   "query_id": 68990,
+   "query": "midnight club 3 dub edition remix xbox",
+   "E": [
+    "B0002J9UB4",
+    "B000EMJA3C"
+   ],
+   "S": [
+    "B000WQ4KHQ",
+    "B002MED6F8",
+    "B005BTELJG"
+   ],
+   "C": [],
+   "I": [
+    "B00005BTCC",
+    "B000EMJA3M",
+    "B000EPBINO",
+    "B0011NODQ2",
+    "B002MED6EO",
+    "B00KAI3KW2",
+    "B074JF7M9X",
+    "B07GQGKZXK",
+    "B07GX2XXT1",
+    "B07MXPK4ZM"
+   ]
+  },
+  {
+   "query_id": 69656,
+   "query": "minnie mouse purse for toddler girl",
+   "E": [
+    "B00EZX07Z6",
+    "B00W030ZP0",
+    "B01L8VXTIO",
+    "B076JXD4S4",
+    "B07HM7GNH7",
+    "B07KJLVLJT",
+    "B07M9ZPBC1",
+    "B07MHMN6FM",
+    "B07RF77XH3"
+   ],
+   "S": [
+    "B00TYO6ZU2",
+    "B0749G538V",
+    "B07T91Q7XW"
+   ],
+   "C": [],
+   "I": [
+    "1450862772",
+    "B00P2SL9YG",
+    "B0195TS3MI",
+    "B07H62YD5W"
+   ]
+  },
+  {
+   "query_id": 69886,
+   "query": "mk bags for women",
+   "E": [
+    "B00HQEUEAE",
+    "B01EPILL3C",
+    "B06XD49WTQ",
+    "B07DKHC9DM",
+    "B07FWFMGLQ",
+    "B07G3HSMNY",
+    "B07L1CWTB9",
+    "B07L6QMQN8",
+    "B07LCXHBXL",
+    "B07MH8LL2H",
+    "B07NPWPB23",
+    "B07TCMWZ2R",
+    "B07Y8QW729",
+    "B07YM45RZD"
+   ],
+   "S": [
+    "B07K9J597T"
+   ],
+   "C": [],
+   "I": [
+    "B00FZE1L7W"
+   ]
+  },
+  {
+   "query_id": 70422,
+   "query": "monkey not ready for kindergarten",
+   "E": [
+    "0394824571",
+    "0553496581",
+    "1486718094",
+    "B08KGZV2FZ"
+   ],
+   "S": [
+    "0307930092",
+    "0399246533",
+    "0399557814",
+    "1101937629",
+    "1368025625",
+    "1368046452"
+   ],
+   "C": [],
+   "I": [
+    "0062953524",
+    "0385372833",
+    "055353825X",
+    "B01K8PEZMU",
+    "B07HWTT4WY",
+    "B08ZCJNT2G"
+   ]
+  },
+  {
+   "query_id": 70640,
+   "query": "mora knife fire starter replacement fire steel",
+   "E": [
+    "B00BFIBOJW",
+    "B00EAL1090",
+    "B01LZ37HU6"
+   ],
+   "S": [
+    "B007JIHOE6",
+    "B00AU6H3UY",
+    "B00HESG0ZA",
+    "B01EYCE9JW",
+    "B01LYRN6UC",
+    "B06X9SLHXY",
+    "B078K28DGG",
+    "B07GXKB1FJ",
+    "B07HG1Q1BN"
+   ],
+   "C": [
+    "B006GR7EVY"
+   ],
+   "I": [
+    "B01ICLK0J4"
+   ]
+  },
+  {
+   "query_id": 71331,
+   "query": "msr combo kit sig sauer",
+   "E": [
+    "B07MV4HRPR",
+    "B07T9GK7SR",
+    "B085B49JX1",
+    "B0891TSHWM",
+    "B08RBJVDC2",
+    "B08XJP5M4D"
+   ],
+   "S": [
+    "B00HYRGXOY",
+    "B0788CJPFF",
+    "B07R3FDVM6",
+    "B0833MMN67",
+    "B0842TW171",
+    "B08B14R27R",
+    "B08XPZCZJ1"
+   ],
+   "C": [
+    "B01C95I8N4",
+    "B0742NPB8D",
+    "B07WVXMXTS"
+   ],
+   "I": [
+    "B000A8C5V4",
+    "B00UZ88Q76",
+    "B00XK8R4MQ",
+    "B01L19P2WY",
+    "B071FXMG26",
+    "B079VLFD7D",
+    "B07NJ6LJC7",
+    "B07T8FVZ41"
+   ]
+  },
+  {
+   "query_id": 71634,
+   "query": "musashi kendogi",
+   "E": [
+    "B009VR3118",
+    "B06XCTS51Y",
+    "B07XQHRW87",
+    "B07XWQGLHD",
+    "B07XWR68SS",
+    "B082BCZJ8X"
+   ],
+   "S": [
+    "B00K5ZT4V6",
+    "B07XX9TNQT",
+    "B082DHN1Q3",
+    "B082DJ1HD3"
+   ],
+   "C": [],
+   "I": [
+    "1780288883",
+    "B000WOSRS6",
+    "B00A5IXWH0",
+    "B078G244CP",
+    "B07FXMJCX6",
+    "B07G3JDHDZ"
+   ]
+  },
+  {
+   "query_id": 71806,
+   "query": "my book not yours",
+   "E": [
+    "1649160305",
+    "1684640652",
+    "B09JB8GWMZ"
+   ],
+   "S": [
+    "1441317996",
+    "1649161042",
+    "3982142830"
+   ],
+   "C": [],
+   "I": [
+    "0310362725",
+    "1524700517",
+    "160774418X",
+    "1620973928",
+    "1935950207",
+    "1948040077",
+    "1948040387",
+    "1948040751",
+    "B08XSMNXSR",
+    "B09HN1X2BB"
+   ]
+  },
+  {
+   "query_id": 72291,
+   "query": "national geographic t-shirt",
+   "E": [
+    "B07TLLZ6B7",
+    "B085WQPP64",
+    "B08C8GN536",
+    "B08C8H2W3T",
+    "B08C8H6XY2"
+   ],
+   "S": [
+    "B01C69IHG6",
+    "B07FKW2G6T",
+    "B07FXXQDQQ",
+    "B07JGBVJJ8",
+    "B085WQ372B",
+    "B085WQ7XH4",
+    "B085WQC77D",
+    "B08C8HRHWK"
+   ],
+   "C": [],
+   "I": [
+    "B004Q2XWM6",
+    "B07G1JXX67"
+   ]
+  },
+  {
+   "query_id": 72373,
+   "query": "natural sleep aid without melatonin",
+   "E": [
+    "B000Q3DORC",
+    "B0031TRUOG",
+    "B004151F8Q",
+    "B008OXURPS",
+    "B018S690HG",
+    "B01FH99EFA",
+    "B01MU1VZHR",
+    "B01NBPPZTH",
+    "B074XHY9WG",
+    "B0771PLJKW",
+    "B079TH64D4",
+    "B07NGYSMRV",
+    "B07PJ3NYH3",
+    "B07TVMKRR2",
+    "B087GKVST4",
+    "B089QVRVB7",
+    "B08DQLFG4V",
+    "B08K2GJTG6",
+    "B08M2J3LK1",
+    "B08SQ54CZ9",
+    "B08XMY1B4G",
+    "B091G2K1WK",
+    "B097CMWD7S"
+   ],
+   "S": [
+    "B008KPZN90",
+    "B00B95J47K",
+    "B00NJ1BQZA",
+    "B075FL522X",
+    "B07B437R5L",
+    "B07N48MTTH",
+    "B087DHCD4J"
+   ],
+   "C": [],
+   "I": [
+    "B005S6XHJW",
+    "B01DCG0G2U",
+    "B0716M5CXM",
+    "B078SS8T3T",
+    "B07G2T1W8C",
+    "B07WFC2J13",
+    "B07XC8YVSF",
+    "B07XPGMNBW",
+    "B08V4XXWYK",
+    "B08WJPPL14"
+   ]
+  },
+  {
+   "query_id": 72785,
+   "query": "neon dry erase markers for black dry erase board",
+   "E": [
+    "B0033AGVVG",
+    "B008DQXN48",
+    "B009JS3FME",
+    "B00KVCNV6C",
+    "B00O2GZT36",
+    "B00YLLTTGU",
+    "B01D9T52OW",
+    "B01M1H50GT",
+    "B01MS419HQ",
+    "B073TYBP2T",
+    "B073WVZ5RR",
+    "B0752DYN3Y",
+    "B075HKPGKD",
+    "B076VLJC9W",
+    "B07DVG2F94",
+    "B07MP1T5SG",
+    "B07Q4K1HRJ",
+    "B07RPXKQY7",
+    "B07S18M6X6",
+    "B07S4D41QY",
+    "B07YDNGGYV",
+    "B07Z4Z1B1T",
+    "B083J4982B",
+    "B0848QJ86T",
+    "B0892W6F5J",
+    "B08HRWCCDF",
+    "B0928VJV1C"
+   ],
+   "S": [
+    "B00PM473TK",
+    "B01D5892F2",
+    "B07ND3XR2B",
+    "B07Q4FTMMG",
+    "B07QF31BNY",
+    "B07ZZDH251",
+    "B0846W6TN8",
+    "B08BJD9CWT",
+    "B08PZCDKVZ",
+    "B092LZC1R3",
+    "B096XSH11J"
+   ],
+   "C": [],
+   "I": [
+    "B00FP6PS8S",
+    "B07JH81FQV"
+   ]
+  },
+  {
+   "query_id": 74654,
+   "query": "nugo dark chocolate pretzel with sea salt",
+   "E": [
+    "B001AIRIHY",
+    "B001HTL5E8",
+    "B0030HN0ES",
+    "B003T614KC",
+    "B0053B7TUU",
+    "B009HLHVP0",
+    "B00B7VAOU2",
+    "B018OS5NBU",
+    "B01AW19L5Q",
+    "B01MCZA8OH",
+    "B06XD28HC8",
+    "B07D428S8W",
+    "B07V7HKP8N",
+    "B088H5V854",
+    "B08FYDC8Z2",
+    "B08HR3YSSM"
+   ],
+   "S": [
+    "B000EXUB3E",
+    "B0015GVUES",
+    "B001DGWYS6",
+    "B001LQY882",
+    "B003381ZWI",
+    "B003XN6Y3S",
+    "B005MWDVN4",
+    "B0065QAMBA",
+    "B00G8YUB3I",
+    "B00HM47GJU",
+    "B00J70JSOI",
+    "B00P9F1ZAU",
+    "B0143NQVQ6",
+    "B07692MK55",
+    "B078GYXSLW",
+    "B07DYWXD9B",
+    "B088GYH4KF",
+    "B088H5SFXR",
+    "B08F3XW926",
+    "B08RTGLYGM",
+    "B08Z2YZBD1"
+   ],
+   "C": [],
+   "I": [
+    "B005M4AMYI",
+    "B07CZNFD7H",
+    "B07HS3YDH1"
+   ]
+  },
+  {
+   "query_id": 74853,
+   "query": "nvidia small form factor gpu",
+   "E": [
+    "B01BPFPG2K",
+    "B06WWLWWJM",
+    "B06X9DWQM6",
+    "B0711NWFJX",
+    "B073GF2CL6",
+    "B075FJSGJ2",
+    "B07P6CDHS5",
+    "B08HSYLTW1"
+   ],
+   "S": [
+    "B006V2IZ30",
+    "B008B6ONWQ",
+    "B009ZQ5HW6",
+    "B00R5UW038",
+    "B01DOFD0G8",
+    "B01N6SEXI5",
+    "B07WHF289F"
+   ],
+   "C": [],
+   "I": [
+    "B01CN1F1ZM"
+   ]
+  },
+  {
+   "query_id": 75465,
+   "query": "olivia artwork",
+   "E": [
+    "B07MQKMLCY",
+    "B07QPVQ6YJ"
+   ],
+   "S": [
+    "1506721737",
+    "1849766703"
+   ],
+   "C": [],
+   "I": [
+    "0991248244",
+    "1338216791",
+    "1506714811",
+    "1631063251",
+    "1631065696",
+    "B01D29UVQS",
+    "B01DWDRZU4",
+    "B01FJ2VZYI",
+    "B01MY4RJGB",
+    "B07FQTB341",
+    "B07HPWWSTS",
+    "B082VXNV5P"
+   ]
+  },
+  {
+   "query_id": 76219,
+   "query": "ori hoffmekler",
+   "E": [
+    "0812915968",
+    "0938045350",
+    "1452660808",
+    "155643684X",
+    "1556436890",
+    "1583942009",
+    "B004J4XGKO"
+   ],
+   "S": [
+    "1101988509",
+    "1541325842",
+    "1628600012",
+    "B01MUA6QAX",
+    "B07NV9LFR8",
+    "B084M566X2"
+   ],
+   "C": [],
+   "I": [
+    "1250308224",
+    "177511080X"
+   ]
+  },
+  {
+   "query_id": 77157,
+   "query": "padded weight bar",
+   "E": [
+    "B001QTPWJI",
+    "B00GR4VXFE",
+    "B00NPZ7G36",
+    "B00XH756YS",
+    "B0116VRN06"
+   ],
+   "S": [
+    "B000B88IL4",
+    "B00BUKCGGU",
+    "B072F2BC93",
+    "B08357XKVZ",
+    "B088BBYD4Y",
+    "B089Q7H8HL"
+   ],
+   "C": [
+    "B013JOAWGA",
+    "B07VP8CXWN"
+   ],
+   "I": [
+    "B00ZJ75IB0",
+    "B0848MZZ19"
+   ]
+  },
+  {
+   "query_id": 77502,
+   "query": "pant out fits",
+   "E": [
+    "B077JHPPY4",
+    "B07MXVVVJT",
+    "B088JZYW8G",
+    "B089ZZS758",
+    "B08BNZ5PLJ"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00139K7VO",
+    "B00KULA6VM",
+    "B01JQTJFAG",
+    "B01M5JGOTL",
+    "B01N63SQN3",
+    "B079624HDM",
+    "B0797D396X",
+    "B079D3KGBB",
+    "B07PZ2956M",
+    "B07T1BT2JZ",
+    "B08CKKBPRN"
+   ]
+  },
+  {
+   "query_id": 78000,
+   "query": "pastel baby dress",
+   "E": [
+    "B07JVBRX1M",
+    "B07P8LJ28H",
+    "B07R5J5HSD",
+    "B07T5K3PFT"
+   ],
+   "S": [
+    "B06Y2THTMY",
+    "B07JFWVJG2",
+    "B07PDQCSND",
+    "B07YFQ2VRL"
+   ],
+   "C": [],
+   "I": [
+    "B07SFF7PX9"
+   ]
+  },
+  {
+   "query_id": 78005,
+   "query": "pastel ipod case",
+   "E": [
+    "B01FD9S34M",
+    "B071YF6R3H",
+    "B07NRMHMW3"
+   ],
+   "S": [
+    "B074SDLF6H",
+    "B07C5CT3J9",
+    "B07C7XFVJR",
+    "B07QW6WFLK",
+    "B07TXPJBVX",
+    "B07X5J3T1C",
+    "B07Y4GH8XC",
+    "B082V48Z9B"
+   ],
+   "C": [],
+   "I": [
+    "B07K9X3BS6",
+    "B07TB1DMXT",
+    "B07TYHZX6V",
+    "B081BVF9S6",
+    "B081N2C6W4"
+   ]
+  },
+  {
+   "query_id": 78367,
+   "query": "pcos weight loss supplements",
+   "E": [
+    "B006KL4TYG",
+    "B07HX2DMY8",
+    "B07W4FNSFF"
+   ],
+   "S": [
+    "B002D2JYYG",
+    "B01JJZ1YZG",
+    "B078K93HFD"
+   ],
+   "C": [],
+   "I": [
+    "B002HZ5MRM",
+    "B01JZNCZI2",
+    "B01LYIK4LW",
+    "B078GVS65S",
+    "B078SMYPX3",
+    "B07QWPB3NF",
+    "B07VLF19MS",
+    "B07WQJ5BT2",
+    "B082TL1MDG",
+    "B084D7MWXK"
+   ]
+  },
+  {
+   "query_id": 79133,
+   "query": "personalized movie ticket box",
+   "E": [
+    "B016APIO4M",
+    "B01LX79MHV"
+   ],
+   "S": [
+    "B06Y167K9T",
+    "B07CZ7CN7F",
+    "B07KQJ972F",
+    "B07SZ4FSPF",
+    "B07YCH3Y2S"
+   ],
+   "C": [],
+   "I": [
+    "B008I213WQ",
+    "B01HZD3POM",
+    "B071JVZ6J4",
+    "B077T9WSSN",
+    "B07QX3YJLH",
+    "B07R1TPZYH",
+    "B07S1LWF48",
+    "B07V3JGG9K",
+    "B07X53FZCK"
+   ]
+  },
+  {
+   "query_id": 81186,
+   "query": "platnum blond dye",
+   "E": [
+    "B00C3IG8AS",
+    "B00TUMOYZG",
+    "B00VRAKPK2",
+    "B07D9TJMG6"
+   ],
+   "S": [
+    "B0039404TG",
+    "B004GZQO8M",
+    "B0097MM8CA",
+    "B01HN3SLPM",
+    "B01LY3A2B1",
+    "B078VPPJ55",
+    "B07D9SRHSV",
+    "B07F1XK8WD",
+    "B07KJ4KWQK",
+    "B07S9QNDHS",
+    "B07VF9D484"
+   ],
+   "C": [],
+   "I": [
+    "B002GELXJK"
+   ]
+  },
+  {
+   "query_id": 81250,
+   "query": "playboy clothing",
+   "E": [
+    "B002PU9XGK",
+    "B07DQNYYHL"
+   ],
+   "S": [
+    "B01CETP4DW",
+    "B01H7HOR2A",
+    "B06XTWQSQH",
+    "B076DLD2QH",
+    "B079RPN5SF",
+    "B07FQZNFH9",
+    "B07GD72GXC",
+    "B07MTJN3RB",
+    "B07PVFTM3Q",
+    "B07RGX79DD",
+    "B07S2VZZ8D"
+   ],
+   "C": [
+    "B077VP47X6",
+    "B07DP5Y7WZ"
+   ],
+   "I": [
+    "B072Q5JB9D"
+   ]
+  },
+  {
+   "query_id": 81586,
+   "query": "plus size women s workout shirts",
+   "E": [
+    "B016LJ79QG",
+    "B01B3ITL9I",
+    "B01B3ITSZ0",
+    "B01H469M3S",
+    "B06ZY7LFC9",
+    "B072B8F7GC",
+    "B074NJ21BV",
+    "B07QWPVF32",
+    "B07RCCSV1N",
+    "B07RGM5C4C"
+   ],
+   "S": [
+    "B00KRYOT56",
+    "B015TC7K4W",
+    "B0793FPC5M",
+    "B07C1391WG",
+    "B07FFVR5B3"
+   ],
+   "C": [],
+   "I": [
+    "B07X2XPBDB"
+   ]
+  },
+  {
+   "query_id": 82106,
+   "query": "pool 18x12",
+   "E": [
+    "B01IAFO4XA",
+    "B0843CPGWK"
+   ],
+   "S": [
+    "B005Y6YGF0",
+    "B005Y6YOMA",
+    "B00BCL68QG",
+    "B07F3QF4KX"
+   ],
+   "C": [
+    "B008R6OC3U",
+    "B00DWA5RMQ",
+    "B01G28LRSW",
+    "B01LNWAEGS"
+   ],
+   "I": [
+    "B002WKJ570",
+    "B0037TS0IU",
+    "B003TQMCKI",
+    "B003TQMCLW",
+    "B003ZFLALA",
+    "B095WLQXM5"
+   ]
+  },
+  {
+   "query_id": 82107,
+   "query": "pool 4ft deep",
+   "E": [
+    "B01MUBPC34",
+    "B06Y4467K4",
+    "B07H4SVRZ1",
+    "B07MFC2855",
+    "B07NBR3W6P",
+    "B083QQZGBT",
+    "B08T254GFD",
+    "B08ZQSGQMZ"
+   ],
+   "S": [
+    "B06Y45XDZ2",
+    "B073FKF9KN",
+    "B07B5CFS4Z",
+    "B07BXC85HG",
+    "B07G341XQ9",
+    "B083C5W6PY",
+    "B09157P7W4"
+   ],
+   "C": [],
+   "I": [
+    "B0799D1LDP"
+   ]
+  },
+  {
+   "query_id": 82121,
+   "query": "pool cartidge filter for pentair ccp 520",
+   "E": [
+    "B001OE3N0A",
+    "B002869V2M",
+    "B007E4WE1S",
+    "B00HWB1R1Q",
+    "B01EG59KO6",
+    "B01N4EX594",
+    "B06Y2J6MX6",
+    "B06Y2JYSD4",
+    "B0793MCX1Z",
+    "B07BQDJPJM"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B001E00D8O",
+    "B002NJSUYO",
+    "B004VU8RXW",
+    "B007E4W5VM",
+    "B00HWB1NEW",
+    "B0792VCD3L"
+   ]
+  },
+  {
+   "query_id": 82392,
+   "query": "portable air conditioner without window vent",
+   "E": [
+    "B002W87P9C",
+    "B00V3XA4UY",
+    "B07QR6ZB1X",
+    "B084SY2D84",
+    "B08QHPJG1P",
+    "B08SR141SQ",
+    "B08TKZ9KTV",
+    "B08TRGTHR1",
+    "B08X71RN9R",
+    "B08XJTJ4VN",
+    "B092QKSNDT",
+    "B092VYDLNG",
+    "B096X43G4Q",
+    "B09BVZ2TRH"
+   ],
+   "S": [
+    "B07DQVNSP8"
+   ],
+   "C": [],
+   "I": [
+    "B07D8CWDGX"
+   ]
+  },
+  {
+   "query_id": 82903,
+   "query": "power strips without surge protection",
+   "E": [
+    "B0080Z7974",
+    "B07BHVKPC3",
+    "B07M62Z82T",
+    "B07PT3M78R",
+    "B07TW5FVVP",
+    "B07V32PJ59",
+    "B07ZRDGF6Y",
+    "B08L8KRMWN",
+    "B08QYJMJQ3",
+    "B08XVWLC43",
+    "B08Y8CRBJQ",
+    "B091TGWH67",
+    "B092J8LPWR"
+   ],
+   "S": [
+    "B08CTHF7JZ",
+    "B093KDDGMJ"
+   ],
+   "C": [],
+   "I": [
+    "B000J2EN4S"
+   ]
+  },
+  {
+   "query_id": 82999,
+   "query": "prank puke",
+   "E": [
+    "B002KV0ASO",
+    "B004T3C2PA",
+    "B0050JC3D8",
+    "B00E8VUMP0",
+    "B07PFQKPZN",
+    "B07SJJD5MH",
+    "B0874246RK"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B004QIYL7A",
+    "B0083XLF0U",
+    "B017AEJNGK",
+    "B076FQ7MSR",
+    "B07DZWBHQ4",
+    "B07QQW54QF",
+    "B07T28MTCN",
+    "B07V9B34N1"
+   ]
+  },
+  {
+   "query_id": 83145,
+   "query": "preschool overalls girls",
+   "E": [
+    "B00CU8F1HC",
+    "B00CU8F2QC",
+    "B07CH4KR8G",
+    "B07PBCG75V"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B004CYERTK",
+    "B00AI5AQPQ",
+    "B00SMC72VI",
+    "B00WE4H3LE",
+    "B0142KK9EA",
+    "B01F78SHSG",
+    "B0713WM5WQ",
+    "B076X58DXY",
+    "B07CSFFHKM",
+    "B07FTV7PQX",
+    "B07H9WTWSL",
+    "B07HJYHHJ4"
+   ]
+  },
+  {
+   "query_id": 84160,
+   "query": "pulp fiction wig jules",
+   "E": [
+    "B001EFS67E",
+    "B0041I55DO",
+    "B015P2ZR32",
+    "B07C2TJRGK",
+    "B07DXRLVYF",
+    "B07PHCJPRY"
+   ],
+   "S": [
+    "B0019VFO96",
+    "B013CQ9VXK",
+    "B01GYBB214",
+    "B073P1V98B",
+    "B075YGJ1NM",
+    "B07JZFR3BK"
+   ],
+   "C": [],
+   "I": [
+    "B000YJ6UWY",
+    "B00TOYI64U",
+    "B07G5N661H"
+   ]
+  },
+  {
+   "query_id": 84507,
+   "query": "purina one puppy dog food",
+   "E": [
+    "B000PTS2G0",
+    "B000PTS2JW",
+    "B000YZH81A",
+    "B001BDD26Y",
+    "B004INAQVI",
+    "B006JG492O",
+    "B008K2YJFW",
+    "B0094RW6ZC",
+    "B009IOCCD2",
+    "B00E1YZTRU",
+    "B00FH0BKJS",
+    "B00HATARX4",
+    "B00HYF0OJ6",
+    "B0176RHNOA",
+    "B01EYB3PDY",
+    "B01G8JLE0Q",
+    "B01M7RNPLW",
+    "B01MG69LJU",
+    "B01MPYECJ5",
+    "B073PCGRR2",
+    "B0777S5TGW",
+    "B07CWRN594",
+    "B07KZCGXPS",
+    "B07RW87GNY"
+   ],
+   "S": [
+    "B000634CF0",
+    "B003M674QC",
+    "B005F42UJA",
+    "B01ADDG5N4",
+    "B07SRXLMH4"
+   ],
+   "C": [],
+   "I": [
+    "B0000AH3RR",
+    "B001BDEI6W",
+    "B0094RW7GA",
+    "B00HATAPG8",
+    "B016H4HLAO",
+    "B01FXDB8ZE",
+    "B01NA9TN3D",
+    "B072BG835Z",
+    "B076D92FSN",
+    "B077Q23TND",
+    "B07QFB4FTP"
+   ]
+  },
+  {
+   "query_id": 84553,
+   "query": "purple dice for car mirror",
+   "E": [
+    "B00I86EHDE",
+    "B00PG2ATSU",
+    "B06XF2SL61",
+    "B06ZY2KVRL",
+    "B0882QYW7H",
+    "B08HLZZ7LH",
+    "B08QCPHL62",
+    "B08YF1JM9P",
+    "B08ZJ7P554",
+    "B093GCVVCS"
+   ],
+   "S": [
+    "B00P9SKNRS",
+    "B00VALG1SI",
+    "B00VAMDGOE",
+    "B00VAMK4C6",
+    "B0171W5YLE",
+    "B01720ZZD2",
+    "B0187G5R60",
+    "B01AY373RK",
+    "B01N4WD80R",
+    "B076TR8B7G",
+    "B077V117XX",
+    "B0784YBDQ7",
+    "B078C7FQ3V",
+    "B07MZ8WNP3",
+    "B08F81BZY5",
+    "B08XLZ7FC9",
+    "B08ZMWHGTW",
+    "B093SRSMZT"
+   ],
+   "C": [],
+   "I": [
+    "B00XNGSXYS",
+    "B01N8UPRVL",
+    "B0762XJ84Y",
+    "B078SRC9T8",
+    "B07G3C5YYP",
+    "B07KKC6YGX",
+    "B07ZNDZYYN",
+    "B08ZCY583T",
+    "B097XSGZ7R"
+   ]
+  },
+  {
+   "query_id": 85323,
+   "query": "rag doll kindergarten",
+   "E": [
+    "B07CJZHXB1",
+    "B07CMWGC1Y"
+   ],
+   "S": [
+    "B00BJG741W",
+    "B00VANYD7W",
+    "B01DWZ4Z46",
+    "B01MG9C24J",
+    "B01N29QF3N",
+    "B0774VJCWV",
+    "B07HHY91Y2",
+    "B07HPC9CDJ",
+    "B07HPDJXBJ",
+    "B07KG7S961"
+   ],
+   "C": [],
+   "I": [
+    "1416907521",
+    "1481444344",
+    "1584857455",
+    "B003ZSILSC"
+   ]
+  },
+  {
+   "query_id": 86068,
+   "query": "rebook ok",
+   "E": [
+    "B000AOZKBU",
+    "B000B2JWMY",
+    "B07D63W2JT"
+   ],
+   "S": [
+    "B00R54XP9W"
+   ],
+   "C": [],
+   "I": [
+    "B000J9YQOS",
+    "B000PRINR0",
+    "B008M5S09S",
+    "B00KWKD7QC",
+    "B017NTH3D2",
+    "B01G6T8ZUK",
+    "B01LMK9390",
+    "B0743VVQ7H",
+    "B074BT57HG",
+    "B0761GMFLV",
+    "B07F18P7F7",
+    "B07Q3MF283"
+   ]
+  },
+  {
+   "query_id": 86107,
+   "query": "recently viewed",
+   "E": [
+    "B01IB3LLXW",
+    "B072W9VMH4",
+    "B07PMPBZFP",
+    "B07RV7K56Q"
+   ],
+   "S": [
+    "B01B1NUNV0"
+   ],
+   "C": [],
+   "I": [
+    "0060256672",
+    "B0006TZMOE",
+    "B00BX43CHK",
+    "B01KMPA9XK",
+    "B01MRXKFEY",
+    "B071LQT89W",
+    "B071S6B1YZ",
+    "B072DZR3MM",
+    "B072R279NF",
+    "B075565Z2N",
+    "B07C87TN1Z",
+    "B07CX7FLH3",
+    "B07DYNQG9V",
+    "B07H3P6HMY",
+    "B07MR71XKH",
+    "B07QZBPB8Z"
+   ]
+  },
+  {
+   "query_id": 86553,
+   "query": "red: a crayon's story by michael hall",
+   "E": [
+    "0062252070",
+    "B0055OJC78"
+   ],
+   "S": [
+    "0648367657",
+    "0762462477",
+    "0803741073",
+    "1250302951",
+    "178592821X",
+    "B07ZZ6GY7J"
+   ],
+   "C": [],
+   "I": [
+    "0544586506",
+    "0692512454",
+    "1250078415"
+   ]
+  },
+  {
+   "query_id": 87123,
+   "query": "replacement spring",
+   "E": [
+    "B001FXVZ8W",
+    "B006GK53LY",
+    "B00VDRF25C",
+    "B01195ZBIU",
+    "B071KD3K7D",
+    "B07X28BDJ2",
+    "B07XRT3PLV",
+    "B0827ML9TZ",
+    "B083B8C6HY",
+    "B088WBRZ2M"
+   ],
+   "S": [
+    "B000K7M36W",
+    "B00ASIJ15Y",
+    "B079P5P9LL",
+    "B07TKDDJGD",
+    "B08CSK192X"
+   ],
+   "C": [],
+   "I": [
+    "B07J19WMBY"
+   ]
+  },
+  {
+   "query_id": 87629,
+   "query": "riding shirts equestrian girls",
+   "E": [
+    "B001AQT6IU",
+    "B003T093ZG",
+    "B0088I0ZRE",
+    "B00993NP8S",
+    "B00AVE7S0A",
+    "B00UI8ZJ0A",
+    "B00YVMA1CA",
+    "B01H0JJZB8",
+    "B01H0KNZDG",
+    "B071W9T71C",
+    "B077481F6D",
+    "B0774B636W",
+    "B077V4K55S",
+    "B07CR9CBFP",
+    "B07DC3HKTC",
+    "B07FPKQQYT",
+    "B07L7ZHDHZ",
+    "B07MLJ7ZR8",
+    "B07MXKKLFX",
+    "B07NCWLDQJ",
+    "B07QKWQ38W",
+    "B07TF7CB8R",
+    "B07YFFGVWF",
+    "B0863CY1YF",
+    "B088H3TFPG",
+    "B08F4Q93TY",
+    "B08QZTS3ZR",
+    "B08R138ZKT",
+    "B093336K9J",
+    "B096DWGVFL"
+   ],
+   "S": [
+    "B00AVE80PM",
+    "B07G867B4H",
+    "B07KXB3QSS",
+    "B07TZRKNPM"
+   ],
+   "C": [],
+   "I": [
+    "B001AQPIFU",
+    "B001AQT84W",
+    "B002KSRV1G",
+    "B00993O05U",
+    "B07VWHM8KJ",
+    "B07YDG1LKS"
+   ]
+  },
+  {
+   "query_id": 87662,
+   "query": "right angled micro usb cable pigtail",
+   "E": [
+    "B00S6AZDYE",
+    "B00WMF7JUA",
+    "B01LX00U5U",
+    "B06XXLBL62",
+    "B06Y4FDVNN"
+   ],
+   "S": [
+    "B00W6URQPE",
+    "B013G4EAEI",
+    "B015PSU5F6",
+    "B01FTFA0BY",
+    "B01N5PHSJE",
+    "B06VWHC3K9",
+    "B07BBLD7Y7",
+    "B07C2K65NK",
+    "B07MC7YSR2",
+    "B07MLYVMS8"
+   ],
+   "C": [],
+   "I": [
+    "B075112RM6"
+   ]
+  },
+  {
+   "query_id": 88127,
+   "query": "rockymounts westslope 2-bike",
+   "E": [
+    "B00545JTSA",
+    "B00KOOV1K0",
+    "B00MJCSBJ4",
+    "B01MSTIKNK",
+    "B01N2OA8RC",
+    "B076Y2XZZD",
+    "B07HXHW52J",
+    "B07P3Q22JF",
+    "B07XB312P1"
+   ],
+   "S": [
+    "B019709IBU",
+    "B019709MXO",
+    "B019709U7C",
+    "B01BMTTIPU"
+   ],
+   "C": [],
+   "I": [
+    "B00DYFS3N4"
+   ]
+  },
+  {
+   "query_id": 88616,
+   "query": "rose gold phone case iphone 8 plus",
+   "E": [
+    "B00Z7RUKG0",
+    "B01KF3NDGO",
+    "B01M5IR79J",
+    "B01N49E57Q",
+    "B06XFRSFD3",
+    "B074826HMD",
+    "B075R94RFJ",
+    "B07CW7QBKP",
+    "B07G837VJK",
+    "B07LCKY5WN",
+    "B07PFGSHWC"
+   ],
+   "S": [
+    "B073TDHZK2",
+    "B07K71V19F",
+    "B07MMH6WDL",
+    "B0814FTKJL"
+   ],
+   "C": [],
+   "I": [
+    "B01KF1NC08"
+   ]
+  },
+  {
+   "query_id": 88775,
+   "query": "round table cloths marvel",
+   "E": [
+    "B00QKOIVHY",
+    "B07ND5GX79",
+    "B07TTQ6KBM"
+   ],
+   "S": [
+    "B07X91M8H1",
+    "B07XB7CH7K",
+    "B07XB7QR1L",
+    "B07XC5LR4P",
+    "B07XC84LN8",
+    "B07XDBJS1Z",
+    "B07XFBT3Q6",
+    "B07XG89Q18",
+    "B07XG8M1LW",
+    "B0828JFXZY",
+    "B083NRBTVK"
+   ],
+   "C": [],
+   "I": [
+    "B07JG6DNKS",
+    "B07SL35KDP"
+   ]
+  },
+  {
+   "query_id": 88872,
+   "query": "royal blue under armour backpack",
+   "E": [
+    "B00P2SOCVI",
+    "B01M4LE1WJ",
+    "B071X84DW9",
+    "B077H63G16",
+    "B078XJ34K4",
+    "B07FPT5SVD",
+    "B07J31GY81",
+    "B07JJKWJFW",
+    "B07Z79PDMJ"
+   ],
+   "S": [
+    "B016I9CYC8",
+    "B01KLV3IVU",
+    "B071HW8YLC",
+    "B07JVCCTDZ",
+    "B07JY2417T",
+    "B07TJTCB3H"
+   ],
+   "C": [],
+   "I": [
+    "B07J3FB9RF"
+   ]
+  },
+  {
+   "query_id": 89073,
+   "query": "rug blankets",
+   "E": [
+    "B01FV37ZP8",
+    "B06WD4Z9MP",
+    "B06Y2N93WZ",
+    "B075F9HK75",
+    "B07FLZ9R74",
+    "B07HB1S5J6",
+    "B07W21TQ86",
+    "B07ZG4YFW2",
+    "B0817Y2R94"
+   ],
+   "S": [
+    "B07PWRC2BN"
+   ],
+   "C": [],
+   "I": [
+    "B0019GL7GA",
+    "B01N76HM3K",
+    "B075MZHK47",
+    "B07D35W6NL",
+    "B07NPF4SX2",
+    "B07YDC6CFY"
+   ]
+  },
+  {
+   "query_id": 89321,
+   "query": "rv propane tank cover",
+   "E": [
+    "B000BRJOV8",
+    "B000EIH0TC",
+    "B0024ECC3S",
+    "B003DNFLUU",
+    "B003DNJ7Z0",
+    "B00ED9WMNC",
+    "B00GOW6V5G",
+    "B00GOW6VAQ",
+    "B00OMYK83O",
+    "B00PHNN5VG",
+    "B00QB6PBZQ",
+    "B00T36LG5U",
+    "B010Y82OQU",
+    "B012ZXT7SA",
+    "B012ZY1RNM",
+    "B01M2YIWRF",
+    "B077RVXR9Y",
+    "B07B9BH5SL",
+    "B07F5233N1",
+    "B07FSJ3FNJ",
+    "B07GJHD3PD",
+    "B07RZTL6TK",
+    "B07T6SH2Q3",
+    "B081Q5YVT3",
+    "B08P38XD3T",
+    "B08TRF6CMF",
+    "B094MW12HR",
+    "B097LDZ1W2"
+   ],
+   "S": [
+    "B0872C7BXM",
+    "B096N8WRF6",
+    "B09B76PJKX"
+   ],
+   "C": [
+    "B00HJ6OPAO"
+   ],
+   "I": [
+    "B001LZRF9M",
+    "B007WH7S4A",
+    "B00IZCNP5C",
+    "B012ZXIT1Q",
+    "B07Q1DLKBG",
+    "B07ZCRFLHD",
+    "B094DBMWBB"
+   ]
+  },
+  {
+   "query_id": 90480,
+   "query": "sanitizer packets for restaurants",
+   "E": [
+    "B00ISYITL2",
+    "B015JQNIXK",
+    "B01ALKIJUQ",
+    "B01HDY205I",
+    "B07MHXH4CY",
+    "B08BPN858C"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B001TBBQT8",
+    "B003B6QMDO",
+    "B00CBYBWWI",
+    "B01D4CMVJS",
+    "B079H3CPWM",
+    "B07D6BY11B",
+    "B07DGYKJBW",
+    "B07G7SJXQJ",
+    "B07K616RXM",
+    "B08BPM19XD"
+   ]
+  },
+  {
+   "query_id": 90524,
+   "query": "santa skirt",
+   "E": [
+    "B01N2NL2YO",
+    "B01N48EHNV",
+    "B07KP97W89",
+    "B07KSRLHK5",
+    "B07KSZHT4X"
+   ],
+   "S": [
+    "B000VEVE14",
+    "B00C5GNIEW",
+    "B00N40VEH6",
+    "B01GYEEDAS",
+    "B01N5LP929",
+    "B01NCBBCTU",
+    "B07JC7PJPQ",
+    "B07JMYVHX6"
+   ],
+   "C": [],
+   "I": [
+    "B06XKBLGJ2",
+    "B07HB1T8LT",
+    "B07L5PJN79"
+   ]
+  },
+  {
+   "query_id": 90804,
+   "query": "scan snap wireless",
+   "E": [
+    "B008HBFADQ",
+    "B00936DZXQ",
+    "B00ATZ9QMO",
+    "B00NWGGUAS",
+    "B01G3JYVYM",
+    "B01JZXVNP8",
+    "B01MFBVS1E",
+    "B07HDJG9BG",
+    "B07J3DB57C",
+    "B08395RZ4Q",
+    "B085R2QYDL"
+   ],
+   "S": [
+    "B07FKJ76M8",
+    "B07KRXXWYY",
+    "B08PMQQZ8H"
+   ],
+   "C": [
+    "B01LYXLUIB"
+   ],
+   "I": [
+    "B00AYUI490"
+   ]
+  },
+  {
+   "query_id": 91364,
+   "query": "season 1 fargo",
+   "E": [
+    "B00JEZWQQI",
+    "B00JPFTRB4",
+    "B00KXEM6XM",
+    "B01LZY9VXC",
+    "B071RT7187",
+    "B07DNJV6DK",
+    "B07RYFYRWL",
+    "B07TF7GCQP",
+    "B08D6SYQN7"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B002C07AU4",
+    "B00UGQK60W",
+    "B017DO74JU",
+    "B019I74IQM",
+    "B06XT3KQFP",
+    "B074F5Q9XF",
+    "B07L1VSXZC"
+   ]
+  },
+  {
+   "query_id": 91787,
+   "query": "sequin muffin top underwear women",
+   "E": [
+    "B0772WJ8XY",
+    "B07CCG4L7X",
+    "B07G3QNSBB",
+    "B07HVKTYL6"
+   ],
+   "S": [
+    "B00TP89DPQ",
+    "B01MYMYKI6",
+    "B07G74KXZP",
+    "B07GC2TN2B",
+    "B07K1RGV7H",
+    "B07Q3FCYDK"
+   ],
+   "C": [],
+   "I": [
+    "B06XBMWXCS",
+    "B071HWL8L6",
+    "B074CFYSZQ",
+    "B07JYB3RND"
+   ]
+  },
+  {
+   "query_id": 91961,
+   "query": "sevylor trolling motor mount",
+   "E": [
+    "B001PTHKPI",
+    "B004360NKY",
+    "B004RMFOQM",
+    "B01CS3M2RK",
+    "B01GFLQW9K",
+    "B071743WSX",
+    "B07455NBNL",
+    "B074W2L2QR"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B000NNM4BW",
+    "B001PTHKMG",
+    "B0090MY528",
+    "B00K8E8M1C",
+    "B00K8ECOCK",
+    "B00VTJMPAY",
+    "B01AE2TG7G",
+    "B07HQXQCZM"
+   ]
+  },
+  {
+   "query_id": 92619,
+   "query": "shirt for boy story book",
+   "E": [
+    "B07JP9J499",
+    "B07NX173WJ",
+    "B07VB4W5DS"
+   ],
+   "S": [
+    "B07C33XSS7"
+   ],
+   "C": [],
+   "I": [
+    "0062313371",
+    "0312528426",
+    "0375861327",
+    "0553522779",
+    "0679891153",
+    "073642850X",
+    "0736439781",
+    "1338193090",
+    "1452142904",
+    "1537010344",
+    "1539497550",
+    "B07VFQM5VF"
+   ]
+  },
+  {
+   "query_id": 92928,
+   "query": "show tights for women",
+   "E": [
+    "B000ACHX1C",
+    "B00274V05Q",
+    "B00NOU4RQQ",
+    "B019YGC1OI",
+    "B07L89MK48"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B0088I0ZW4",
+    "B00GOMS18Q",
+    "B01MYS5XL8",
+    "B06XBK5LCY",
+    "B071Z8ZVWN",
+    "B075TJNGSK",
+    "B07DB19PZG",
+    "B07QX673K2",
+    "B07V8HNJ2L",
+    "B081NTL7W6",
+    "B082DMCMFZ"
+   ]
+  },
+  {
+   "query_id": 93345,
+   "query": "silk lingerie for women",
+   "E": [
+    "B06XG5N8PS",
+    "B071XLZPWW",
+    "B075ZVFWHF",
+    "B076BHVK13",
+    "B076BWMJ2C",
+    "B076S1QYG9",
+    "B07BFQZQJN",
+    "B07H19JMGT",
+    "B07J6T9QVH",
+    "B07QM6X8DQ",
+    "B07R1GV3TK",
+    "B07TC98JQM",
+    "B07W71WMQP"
+   ],
+   "S": [
+    "B06XB2H4YK",
+    "B071GYDTTX",
+    "B073VJZT4D",
+    "B07412WXH3",
+    "B07415QFPY",
+    "B076H37YY1",
+    "B07JM57B35",
+    "B07M7D9XQQ",
+    "B07SG95VS3"
+   ],
+   "C": [],
+   "I": [
+    "B077S5V5VV"
+   ]
+  },
+  {
+   "query_id": 93741,
+   "query": "single prong fabric covered hair clips",
+   "E": [
+    "B01G4SX9FO",
+    "B07T8ZN3KV",
+    "B0826VZSPH"
+   ],
+   "S": [
+    "B00JW0E0TQ",
+    "B017OZOQYO",
+    "B01EA7T090",
+    "B073CHJZP4",
+    "B075RS48L3",
+    "B078TZ8TYJ",
+    "B0791DFFRZ",
+    "B07J4RGFPS",
+    "B07Q61HZFD",
+    "B081XXN8YB",
+    "B0826W6WZ9"
+   ],
+   "C": [],
+   "I": [
+    "B07DC4CVDD",
+    "B07DKXKKJY"
+   ]
+  },
+  {
+   "query_id": 93903,
+   "query": "size 8 boys sandals",
+   "E": [
+    "B00B3Z2R4I",
+    "B00DGBMD8W",
+    "B00G6DV3JW",
+    "B01HEXGFRW",
+    "B01M0RR891",
+    "B071S6HX9S",
+    "B07BS4MG6J",
+    "B07MKG16TF"
+   ],
+   "S": [
+    "B01HEXG1F8"
+   ],
+   "C": [],
+   "I": [
+    "B00M15EJDG",
+    "B0725QBTYH",
+    "B074HBM3FQ",
+    "B07D9RPDWR",
+    "B07JK7R6B8",
+    "B07KBWD275",
+    "B07MQPKQ2C"
+   ]
+  },
+  {
+   "query_id": 94066,
+   "query": "ski rope for tubes",
+   "E": [
+    "B000FE9C14",
+    "B007H2Q6HK",
+    "B00R6CSX2C",
+    "B01M8LH2JH",
+    "B079ZZ1YH4",
+    "B07GT1NXTK",
+    "B07TRJ4D95",
+    "B0887V8874",
+    "B08T993SR3",
+    "B08ZYJVGXG"
+   ],
+   "S": [
+    "B06XZLQHL7"
+   ],
+   "C": [],
+   "I": [
+    "B0013OIHMU",
+    "B002MIDVYK",
+    "B00DAMWXLO",
+    "B00HCRSC9U",
+    "B00SAY9LLC",
+    "B00ZWFYJFU",
+    "B06XNNY73K",
+    "B074SFXC3C",
+    "B07DCLFB9C",
+    "B07FS39NC1",
+    "B07GN5BD2F",
+    "B07P2F2YHT",
+    "B07Q2GJBGT",
+    "B07QWP31VS",
+    "B07SF5NHD9",
+    "B07V56B21S",
+    "B07WM1LMY3",
+    "B083P64NFP",
+    "B085ZXCRY5",
+    "B086XC32L2",
+    "B088CQTFS6",
+    "B088TS8R8W",
+    "B0892XB8MD",
+    "B0894P9H6X",
+    "B08CTF9NHP",
+    "B08LTP7231",
+    "B08MVP5HBJ",
+    "B08N696C5V"
+   ]
+  },
+  {
+   "query_id": 94194,
+   "query": "skull and lips for women",
+   "E": [
+    "B0125VD2DI",
+    "B01FJ4CJVY",
+    "B074WMG747",
+    "B0759GNC81",
+    "B07C462TQM",
+    "B07PHYD9SY",
+    "B07PL9G97Q",
+    "B07RBTTWWW",
+    "B07RSKCKM8",
+    "B082DYSBL1",
+    "B087BKVNMD"
+   ],
+   "S": [
+    "B007FNZWHG",
+    "B0162BLXSI"
+   ],
+   "C": [],
+   "I": [
+    "B07KN9347R",
+    "B07VDVF79Z"
+   ]
+  },
+  {
+   "query_id": 94491,
+   "query": "slip on sandels for men",
+   "E": [
+    "B002F00CZG",
+    "B005A0V80Q",
+    "B015JKX8TU",
+    "B01GSTHMNY",
+    "B01GSWXG54",
+    "B071NZZW47",
+    "B071S6HX9R",
+    "B073PDZTJP",
+    "B07CSJ2SMF",
+    "B07HRP79ND",
+    "B07PYYS576"
+   ],
+   "S": [
+    "B01H6NXZNM",
+    "B0725RV7G2"
+   ],
+   "C": [],
+   "I": [
+    "B00DQYS43M",
+    "B0711M3FBS"
+   ]
+  },
+  {
+   "query_id": 94628,
+   "query": "small bust lingerie for women",
+   "E": [
+    "B000VKWIYA",
+    "B0010W39QY",
+    "B07N3WR1GM"
+   ],
+   "S": [
+    "B0759TQDND"
+   ],
+   "C": [
+    "B073G668Z2",
+    "B074PP6TGJ",
+    "B0752CBZXS",
+    "B07DVP3P5Y",
+    "B07FZSBW3V"
+   ],
+   "I": [
+    "B00553XN4C",
+    "B06XMQPKG1",
+    "B0779659ZZ",
+    "B078P9DKPZ",
+    "B07GL2NYSL",
+    "B07H1C4YQJ"
+   ]
+  },
+  {
+   "query_id": 94819,
+   "query": "small orange peel world map",
+   "E": [
+    "163597061X",
+    "1635970733",
+    "1635970857",
+    "1635971454",
+    "1635975662",
+    "1635975883",
+    "1635975948",
+    "9385579363",
+    "9385579614",
+    "B00N34EHHW",
+    "B01JLNQMTO",
+    "B076BF2MTR",
+    "B07VLBMM51",
+    "B07VMX3QLK"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00006IFIK",
+    "B07H4W3Q1Q"
+   ]
+  },
+  {
+   "query_id": 95622,
+   "query": "socks for arthritic toes",
+   "E": [
+    "B007XWZ8MI",
+    "B00MS4RNKG",
+    "B00VBNAL54",
+    "B01AXG7SFK",
+    "B072HVJGTG",
+    "B0763ZGDCK",
+    "B07NS299J4",
+    "B07PVTK35N",
+    "B081VTSQSP"
+   ],
+   "S": [
+    "B07F8VXGK5",
+    "B07HHXXG5K",
+    "B07M5C72VQ"
+   ],
+   "C": [],
+   "I": [
+    "B0016CJIZO",
+    "B01FMOB3MM",
+    "B07PJ61KSQ",
+    "B0837NVWS3"
+   ]
+  },
+  {
+   "query_id": 96391,
+   "query": "soy luna necklace moon and sun",
+   "E": [
+    "B00RAKFFXK",
+    "B019LRK2D2",
+    "B01NCLRQ7V",
+    "B06XDJRHF3",
+    "B0716TPVKZ",
+    "B077C6CG3S",
+    "B07GGXTL7C",
+    "B07GPCJDBN",
+    "B07HQ6WTBR",
+    "B07LGSKGH8",
+    "B07NNT7TL5",
+    "B07TKKBLQR",
+    "B07WCDWT8Q",
+    "B089ZY4LCK",
+    "B08RYTV4JS",
+    "B09B4TZYRR"
+   ],
+   "S": [
+    "B00L3ZSL66",
+    "B013TAJ3H8",
+    "B01M36ET5W",
+    "B01MTP1YH0",
+    "B073S7KW8R",
+    "B074Z793HB",
+    "B0774KDX9H",
+    "B077CMMLBW",
+    "B077W34Q2N",
+    "B078N1FH5S",
+    "B07BRQ32FN",
+    "B07NY93NSC",
+    "B07PG98658",
+    "B07PQDWXFJ",
+    "B07T8ZSY51",
+    "B07TP9H7MB",
+    "B07YRYPQ7K",
+    "B08316XBHL",
+    "B08FCGNZRJ",
+    "B08N4CXH7J"
+   ],
+   "C": [],
+   "I": [
+    "B01KKOKFDW",
+    "B07NZ5BKKH",
+    "B07W8SQ96J"
+   ]
+  },
+  {
+   "query_id": 96793,
+   "query": "spiderman shirt women",
+   "E": [
+    "B0041MUTK4",
+    "B00TP51AH8",
+    "B0797RDXZK",
+    "B07HNZM85R",
+    "B07KRY9GZ8",
+    "B07KVPV85F",
+    "B07NWBMF4R",
+    "B07PPKC2CV",
+    "B07QXLR4PJ",
+    "B07QXNCVFN",
+    "B07RVCQQPL",
+    "B07SGS5HL3"
+   ],
+   "S": [
+    "B07C5H6SGT"
+   ],
+   "C": [],
+   "I": [
+    "B009I4X89Y",
+    "B077XLX2KR",
+    "B07QY8WY46"
+   ]
+  },
+  {
+   "query_id": 96845,
+   "query": "spin mop only no bucket",
+   "E": [
+    "B0718ZKJH9",
+    "B072HXNJ81",
+    "B07QPZYC88",
+    "B07XRKJL2V",
+    "B086MHP4WV"
+   ],
+   "S": [
+    "B07RFSNMTM",
+    "B07V6V1Z56"
+   ],
+   "C": [],
+   "I": [
+    "B00WSWGVZQ",
+    "B01LXQ9JSZ",
+    "B01N1YGFC8",
+    "B06XZ2GXS7",
+    "B071G1J8TZ",
+    "B07FFRJQ8S",
+    "B07RJV3XBZ",
+    "B07YFBJ391",
+    "B088CV74JB"
+   ]
+  },
+  {
+   "query_id": 97555,
+   "query": "standing dinner table",
+   "E": [
+    "B000GLNO3S",
+    "B000NPOMI8",
+    "B007N1355G",
+    "B0094G369S",
+    "B0097GMHXG",
+    "B00FOKIR8I",
+    "B00QMNTMXA",
+    "B01LZPMFW9",
+    "B07DRGZMHQ",
+    "B07GC42RZ6",
+    "B07GJ3549M",
+    "B07Z69RV6T",
+    "B083GTNFNW"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B07NHZXJKB",
+    "B088QYM6V7",
+    "B0899VM6G5"
+   ]
+  },
+  {
+   "query_id": 97898,
+   "query": "steelcase chair parts",
+   "E": [
+    "B01B1SM9O4",
+    "B072YFNQSR",
+    "B078BPJ6W1",
+    "B07Q6JJW51"
+   ],
+   "S": [
+    "B00CKR4QT2",
+    "B00CKRBJTW",
+    "B01D4YBFBQ",
+    "B01FGLVD6M",
+    "B01ICP46NG",
+    "B07123XKLW",
+    "B072BKJN34",
+    "B07Q8R34R9"
+   ],
+   "C": [],
+   "I": [
+    "B016OIF3K8",
+    "B07TT7ZNFD",
+    "B07X4ZP42L",
+    "B085GMT7H4"
+   ]
+  },
+  {
+   "query_id": 98353,
+   "query": "storm crux bowling ball",
+   "E": [
+    "B07M5V5GGN",
+    "B0842YGXW7"
+   ],
+   "S": [
+    "B0000BYQCC",
+    "B00K8BL6YA",
+    "B01LWO570F",
+    "B07H8KZBZH",
+    "B07H8MNJL5",
+    "B07PRN5F2K",
+    "B07RZGSGRK",
+    "B07S2FPK9H"
+   ],
+   "C": [
+    "B00AZKVDU6",
+    "B00AZKVE6E",
+    "B00CPDCR56",
+    "B071HYG53W",
+    "B07Q34HDTJ"
+   ],
+   "I": [
+    "B07GV3Q3S7"
+   ]
+  },
+  {
+   "query_id": 98778,
+   "query": "styrofoam pumpkins large",
+   "E": [
+    "B019QKLX82",
+    "B01L7LBQEY",
+    "B01M16WUNJ",
+    "B07VGF8GMC",
+    "B07VMB1N54",
+    "B07VN8YQDD",
+    "B07VVHTQWF",
+    "B07VVYN8P8",
+    "B07WTDN4DJ",
+    "B07XQYDZFG",
+    "B07XRR6P4Y",
+    "B08882NP2M",
+    "B088WRK7TB",
+    "B08D74WY8L",
+    "B08D762CSR",
+    "B08DR3Q54K",
+    "B08FJ2KRSF",
+    "B08GG4WCSV",
+    "B08HCFR6GY",
+    "B08KP2P351",
+    "B08ZKNR5KF",
+    "B08ZKQXZVY",
+    "B08ZMHL8N4",
+    "B091CVXSXR",
+    "B092DCHMJD",
+    "B092HVP3SH",
+    "B093DCC5YH",
+    "B09487RVFQ",
+    "B097YBB6MF",
+    "B0989QP8G8",
+    "B099RRHGV7",
+    "B09C1QQ38C",
+    "B09F37BF8X"
+   ],
+   "S": [
+    "B01JLRL63M",
+    "B07V4JDH47",
+    "B08CZKHSSR",
+    "B08FWZLSWX",
+    "B0957G9MVF",
+    "B096TWDZYW"
+   ],
+   "C": [],
+   "I": [
+    "B094BXX6VW"
+   ]
+  },
+  {
+   "query_id": 98999,
+   "query": "sugar-free oyster sauce",
+   "E": [
+    "B00H1ZJ6V6",
+    "B01A5TCM0Q"
+   ],
+   "S": [
+    "B005J8DT0Q",
+    "B00B617XK2",
+    "B00YTA439G",
+    "B01BULR2HG",
+    "B01DINZQGI",
+    "B077QQR4KW",
+    "B07DK1PXGG",
+    "B07KRKGTLY",
+    "B083QB9YTM"
+   ],
+   "C": [],
+   "I": [
+    "B01GQ5GQEG",
+    "B071983N7S",
+    "B074NB6DHY",
+    "B079G2DDVJ",
+    "B07NP2XWFX"
+   ]
+  },
+  {
+   "query_id": 99412,
+   "query": "supernatural cookbook",
+   "E": [
+    "1580082777",
+    "1683837452",
+    "1789093465",
+    "B004FYZJYO",
+    "B084ZDLN1L"
+   ],
+   "S": [
+    "0062876880",
+    "0143190857",
+    "0345534492",
+    "B01JQYIN2W",
+    "B0855L6F1Q"
+   ],
+   "C": [],
+   "I": [
+    "1075527090",
+    "1438870779",
+    "1646090845",
+    "1683837355",
+    "B07B7QTVJG",
+    "B07NZFBTGL"
+   ]
+  },
+  {
+   "query_id": 99573,
+   "query": "suspension fork 20\" fat tire",
+   "E": [
+    "B07ZG9P2BG",
+    "B082B4H9PV",
+    "B082B4YSM1",
+    "B088647VM6"
+   ],
+   "S": [
+    "B06X9Y272V",
+    "B07X911XNX"
+   ],
+   "C": [],
+   "I": [
+    "B00AA8GFSI",
+    "B071P3DLK6",
+    "B07FC9NRRR",
+    "B07L9Y3PNK",
+    "B07MQJ3C3R",
+    "B088LMQY4W"
+   ]
+  },
+  {
+   "query_id": 99663,
+   "query": "sweat caps for men",
+   "E": [
+    "B002IY8DBE",
+    "B002M0VVQ8",
+    "B00318BKGQ",
+    "B00L3I16N8",
+    "B00UR4HLBK",
+    "B00W8WGKP2",
+    "B01H8LW46Q",
+    "B071JH68QM",
+    "B07TV1J77Z",
+    "B07XL4SPQR",
+    "B07Y8LWRF2"
+   ],
+   "S": [
+    "B00MNLR1ME",
+    "B01H8LW9AW"
+   ],
+   "C": [],
+   "I": [
+    "B01N3T0UGE",
+    "B07H25M7WF"
+   ]
+  },
+  {
+   "query_id": 99723,
+   "query": "sweatshirts without hoods",
+   "E": [
+    "B0035E6NYK",
+    "B004VJMECI",
+    "B00D4NBMTI",
+    "B00GYZM9ZO",
+    "B00GYZMG3Y",
+    "B00JUMCYEY",
+    "B014RQ1L46",
+    "B01DARPX0Q",
+    "B01I8JLJRC",
+    "B01M1OKRTK",
+    "B06XZN6N1W",
+    "B06ZYMQN6F",
+    "B071D1DFX5",
+    "B071Y2XWVD",
+    "B072MR4NR7",
+    "B07JZRBHNC",
+    "B07K55YM9H",
+    "B07L32L26W",
+    "B07P7S1ZSN",
+    "B07TBX46WQ",
+    "B07V2F986Z",
+    "B07VMSRZZN",
+    "B07Y9DV4N6",
+    "B08B15G3CG",
+    "B08B7XS6Y6",
+    "B08BS21TDF",
+    "B08G88YVFX",
+    "B08HV1MX83",
+    "B08NSK69WN"
+   ],
+   "S": [
+    "B008E0X7O4",
+    "B071R7CBWN",
+    "B081KX5395",
+    "B083ZK8ZSM"
+   ],
+   "C": [],
+   "I": [
+    "B01GTG91HG",
+    "B071HW9Z6V",
+    "B072LW9DFM",
+    "B07P3NHDF3",
+    "B07XTRCDJ1",
+    "B08LBSSXH1"
+   ]
+  },
+  {
+   "query_id": 99778,
+   "query": "swiffer jet liquid",
+   "E": [
+    "B01C47HTN2",
+    "B06WRMWN6L",
+    "B07XTMDSD7"
+   ],
+   "S": [],
+   "C": [
+    "B001F0RBT2",
+    "B0035G079U",
+    "B00DE8WOQ8",
+    "B00HZ6WH76",
+    "B00LMD06WQ",
+    "B011HY0ZV6",
+    "B012CFJFOW",
+    "B01C47HNYW",
+    "B01C47IY04",
+    "B01CTZD3QG",
+    "B07FXYLZW5"
+   ],
+   "I": [
+    "B076DRNNCG",
+    "B07CSF6JVZ"
+   ]
+  },
+  {
+   "query_id": 99808,
+   "query": "swim parkas for women",
+   "E": [
+    "B000IETYLO",
+    "B07Q24VQ1Z",
+    "B07WVTBTD6"
+   ],
+   "S": [
+    "B004SWMMWA",
+    "B004SWV5NC",
+    "B004SX2BQ6",
+    "B008ZEE8OC",
+    "B00EL3MAKU",
+    "B01LG9TOYG",
+    "B07BQ5GT36",
+    "B07VNP2HRC",
+    "B07X1B58B5"
+   ],
+   "C": [],
+   "I": [
+    "B07C1XH6KJ",
+    "B07K9VZVQB",
+    "B07K9W3S3X",
+    "B07R4JKVRS"
+   ]
+  },
+  {
+   "query_id": 100469,
+   "query": "tales from a not so perfect pet sitter",
+   "E": [
+    "1416980083",
+    "1442426624",
+    "1442498595",
+    "1471144585",
+    "1481457047",
+    "1481479202",
+    "153442458X",
+    "1534424598"
+   ],
+   "S": [
+    "1442487690",
+    "1471168646",
+    "1471182347",
+    "1534405607",
+    "1534426388",
+    "1534427201"
+   ],
+   "C": [],
+   "I": [
+    "B096TJDGFT"
+   ]
+  },
+  {
+   "query_id": 100616,
+   "query": "tank top dress summer",
+   "E": [
+    "B06XHZCQD3",
+    "B07MJ4H3DK",
+    "B07P6Q9THV",
+    "B07PN1WCNT",
+    "B07PRJL97S",
+    "B07T6SK5WL"
+   ],
+   "S": [
+    "B072JTX6TZ",
+    "B072MFT58Y",
+    "B07JNRMQDC",
+    "B07JNS4LXN",
+    "B07NXPDJCJ",
+    "B07QNTYSB4",
+    "B07RM55286"
+   ],
+   "C": [],
+   "I": [
+    "B072Q29YQG",
+    "B0775Q1K7R",
+    "B07T6T22P6"
+   ]
+  },
+  {
+   "query_id": 100934,
+   "query": "td cripps",
+   "E": [
+    "B006RNHJ58",
+    "B00DVG8DOU",
+    "B00ET56Y48",
+    "B07GWQF3QZ",
+    "B07N7BSX1H"
+   ],
+   "S": [
+    "B07G74F876"
+   ],
+   "C": [],
+   "I": [
+    "B00FN4ORWU",
+    "B0113Q2AXY",
+    "B079HJHC9L",
+    "B07KRJS6RT",
+    "B07MBF5MF5"
+   ]
+  },
+  {
+   "query_id": 101172,
+   "query": "tecnu wipes",
+   "E": [
+    "B000A7S3WK",
+    "B0040U6OP6",
+    "B0091W8Z2I",
+    "B0093YBOAE",
+    "B00E4MR1CK",
+    "B01BXZ1RES",
+    "B01E5YFRP4",
+    "B073P8B89D",
+    "B07BWT7BZX",
+    "B07CC2LMSR",
+    "B07KQR2LBD"
+   ],
+   "S": [
+    "B0000CCW17",
+    "B000GCPWUU",
+    "B0015TGOKU",
+    "B0015TGWMA",
+    "B003WS0C28",
+    "B00467DR58",
+    "B006HHBZSQ",
+    "B008LXBZF2",
+    "B00BRN9870",
+    "B00NT6CEN8",
+    "B011P64UQM",
+    "B013TV065A",
+    "B01E5YFGUA",
+    "B01FBBI71Q",
+    "B01I3ZEDCE",
+    "B01IA96VGY",
+    "B085FT8J7Z",
+    "B089994XST"
+   ],
+   "C": [
+    "B0019J6XHK",
+    "B0034CZ3M6",
+    "B00623GCNI",
+    "B07R3SK1CQ"
+   ],
+   "I": [
+    "B0007IOVZK",
+    "B0051OJ71S",
+    "B00GLNT6Y6",
+    "B01GUHQ6YA",
+    "B01IQDUUIY",
+    "B0752QB15N"
+   ]
+  },
+  {
+   "query_id": 101218,
+   "query": "teen pj sets girl",
+   "E": [
+    "B01JWXY93O",
+    "B073W8WH5F",
+    "B077VNNB4F",
+    "B0784WWGJN",
+    "B0796Q2BT5",
+    "B07BWGQ9FQ",
+    "B07D5G863T",
+    "B07DLMG1DT",
+    "B07F34H5K9",
+    "B07GNNMJGR",
+    "B07MTJRTM9",
+    "B07MV7C27M",
+    "B07SNT3Y6D",
+    "B07TFGKVPJ"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B07QD7JLDC",
+    "B07YF5VQV8"
+   ]
+  },
+  {
+   "query_id": 101787,
+   "query": "the adventures of black beauty",
+   "E": [
+    "B017SLZ72O",
+    "B017SQMMAO",
+    "B017SWS3JC",
+    "B017SWSN06",
+    "B01C6AFWA4",
+    "B071GW61QZ",
+    "B07444XVG6",
+    "B0744X4HTJ",
+    "B074J31Q9G",
+    "B081NDBFMD"
+   ],
+   "S": [
+    "B008UCCS5K",
+    "B00I087ZMU",
+    "B01BQQV7RG",
+    "B07YN7KRM6"
+   ],
+   "C": [],
+   "I": [
+    "B00KNOVIAE",
+    "B07J496DTY"
+   ]
+  },
+  {
+   "query_id": 102426,
+   "query": "the subtle art of not giving a f--- mark manson",
+   "E": [
+    "0062457713",
+    "1077751435",
+    "1952639093",
+    "B07Y57WH9H",
+    "B0847JSL19"
+   ],
+   "S": [
+    "0062888439",
+    "9123799684",
+    "912379979X",
+    "9123881100",
+    "B08B432K5T"
+   ],
+   "C": [],
+   "I": [
+    "0762447699",
+    "1455570249",
+    "1511800410",
+    "B071FKPMW2",
+    "B0731QJ482"
+   ]
+  },
+  {
+   "query_id": 102605,
+   "query": "thermo switch temperature",
+   "E": [
+    "B000CB21WC",
+    "B000CB5H46",
+    "B00T4ANIH4",
+    "B00T4BA1C8",
+    "B015R9AVMA",
+    "B018RWUQZ6",
+    "B01HAUHFVY",
+    "B01LZKSF8Q",
+    "B07895T7T3",
+    "B07963J37F",
+    "B07F6W32QT",
+    "B07F9547G6",
+    "B07H2X4NNR",
+    "B07PDSRMYS",
+    "B07QS248ND"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B0006U2HD2"
+   ]
+  },
+  {
+   "query_id": 103490,
+   "query": "to meme or not to meme",
+   "E": [
+    "B06WWL3DRG",
+    "B0839X4PQJ",
+    "B08PQ14F57",
+    "B08ZFVGP2B",
+    "B08ZFW2LZC",
+    "B08ZJ1S53Q",
+    "B08ZJ3P718"
+   ],
+   "S": [
+    "B08592NJNL",
+    "B085RBQ24G"
+   ],
+   "C": [
+    "B093LPNRK7"
+   ],
+   "I": [
+    "B001JUYHVI",
+    "B00C8SKG5G",
+    "B00V155S46",
+    "B01FST8A90",
+    "B01KL273IS",
+    "B01MRG7T0D",
+    "B01MS43F3O",
+    "B075CVZ4KY",
+    "B076PRWVFG",
+    "B07CVLLC8F",
+    "B07FPVLNYP",
+    "B07G1VCBQ3",
+    "B07PZF5C2J",
+    "B07Q8TZKVL",
+    "B07RQVKD56",
+    "B07ZBM9D53",
+    "B07ZWSBWHV",
+    "B081BFST5S",
+    "B084239CGT",
+    "B087VW1FF9",
+    "B08K7FRJGV",
+    "B08MPSWMLJ",
+    "B08SJ6DPBS",
+    "B093LWSV5H",
+    "B09B23JHLN",
+    "B09B92XXF3"
+   ]
+  },
+  {
+   "query_id": 103494,
+   "query": "to shred bin",
+   "E": [
+    "B0006HX3JM",
+    "B000QUTHVC",
+    "B000QX77WK",
+    "B001BVH794",
+    "B0087S48E6",
+    "B00EWGW0TC",
+    "B00IOFD08C",
+    "B00J4LYXPY",
+    "B00YFTHJ9C",
+    "B01DN9NX0I",
+    "B07G2W1JZW",
+    "B07SZX21SQ",
+    "B0834J2SVR"
+   ],
+   "S": [
+    "B00A2N0BCM",
+    "B00RD9EPY8",
+    "B071XW8789",
+    "B07KYXX2W2"
+   ],
+   "C": [
+    "B0013CM0KW"
+   ],
+   "I": [
+    "B00006IV0R",
+    "B001PV3DRA",
+    "B0033UNUG0",
+    "B004L9HYU0",
+    "B00B1WMIPQ",
+    "B00GAN0JEI",
+    "B00KP37XYS",
+    "B00WOACNMC",
+    "B00XM7LKZM",
+    "B00ZPP5XL6",
+    "B01434TXH4",
+    "B01H2LHE9O",
+    "B01HPKJBKC",
+    "B01LZDYAVO",
+    "B0732VTS4N",
+    "B078XHRXLR",
+    "B07QB8NZJ1",
+    "B07QDR2JS7",
+    "B083M95N9F",
+    "B08575VXJ2",
+    "B08V4KXNLJ",
+    "B092LCF17P"
+   ]
+  },
+  {
+   "query_id": 103675,
+   "query": "toddler girl valentine",
+   "E": [
+    "B00IYP7H4A",
+    "B00KC6DPJA",
+    "B0748H3ZJH",
+    "B075Z3JZ6D",
+    "B07897LBJ1",
+    "B07MHW7MNP",
+    "B0827GX7WZ",
+    "B082YQGH9N",
+    "B0832TFGFN",
+    "B083JYKN1R"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "146546526X",
+    "B0058VRCES",
+    "B01H49P9K0",
+    "B073FCFPZ6",
+    "B07711Y69V",
+    "B07R99F99Y"
+   ]
+  },
+  {
+   "query_id": 103682,
+   "query": "toddler girls size 4t sweaters",
+   "E": [
+    "B0195TS3DC",
+    "B01ENGNWCE",
+    "B07DQ8D8KG",
+    "B07Z7FF4Z4"
+   ],
+   "S": [
+    "B019ENL2MI"
+   ],
+   "C": [],
+   "I": [
+    "B00AJWYXR0",
+    "B00WGIA2AW",
+    "B01DARFGEO",
+    "B01EMLSQJO",
+    "B01N0ECQ5K",
+    "B076XHQ59X",
+    "B0797LLQ8F",
+    "B07H5LGRH8",
+    "B07R7F246X",
+    "B07WTK53M2",
+    "B07Y47YQJ3"
+   ]
+  },
+  {
+   "query_id": 104332,
+   "query": "tory burch slippers for women clearance",
+   "E": [
+    "B00LC4Q0M0",
+    "B06XYH868C",
+    "B06XYJD9TN",
+    "B06Y4BGXNH",
+    "B07H1NWKL6",
+    "B07M8CYRNN",
+    "B07N1YHC8T",
+    "B07PVBTLDQ",
+    "B07XWBCD9C",
+    "B07YVM7DBX",
+    "B0825XTGZL",
+    "B0825Y3949",
+    "B08D6WHZQ5",
+    "B08HWQ98QZ",
+    "B08J7PPP45",
+    "B08R1RY71P",
+    "B08WL4ZLDW",
+    "B08YLZ3ZSN",
+    "B092ZRPS3C",
+    "B092ZSZHXF",
+    "B092ZW7ZSR",
+    "B097Q8DGPK",
+    "B099PMP7VH"
+   ],
+   "S": [
+    "B018UYP3LI",
+    "B01CJFNPLY",
+    "B01N7M5W7P",
+    "B076KQXFWD",
+    "B07HMYQSP7",
+    "B07S8CBWSK",
+    "B07X491BRJ",
+    "B08HVSX6QF",
+    "B092ZT24KM",
+    "B099PMCPZV"
+   ],
+   "C": [],
+   "I": [
+    "B078SYS622",
+    "B07RJ1L1TZ",
+    "B07SVMDPKD",
+    "B089XD13L8",
+    "B092ZT3ZLW",
+    "B095Q28QQY"
+   ]
+  },
+  {
+   "query_id": 104731,
+   "query": "tradition is not an excuse",
+   "E": [
+    "B00NMFDE3K",
+    "B015G0F03U",
+    "B01HFFXLNA",
+    "B078WZPYDV"
+   ],
+   "S": [
+    "B00NMFQPF4"
+   ],
+   "C": [],
+   "I": [
+    "0312925883",
+    "099708619X",
+    "B007595TKU",
+    "B015G0EWLG",
+    "B015G0K9Q8",
+    "B06XWN1R4M",
+    "B074SM12RP",
+    "B07C4BD9JW",
+    "B08FRPL9DV"
+   ]
+  },
+  {
+   "query_id": 104776,
+   "query": "trailer roof vent",
+   "E": [
+    "B0050EEO94",
+    "B006O12YE4",
+    "B077NR88R9"
+   ],
+   "S": [
+    "B0731BPY3R"
+   ],
+   "C": [
+    "B0027XGMK0",
+    "B07LBBVPHM"
+   ],
+   "I": [
+    "B0006JLU1I",
+    "B000BUQODG",
+    "B000EDOSNI",
+    "B000UUMM6K",
+    "B0027XEKQ8",
+    "B002XL2I5E",
+    "B0030G7XWY",
+    "B007PRMRX4",
+    "B00VGQ7VFO",
+    "B07YN3R5JD"
+   ]
+  },
+  {
+   "query_id": 105098,
+   "query": "trayvax wallet",
+   "E": [
+    "B01LYNEMUF",
+    "B01M0SN1UN",
+    "B077JDWM68",
+    "B079Q32B9K",
+    "B07C4HH68Y"
+   ],
+   "S": [
+    "B0062YD3E8",
+    "B00CMPQFGE",
+    "B00HO02V1A",
+    "B00ICHL8JA",
+    "B01KOEPIT4"
+   ],
+   "C": [],
+   "I": [
+    "B079SMQPY1",
+    "B079SMT4BY",
+    "B079SRKQ7H",
+    "B079T58QYL",
+    "B079T65FH8",
+    "B07CPKRBNX"
+   ]
+  },
+  {
+   "query_id": 105281,
+   "query": "trimmer edger dual",
+   "E": [
+    "B006TLL1HA",
+    "B00JGUAP8W",
+    "B00TL72J2A",
+    "B01C5YWS3A",
+    "B01CA4PS8C",
+    "B01DGPH8M8",
+    "B01MZ78ADM",
+    "B07CH5Q661",
+    "B07KMQ8G2C",
+    "B07MVJW9RV",
+    "B07P9W68H7",
+    "B083BLY273"
+   ],
+   "S": [],
+   "C": [
+    "B004EPXI9C",
+    "B004EPXIA6",
+    "B01HI8P0T2"
+   ],
+   "I": [
+    "B00GRTQVRE"
+   ]
+  },
+  {
+   "query_id": 105398,
+   "query": "trotinette electric 10 yrs",
+   "E": [
+    "B002LZ7YAG",
+    "B012NOTP3I",
+    "B06VWPSS2Z",
+    "B078LW8RLP",
+    "B07D4FBL3M",
+    "B07DCNZK2P",
+    "B07DWVV2W1",
+    "B07DYG1C9B",
+    "B07NC5F8C1",
+    "B07PQ6NPB4",
+    "B07TT3QR71",
+    "B07Y4WH7Y2"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00B9IVRCW",
+    "B01255VU8I",
+    "B01FNVGKVI",
+    "B07CZ6CNRC"
+   ]
+  },
+  {
+   "query_id": 106131,
+   "query": "twitch prime",
+   "E": [
+    "1119540267",
+    "B074LZDJ23",
+    "B074LZKZ4S",
+    "B075VN9GQ9",
+    "B07V1ZYK9L",
+    "B07V39MLTB",
+    "B07V5Q4YRL",
+    "B07WSS7PFW"
+   ],
+   "S": [
+    "B074MRVTZ7",
+    "B07TZLH9QT",
+    "B07V1PS5CG",
+    "B07VVSBRXZ",
+    "B07WNKWJPV",
+    "B07WTKR9R4",
+    "B07Z5CL1J9"
+   ],
+   "C": [],
+   "I": [
+    "B01I2N6DHU",
+    "B073TBPNV8",
+    "B07GQNXVQG",
+    "B07MNL3H3B",
+    "B07V1KK11Z",
+    "B07VVF68FN",
+    "B07VWZ1TVR",
+    "B07VXCHG77",
+    "B0893JQ2X2"
+   ]
+  },
+  {
+   "query_id": 107724,
+   "query": "valentine cards for kids school",
+   "E": [
+    "B07X3BGYL7",
+    "B07X4GR98N",
+    "B07X4GTLDL",
+    "B07XLVBNKY",
+    "B07YD31CNH",
+    "B07Z8RXY5G",
+    "B081RTVH87",
+    "B0824GMB22",
+    "B082J4CL9F",
+    "B082SM14SS",
+    "B082VJJY4S"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B07JVHP3QD",
+    "B0823XDNPY",
+    "B0827FLJH5",
+    "B082C62TVJ",
+    "B082SLGKG1"
+   ]
+  },
+  {
+   "query_id": 108083,
+   "query": "vegetable microwave steamer",
+   "E": [
+    "B000WIQHPM",
+    "B005D6Y0I4",
+    "B00BTIVNT4",
+    "B00TTZGPO2",
+    "B01AGZD3X4",
+    "B06XTX2VPP",
+    "B07D4PLNW6",
+    "B07FMSFL6H",
+    "B07NPTCKL4"
+   ],
+   "S": [
+    "B00519EDIA",
+    "B00DPX8UBA",
+    "B00MA34AB0",
+    "B016Y8JSK4",
+    "B076BQQFPT",
+    "B07G5ZTKVQ"
+   ],
+   "C": [],
+   "I": [
+    "B009QU375K"
+   ]
+  },
+  {
+   "query_id": 108165,
+   "query": "velvet underwear women",
+   "E": [
+    "B075SX4MM4",
+    "B07F7GZXYH"
+   ],
+   "S": [
+    "B00TF4UD68",
+    "B015HH3IW2",
+    "B06XKD7HLT",
+    "B077CMQG6Z",
+    "B07842Z9R7",
+    "B0784MSYZ6",
+    "B07JXX3DDV",
+    "B07K6PJLVW",
+    "B07MXHZ4CB",
+    "B07PK1YJ1Y",
+    "B07ZL3NHG9"
+   ],
+   "C": [],
+   "I": [
+    "B078H6VFY5",
+    "B07H7WHYMN"
+   ]
+  },
+  {
+   "query_id": 109940,
+   "query": "water flavoring packets without aspartame",
+   "E": [
+    "B001E52U76",
+    "B0029JZMT4",
+    "B003YP3MUS",
+    "B004RZ63KK",
+    "B005LURBFQ",
+    "B0070AJMFC",
+    "B00B0455BE",
+    "B00BBJTBE0",
+    "B00CJQE7UM",
+    "B00CQ7OUCE",
+    "B00KSLBWJ4",
+    "B00O5F26QW",
+    "B0125PBUXI",
+    "B01D1FUAAK",
+    "B01D7THLF2",
+    "B01EZ2OKOK",
+    "B01FJDQYDE",
+    "B01FY2PP12",
+    "B06VT923LQ",
+    "B06XD8N222",
+    "B0774XFLBC",
+    "B077FFV72N",
+    "B0781VSS63",
+    "B07GBJ536F",
+    "B07YRX3CMN",
+    "B083XQYKCD",
+    "B093QPT9WY",
+    "B0949TM9D2"
+   ],
+   "S": [
+    "B001EQ5SEC",
+    "B00X4YX3PS",
+    "B01N397IHY",
+    "B0789FRV55",
+    "B07WZFVC2N",
+    "B083V6QVR6",
+    "B084C2P28H",
+    "B088P8VWPQ"
+   ],
+   "C": [],
+   "I": [
+    "B005DM3N2M",
+    "B00JB13A38",
+    "B072JXD7XY",
+    "B08CTL5NQK"
+   ]
+  },
+  {
+   "query_id": 111888,
+   "query": "windshield washer tablets 100 pcs",
+   "E": [
+    "B00VSTMTI8",
+    "B07XGC3ZW2"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B009FUF6DM",
+    "B00CMOYUFS",
+    "B00MC56AXM",
+    "B01MFER4XH",
+    "B0797RHCN7",
+    "B07GFQ7S8B"
+   ]
+  },
+  {
+   "query_id": 113446,
+   "query": "wonder the movie",
+   "E": [
+    "B005HTQJMC",
+    "B072PQJKYH",
+    "B0786XVYPS",
+    "B07VS59R2S",
+    "B089YDXZD2"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B006GM0OCK",
+    "B00BHU9I50",
+    "B00KAUD0GQ",
+    "B06XQ3JY74",
+    "B06XY26W35",
+    "B06Y615DMR",
+    "B06Y6C6XGH",
+    "B075FDNNDJ",
+    "B07PKRLYLQ",
+    "B07SR736XB",
+    "B089DNK14F"
+   ]
+  },
+  {
+   "query_id": 113786,
+   "query": "woreless chargers for andriods",
+   "E": [
+    "B07423ML57",
+    "B0753Z4PGC",
+    "B079L4TRW1",
+    "B07RX3JWSB",
+    "B07THHQMHM",
+    "B0814NFLWY",
+    "B083LYLRF6",
+    "B083NCP41Z"
+   ],
+   "S": [],
+   "C": [],
+   "I": [
+    "B00Z9QVE4Q",
+    "B07214QNQX",
+    "B07K73WPS7",
+    "B07P7N6JPJ",
+    "B07RDLBHGC",
+    "B07SL5K74Z",
+    "B07VL4H3Y5",
+    "B07XK1JSNZ"
+   ]
+  },
+  {
+   "query_id": 114173,
+   "query": "x case firebox",
+   "E": [
+    "B004FORBX6",
+    "B008HZUI1G",
+    "B07M9WBTN5",
+    "B07NHRG46N",
+    "B08KZQY3DR",
+    "B08VGG8YC6",
+    "B09172SB1H",
+    "B097LPF3SK",
+    "B09928S22Z"
+   ],
+   "S": [
+    "B07PZ7G628",
+    "B07RGL2W87",
+    "B084JMGBH6",
+    "B085BL9XW2",
+    "B08ZRTJ99G",
+    "B097DY96FC"
+   ],
+   "C": [
+    "B08BYZZCRL"
+   ],
+   "I": [
+    "B004FORBWW",
+    "B004QWZIMI",
+    "B00BTMU8VY",
+    "B00BTN1SHQ",
+    "B00CSMVA4S",
+    "B00DUGZFA6",
+    "B00KOO594O",
+    "B00R92CL5E",
+    "B074S2H4H9",
+    "B07P2WB48X",
+    "B07QS2GSBC",
+    "B07SPZ93V5",
+    "B07TC2YCBD",
+    "B07W67ZHV6",
+    "B07XTQY1Y4",
+    "B07YKGVDNR",
+    "B07ZT7TG54",
+    "B08D6HHHNC",
+    "B094VLY7F6",
+    "B096M5WX23",
+    "B09BJLC7HK"
+   ]
+  },
+  {
+   "query_id": 114213,
+   "query": "x570 strix wifi",
+   "E": [
+    "B07STNZF9L",
+    "B07SW8DQVL",
+    "B07SXDR2LJ",
+    "B07SXF8GY3",
+    "B07T2FWCYG",
+    "B07T4M3RTR",
+    "B07T9PC9ZZ",
+    "B07Y2PZTQ5"
+   ],
+   "S": [
+    "B07SZXBTNW",
+    "B07WL5MFXL",
+    "B089D34SZT",
+    "B08F9LP42S",
+    "B08F9VP2RC",
+    "B08JWMPVD9",
+    "B08T6HTXF9"
+   ],
+   "C": [],
+   "I": [
+    "B088VSTS9H"
+   ]
+  },
+  {
+   "query_id": 114769,
+   "query": "yard mosquito killer",
+   "E": [
+    "B076X8P5FG",
+    "B076X8YPSL",
+    "B07T7WD9GZ"
+   ],
+   "S": [
+    "B076X96RZ5",
+    "B07T7YY34Q"
+   ],
+   "C": [],
+   "I": [
+    "B07Q5Y3Z24",
+    "B07QC4VYNP",
+    "B07QD3H5QN",
+    "B07QF685Y2",
+    "B07QG747VM",
+    "B07X8PCMGW"
+   ]
+  },
+  {
+   "query_id": 115158,
+   "query": "your zone",
+   "E": [
+    "B0096DPCYQ",
+    "B009WXBQHC",
+    "B00L6YW0YI",
+    "B00L6YW0YS",
+    "B00OFU2LLC",
+    "B00OTRMOD6",
+    "B01CSV0IVO",
+    "B01DKY63RQ",
+    "B01HK3MHUK",
+    "B01M9E7FMZ",
+    "B01N3JVUXE",
+    "B01N4HQW3G",
+    "B06X3WZBKV",
+    "B07WKHJ38R"
+   ],
+   "S": [
+    "B06XC81Q3L"
+   ],
+   "C": [],
+   "I": [
+    "0060919760"
+   ]
+  },
+  {
+   "query_id": 115821,
+   "query": "zokea night light",
+   "E": [
+    "B01N47M3V0",
+    "B07BNBTCSF",
+    "B07BNF94J5",
+    "B07BNHCV21",
+    "B07C91SBPK",
+    "B07NTJ7X7R",
+    "B07PGTNPY3",
+    "B07PKPP4NB",
+    "B07VHN8H8R",
+    "B07WZMT4S5",
+    "B07YZNN6C9",
+    "B08TWX9NLT",
+    "B091T5YV1Y"
+   ],
+   "S": [
+    "B00RE0M1O2",
+    "B01C634M98",
+    "B06XMRCC94",
+    "B073R88RYK",
+    "B07KWL2T1J",
+    "B07L8R5PK6",
+    "B07M5DJ619",
+    "B07PHY7334",
+    "B07PVG7N4K",
+    "B07QXMXWFN",
+    "B07R4GCH7G",
+    "B07TP7596Q",
+    "B07TR4XKPD",
+    "B07YFG1R96",
+    "B07ZJG21XP",
+    "B082319CWJ",
+    "B085TPSSMG",
+    "B086LFS3VQ",
+    "B088GPRPL2",
+    "B088TTP17M",
+    "B08DHVFDHT",
+    "B08JYTPNZG",
+    "B08Z8B1SH5",
+    "B0922MSSYP",
+    "B095SB3MBF",
+    "B097C89SFM"
+   ],
+   "C": [],
+   "I": [
+    "B07NF4P12L"
+   ]
+  }
+ ]
+}

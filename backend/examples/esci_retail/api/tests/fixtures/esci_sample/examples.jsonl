@@ -1,0 +1,46 @@
+{"example_id": 1, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0001", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 2, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0002", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 3, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0005", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 4, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0003", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 5, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0004", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 6, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0006", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 7, "query": "programmable drip coffee maker", "query_id": 2, "product_id": "B0TEST0007", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 8, "query": "programmable drip coffee maker", "query_id": 2, "product_id": "B0TEST0008", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 9, "query": "programmable drip coffee maker", "query_id": 2, "product_id": "B0TEST0009", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 10, "query": "programmable drip coffee maker", "query_id": 2, "product_id": "B0TEST0012", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 11, "query": "programmable drip coffee maker", "query_id": 2, "product_id": "B0TEST0010", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 12, "query": "programmable drip coffee maker", "query_id": 2, "product_id": "B0TEST0011", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 13, "query": "womens running shoes black", "query_id": 3, "product_id": "B0TEST0013", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 14, "query": "womens running shoes black", "query_id": 3, "product_id": "B0TEST0014", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 15, "query": "womens running shoes black", "query_id": 3, "product_id": "B0TEST0015", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 16, "query": "womens running shoes black", "query_id": 3, "product_id": "B0TEST0016", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 17, "query": "womens running shoes black", "query_id": 3, "product_id": "B0TEST0018", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 18, "query": "womens running shoes black", "query_id": 3, "product_id": "B0TEST0017", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 19, "query": "large orthopedic dog bed", "query_id": 4, "product_id": "B0TEST0019", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 20, "query": "large orthopedic dog bed", "query_id": 4, "product_id": "B0TEST0022", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 21, "query": "large orthopedic dog bed", "query_id": 4, "product_id": "B0TEST0020", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 22, "query": "large orthopedic dog bed", "query_id": 4, "product_id": "B0TEST0021", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 23, "query": "large orthopedic dog bed", "query_id": 4, "product_id": "B0TEST0023", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 24, "query": "large orthopedic dog bed", "query_id": 4, "product_id": "B0TEST0034", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 25, "query": "noise cancelling headphones", "query_id": 5, "product_id": "B0TEST0024", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 26, "query": "noise cancelling headphones", "query_id": 5, "product_id": "B0TEST0025", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 27, "query": "noise cancelling headphones", "query_id": 5, "product_id": "B0TEST0026", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 28, "query": "noise cancelling headphones", "query_id": 5, "product_id": "B0TEST0027", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 29, "query": "noise cancelling headphones", "query_id": 5, "product_id": "B0TEST0028", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 30, "query": "yoga mat non slip", "query_id": 6, "product_id": "B0TEST0029", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 31, "query": "yoga mat non slip", "query_id": 6, "product_id": "B0TEST0030", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 32, "query": "yoga mat non slip", "query_id": 6, "product_id": "B0TEST0031", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 33, "query": "yoga mat non slip", "query_id": 6, "product_id": "B0TEST0032", "product_locale": "us", "esci_label": "C", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 34, "query": "yoga mat non slip", "query_id": 6, "product_id": "B0TEST0033", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 35, "query": "pistol holster right hand", "query_id": 7, "product_id": "B0TEST0034", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 36, "query": "pistol holster right hand", "query_id": 7, "product_id": "B0TEST0036", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 37, "query": "colchoneta de yoga para mujer", "query_id": 8, "product_id": "B0TEST0029", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 38, "query": "colchoneta de yoga para mujer", "query_id": 8, "product_id": "B0TEST0030", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 39, "query": "colchoneta de yoga para mujer", "query_id": 8, "product_id": "B0TEST0033", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 40, "query": "kids water bottle", "query_id": 9, "product_id": "B0TEST0036", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 41, "query": "kids water bottle", "query_id": 9, "product_id": "B0TEST0033", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "train"}
+{"example_id": 42, "query": "electric kettle", "query_id": 10, "product_id": "B0TEST0035", "product_locale": "us", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 43, "query": "electric kettle", "query_id": 10, "product_id": "B0TEST0012", "product_locale": "us", "esci_label": "S", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 44, "query": "electric kettle", "query_id": 10, "product_id": "B0TEST0033", "product_locale": "us", "esci_label": "I", "small_version": 1, "large_version": 1, "split": "test"}
+{"example_id": 45, "query": "lightweight 2 person backpacking tent", "query_id": 1, "product_id": "B0TEST0033", "product_locale": "us", "esci_label": "I", "small_version": 0, "large_version": 1, "split": "train"}
+{"example_id": 46, "query": "tienda de campaña", "query_id": 11, "product_id": "B0TEST0001", "product_locale": "es", "esci_label": "E", "small_version": 1, "large_version": 1, "split": "train"}

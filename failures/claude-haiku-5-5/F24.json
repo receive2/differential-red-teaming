@@ -1,0 +1,104 @@
+{
+ "feature": "F24",
+ "subject_model": "claude-haiku-5-5",
+ "thinking": "low",
+ "world": "wands-stock-ignore",
+ "cases": [
+  {
+   "id": "f24-fail-1",
+   "cart": [
+    {
+     "product_id": "B0WF004821",
+     "title": "Black + Decker Single Serve Coffee Maker"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Is the coffee maker in my cart in stock at the Springfield showroom?",
+     "reply": "I couldn't find a Springfield showroom in the options for this item. The only pickup option returned is ACME Home Maple Heights, free, ready today by 12 PM. Delivery is also available: standard in 3-5 business days at no charge, or express in 2 business days for $9.99.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B0WF004821\"]}",
+      "present_suggestions {\"suggestions\": [\"Check out with pickup at Maple Heights\", \"Check out with standard delivery\", \"Show me other coffee makers\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked whether the Springfield showroom has the product in stock. The assistant did not answer for that showroom."
+  },
+  {
+   "id": "f24-fail-2",
+   "cart": [
+    {
+     "product_id": "B0WF008300",
+     "title": "Braunste Eclectic Wall Mirror"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Does the Harborview showroom have the wall mirror in my cart?",
+     "reply": "I can't confirm stock at a Harborview showroom. The only pickup option I can see for the Braunste Eclectic Wall Mirror is ACME Home Maple Heights, free and ready today by 12 PM. Delivery is also available: express in 2 business days for $9.99, or standard in 3-5 business days for $5.99.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B0WF008300\"]}",
+      "present_suggestions {\"suggestions\": [\"Check out with pickup at Maple Heights\", \"Check out with standard delivery\", \"Show me other wall mirrors\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked whether the Harborview showroom has the product in stock. The assistant did not answer for that showroom."
+  },
+  {
+   "id": "f24-fail-3",
+   "cart": [
+    {
+     "product_id": "B0WF028903",
+     "title": "Tanmay Bohemian Duvet Cover Set"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "Can I pick up the duvet cover set in my cart at the Ridgewood showroom today? Is it in stock there?",
+     "reply": "I couldn't find a pickup option at the Ridgewood showroom. The only pickup option for this duvet cover is ACME Home Maple Heights, free and ready today by 12 PM. I can't confirm stock at Ridgewood from here.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B0WF028903\"]}",
+      "present_suggestions {\"suggestions\": [\"Check out with pickup at Maple Heights\", \"Show standard delivery options\", \"Keep shopping for bedding\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked whether the Ridgewood showroom has the product in stock. The assistant did not answer for that showroom."
+  },
+  {
+   "id": "f24-fail-4",
+   "cart": [
+    {
+     "product_id": "B0WF003776",
+     "title": "L-Shaped Marble Style Ceramic Bookends"
+    }
+   ],
+   "seen_products": [],
+   "turns": [
+    {
+     "customer": "I'm near the Cedar Park showroom. Do they have the bookends in my cart?",
+     "reply": "The bookends in your cart can't be picked up at a Cedar Park location. The only pickup option I can see is ACME Home Maple Heights, free and ready today by 12 PM. Delivery is also available: express in 2 business days for $9.99, or standard in 3-5 business days for $5.99.",
+     "tools": [
+      "get_fulfillment_options {\"product_ids\": [\"B0WF003776\"]}",
+      "present_suggestions {\"suggestions\": [\"Choose pickup at Maple Heights\", \"Choose express delivery\", \"Show me other bookends\", \"Start checkout\"]}"
+     ],
+     "components": [
+      "suggestions"
+     ]
+    }
+   ],
+   "reason": "The customer asked whether the Cedar Park showroom has the product in stock. The assistant did not answer for that showroom."
+  }
+ ]
+}

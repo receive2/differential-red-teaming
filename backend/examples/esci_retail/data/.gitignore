@@ -1,0 +1,5 @@
+# Built from the ESCI parquet files by `python -m esci_retail.pipeline`; see ../README.md.
+raw/
+catalog.sqlite
+.memory-store.json
+.memory-seeded.json
